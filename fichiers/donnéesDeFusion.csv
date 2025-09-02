@@ -1,0 +1,1471 @@
+a_quitte_l_entreprise,nombre_participation_pee,nb_formations_suivies,distance_domicile_travail,niveau_education,domaine_etude,frequence_deplacement,annees_depuis_la_derniere_promotion,satisfaction_employee_environnement,note_evaluation_precedente,niveau_hierarchique_poste,satisfaction_employee_nature_travail,satisfaction_employee_equipe,satisfaction_employee_equilibre_pro_perso,note_evaluation_actuelle,heure_supplementaires,age,statut_marital,departement,poste,nombre_experiences_precedentes,annees_dans_l_entreprise,target
+Oui,0,0,1,2,Infra & Cloud,Occasionnel,0,2,3,2,4,1,1,3,Oui,41,Célibataire,Commercial,Cadre Commercial,8,6,1
+Non,1,3,8,1,Infra & Cloud,Frequent,1,3,2,2,2,4,3,4,Non,49,Marié(e),Consulting,Assistant de Direction,1,10,0
+Oui,0,3,2,2,Autre,Occasionnel,0,4,2,1,3,2,3,3,Oui,37,Célibataire,Consulting,Consultant,6,0,1
+Non,0,3,3,4,Infra & Cloud,Frequent,3,4,3,1,3,3,3,3,Oui,33,Marié(e),Consulting,Assistant de Direction,1,8,0
+Non,1,3,2,1,Transformation Digitale,Occasionnel,2,1,3,1,2,4,3,3,Non,27,Marié(e),Consulting,Consultant,9,2,0
+Non,0,2,2,2,Infra & Cloud,Frequent,3,4,3,1,4,3,2,3,Non,32,Célibataire,Consulting,Consultant,0,7,0
+Non,3,3,3,3,Transformation Digitale,Occasionnel,0,3,4,1,1,1,2,4,Oui,59,Marié(e),Consulting,Consultant,4,1,0
+Non,1,2,24,1,Infra & Cloud,Occasionnel,0,4,3,1,3,2,3,4,Non,30,Divorcé(e),Consulting,Consultant,1,1,0
+Non,0,2,23,3,Infra & Cloud,Frequent,1,4,2,3,3,2,3,4,Non,38,Célibataire,Consulting,Tech Lead,0,9,0
+Non,2,3,27,3,Transformation Digitale,Occasionnel,7,3,3,2,3,2,2,3,Non,36,Marié(e),Consulting,Manager,6,7,0
+Non,1,5,16,3,Transformation Digitale,Occasionnel,0,1,4,1,2,3,3,3,Non,35,Marié(e),Consulting,Consultant,0,5,0
+Non,0,3,15,2,Infra & Cloud,Occasionnel,0,4,2,2,3,4,3,3,Oui,29,Célibataire,Consulting,Consultant,0,9,0
+Non,1,1,26,1,Infra & Cloud,Occasionnel,4,1,3,1,3,4,2,3,Non,31,Divorcé(e),Consulting,Assistant de Direction,1,5,0
+Non,1,2,19,2,Transformation Digitale,Occasionnel,1,2,3,1,4,3,3,3,Non,34,Divorcé(e),Consulting,Consultant,0,2,0
+Oui,0,4,24,3,Infra & Cloud,Occasionnel,0,3,2,1,3,2,3,3,Oui,28,Célibataire,Consulting,Consultant,5,4,1
+Non,1,1,21,4,Infra & Cloud,Occasionnel,8,2,4,3,1,3,3,3,Non,29,Divorcé(e),Consulting,Tech Lead,1,10,0
+Non,2,5,5,2,Infra & Cloud,Occasionnel,0,1,4,1,2,4,2,3,Oui,32,Divorcé(e),Consulting,Assistant de Direction,0,6,0
+Non,2,2,16,2,Transformation Digitale,Aucun,0,4,4,1,4,2,2,3,Oui,22,Divorcé(e),Consulting,Consultant,1,1,0
+Non,0,3,2,4,Infra & Cloud,Occasionnel,3,1,2,4,4,3,3,3,Non,53,Marié(e),Commercial,Senior Manager,2,25,0
+Non,0,3,2,3,Infra & Cloud,Occasionnel,1,4,3,1,4,3,3,3,Oui,38,Célibataire,Consulting,Assistant de Direction,5,3,0
+Non,1,5,11,2,Autre,Aucun,1,1,4,2,3,4,2,3,Non,24,Divorcé(e),Consulting,Tech Lead,0,4,0
+Oui,0,4,9,4,Infra & Cloud,Occasionnel,0,3,2,1,1,2,3,4,Non,36,Célibataire,Commercial,Représentant Commercial,7,5,1
+Non,0,4,7,4,Infra & Cloud,Occasionnel,2,1,3,3,2,3,3,3,Non,34,Célibataire,Consulting,Directeur Technique,0,12,0
+Non,0,6,15,2,Infra & Cloud,Occasionnel,0,3,3,1,4,4,3,3,Non,21,Célibataire,Consulting,Assistant de Direction,1,0,0
+Oui,0,2,6,1,Transformation Digitale,Occasionnel,1,2,3,1,1,3,3,3,Non,34,Célibataire,Consulting,Assistant de Direction,2,4,1
+Non,1,3,5,3,Autre,Occasionnel,4,3,3,5,3,4,2,3,Non,53,Divorcé(e),Consulting,Senior Manager,4,14,0
+Oui,0,5,16,1,Infra & Cloud,Frequent,6,2,1,1,1,2,3,4,Oui,32,Célibataire,Consulting,Assistant de Direction,1,10,1
+Non,1,2,8,4,Marketing,Occasionnel,4,3,3,2,2,4,3,3,Non,42,Marié(e),Commercial,Cadre Commercial,0,9,0
+Non,1,4,7,4,Transformation Digitale,Occasionnel,5,1,2,3,4,4,3,3,Non,44,Marié(e),Consulting,Manager,3,22,0
+Non,0,2,2,4,Marketing,Occasionnel,2,2,3,5,1,4,2,3,Non,46,Célibataire,Commercial,Senior Manager,3,2,0
+Non,0,3,2,3,Transformation Digitale,Occasionnel,0,3,3,1,4,4,3,3,Non,33,Célibataire,Consulting,Consultant,4,1,0
+Non,0,5,10,4,Autre,Occasionnel,1,4,3,2,4,4,4,3,Oui,44,Marié(e),Consulting,Manager,2,4,0
+Non,0,5,9,2,Transformation Digitale,Occasionnel,1,4,2,1,3,1,3,3,Non,30,Célibataire,Consulting,Consultant,1,10,0
+Oui,1,6,5,3,Entrepreunariat,Occasionnel,0,4,3,2,4,3,4,3,Non,39,Marié(e),Commercial,Représentant Commercial,3,1,1
+Oui,1,2,1,3,Transformation Digitale,Occasionnel,2,2,3,1,4,1,2,3,Oui,24,Marié(e),Consulting,Assistant de Direction,2,2,1
+Non,2,3,2,2,Transformation Digitale,Occasionnel,1,4,4,1,3,4,2,3,Non,43,Divorcé(e),Consulting,Assistant de Direction,1,5,0
+Oui,0,2,3,2,Marketing,Occasionnel,0,1,2,1,3,3,3,3,Oui,50,Marié(e),Commercial,Représentant Commercial,1,3,1
+Non,0,3,2,3,Marketing,Occasionnel,2,4,3,1,4,1,3,3,Non,35,Marié(e),Commercial,Représentant Commercial,1,2,0
+Non,1,3,5,4,Infra & Cloud,Occasionnel,0,2,2,1,1,4,4,3,Oui,36,Marié(e),Consulting,Assistant de Direction,9,1,0
+Non,2,3,1,3,Infra & Cloud,Frequent,1,3,4,2,1,1,3,3,Non,33,Marié(e),Commercial,Cadre Commercial,2,5,0
+Non,1,3,4,2,Autre,Occasionnel,0,3,3,1,4,3,3,3,Non,35,Divorcé(e),Consulting,Consultant,1,1,0
+Non,1,6,2,4,Infra & Cloud,Occasionnel,0,4,3,1,1,4,3,3,Non,27,Divorcé(e),Consulting,Consultant,1,1,0
+Oui,0,2,25,3,Infra & Cloud,Occasionnel,0,1,1,1,3,3,2,3,Non,26,Célibataire,Consulting,Consultant,1,1,1
+Non,0,0,8,3,Infra & Cloud,Frequent,1,4,3,3,3,4,3,3,Non,27,Célibataire,Commercial,Cadre Commercial,1,9,0
+Non,0,2,1,2,Transformation Digitale,Frequent,3,3,3,2,4,4,3,4,Non,30,Célibataire,Consulting,Consultant,1,12,0
+Oui,0,0,12,3,Entrepreunariat,Occasionnel,15,2,3,5,3,4,3,3,Non,41,Marié(e),Consulting,Directeur Technique,1,22,1
+Non,0,2,23,4,Marketing,Aucun,8,2,3,2,3,3,3,4,Non,34,Célibataire,Commercial,Cadre Commercial,0,9,0
+Non,0,1,19,2,Infra & Cloud,Occasionnel,0,2,3,1,2,1,3,4,Non,37,Marié(e),Consulting,Assistant de Direction,4,1,0
+Non,0,4,5,4,Marketing,Frequent,0,1,3,2,4,3,3,4,Oui,46,Célibataire,Commercial,Cadre Commercial,4,9,0
+Non,0,2,8,1,Infra & Cloud,Occasionnel,0,4,4,1,4,4,3,3,Non,35,Marié(e),Consulting,Consultant,1,1,0
+Oui,0,2,1,2,Infra & Cloud,Occasionnel,0,1,2,3,3,4,3,3,Oui,48,Célibataire,Consulting,Consultant,9,1,1
+Oui,0,3,5,4,Entrepreunariat,Occasionnel,2,3,3,1,3,3,2,3,Oui,28,Célibataire,Consulting,Consultant,1,2,1
+Non,1,2,1,5,Marketing,Occasionnel,1,2,3,2,1,3,2,4,Oui,44,Divorcé(e),Commercial,Cadre Commercial,5,4,0
+Non,1,3,11,2,Transformation Digitale,Aucun,2,3,2,3,1,3,3,3,Oui,35,Marié(e),Consulting,Manager,2,4,0
+Non,1,2,23,3,Marketing,Occasionnel,0,3,2,2,4,3,2,3,Oui,26,Marié(e),Commercial,Cadre Commercial,7,2,0
+Non,0,1,1,2,Infra & Cloud,Frequent,8,1,3,3,4,3,3,3,Oui,33,Célibataire,Consulting,Directeur Technique,1,15,0
+Non,1,3,18,5,Infra & Cloud,Frequent,1,2,3,3,1,4,2,4,Non,35,Marié(e),Commercial,Cadre Commercial,1,9,0
+Non,1,3,23,4,Transformation Digitale,Occasionnel,2,3,3,1,1,3,3,3,Oui,35,Marié(e),Consulting,Consultant,3,2,0
+Non,1,3,7,4,Infra & Cloud,Occasionnel,1,4,3,2,4,4,2,4,Non,31,Divorcé(e),Consulting,Consultant,3,7,0
+Non,1,2,1,4,Infra & Cloud,Occasionnel,0,1,2,2,3,3,4,3,Non,37,Divorcé(e),Consulting,Tech Lead,1,7,0
+Non,1,3,1,3,Transformation Digitale,Occasionnel,7,1,3,2,4,2,3,4,Oui,32,Marié(e),Consulting,Tech Lead,1,9,0
+Non,0,2,29,5,Infra & Cloud,Frequent,9,4,3,2,4,4,3,3,Non,38,Célibataire,Consulting,Consultant,1,10,0
+Non,1,2,7,2,Transformation Digitale,Occasionnel,13,2,2,5,3,4,2,3,Oui,50,Divorcé(e),Consulting,Directeur Technique,5,27,0
+Non,0,3,25,3,Infra & Cloud,Occasionnel,7,1,3,3,1,4,2,3,Non,59,Célibataire,Commercial,Cadre Commercial,7,21,0
+Non,3,2,8,3,Entrepreunariat,Occasionnel,12,3,3,3,3,2,3,3,Non,36,Divorcé(e),Consulting,Manager,1,17,0
+Non,3,2,8,3,Transformation Digitale,Occasionnel,0,4,3,4,3,3,3,3,Oui,55,Divorcé(e),Consulting,Senior Manager,2,5,0
+Non,0,3,11,3,Infra & Cloud,Frequent,0,2,2,2,2,3,3,3,Non,36,Célibataire,Consulting,Tech Lead,1,6,0
+Non,1,2,7,3,Infra & Cloud,Occasionnel,0,2,3,3,1,3,3,3,Non,45,Divorcé(e),Consulting,Assistant de Direction,2,1,0
+Non,1,2,1,3,Transformation Digitale,Frequent,1,2,3,1,1,4,2,3,Non,35,Marié(e),Consulting,Assistant de Direction,4,3,0
+Oui,1,0,9,3,Transformation Digitale,Occasionnel,0,4,2,1,3,1,2,3,Oui,36,Marié(e),Consulting,Assistant de Direction,0,1,1
+Non,0,2,1,1,Infra & Cloud,Frequent,1,1,2,2,3,4,2,3,Non,59,Célibataire,Commercial,Cadre Commercial,7,4,0
+Non,1,3,2,3,Infra & Cloud,Occasionnel,0,3,3,1,2,4,3,4,Non,29,Marié(e),Consulting,Assistant de Direction,0,5,0
+Non,0,4,1,4,Transformation Digitale,Occasionnel,1,3,3,1,2,2,3,3,Non,31,Célibataire,Consulting,Assistant de Direction,1,1,0
+Non,2,3,1,3,Infra & Cloud,Occasionnel,0,2,3,2,2,2,3,3,Non,32,Marié(e),Consulting,Assistant de Direction,1,10,0
+Non,0,3,6,3,Infra & Cloud,Occasionnel,0,2,4,1,4,2,3,3,Non,36,Marié(e),Consulting,Consultant,3,1,0
+Non,0,2,8,4,Infra & Cloud,Occasionnel,1,3,3,2,4,4,3,4,Non,31,Célibataire,Consulting,Tech Lead,1,11,0
+Non,0,2,1,4,Marketing,Occasionnel,2,3,2,2,1,2,3,3,Non,35,Célibataire,Commercial,Cadre Commercial,0,15,0
+Non,0,3,6,4,Autre,Occasionnel,0,4,3,3,1,2,4,3,Oui,45,Marié(e),Consulting,Directeur Technique,4,0,0
+Non,0,3,7,4,Transformation Digitale,Occasionnel,0,1,3,3,3,1,4,3,Non,37,Célibataire,Consulting,Directeur Technique,4,5,0
+Non,1,2,5,2,Transformation Digitale,Occasionnel,0,2,3,2,2,4,3,4,Oui,46,Divorcé(e),Ressources Humaines,Ressources Humaines,8,4,0
+Non,2,1,1,1,Infra & Cloud,Occasionnel,3,4,2,2,4,3,2,3,Oui,30,Marié(e),Consulting,Consultant,1,10,0
+Non,0,3,1,3,Transformation Digitale,Occasionnel,0,2,2,1,3,1,3,3,Non,35,Célibataire,Consulting,Assistant de Direction,1,6,0
+Non,1,4,1,2,Infra & Cloud,Occasionnel,1,1,3,3,4,4,3,3,Non,55,Marié(e),Commercial,Cadre Commercial,3,1,0
+Non,3,3,6,3,Transformation Digitale,Aucun,1,2,1,2,4,4,3,3,Oui,38,Divorcé(e),Consulting,Assistant de Direction,7,13,0
+Non,0,2,1,2,Transformation Digitale,Occasionnel,1,1,3,2,2,3,3,3,Non,34,Marié(e),Consulting,Tech Lead,1,5,0
+Non,0,3,7,3,Infra & Cloud,Occasionnel,0,4,1,3,4,1,2,3,Non,56,Célibataire,Consulting,Tech Lead,4,6,0
+Non,1,3,2,1,Entrepreunariat,Occasionnel,0,3,3,1,1,3,3,3,Non,23,Divorcé(e),Commercial,Représentant Commercial,3,0,0
+Non,2,4,9,4,Infra & Cloud,Occasionnel,0,4,3,1,4,2,3,4,Non,51,Marié(e),Consulting,Consultant,3,4,0
+Non,3,3,2,3,Infra & Cloud,Occasionnel,10,3,2,2,4,1,3,3,Non,30,Marié(e),Consulting,Manager,1,11,0
+Oui,0,3,9,2,Transformation Digitale,Occasionnel,4,3,2,3,4,4,3,3,Non,46,Célibataire,Commercial,Cadre Commercial,1,9,1
+Non,1,3,1,4,Infra & Cloud,Frequent,11,3,2,4,2,4,2,4,Non,40,Marié(e),Consulting,Manager,1,22,0
+Non,0,2,21,4,Marketing,Occasionnel,1,3,3,2,4,4,1,4,Oui,51,Célibataire,Commercial,Cadre Commercial,0,10,0
+Non,3,4,4,2,Transformation Digitale,Occasionnel,2,3,2,2,2,2,2,3,Oui,30,Divorcé(e),Commercial,Cadre Commercial,1,11,0
+Non,1,5,1,3,Transformation Digitale,Frequent,9,3,2,3,1,3,2,3,Oui,46,Marié(e),Consulting,Manager,2,10,0
+Non,0,0,6,4,Transformation Digitale,Occasionnel,5,2,3,2,3,1,3,3,Non,32,Célibataire,Commercial,Cadre Commercial,1,11,0
+Non,1,5,2,4,Entrepreunariat,Occasionnel,0,1,3,3,3,1,1,3,Non,54,Marié(e),Consulting,Directeur Technique,9,4,0
+Non,1,2,3,2,Autre,Occasionnel,0,1,3,2,3,1,2,4,Non,24,Marié(e),Commercial,Cadre Commercial,0,3,0
+Non,0,3,4,3,Transformation Digitale,Aucun,0,2,3,2,3,2,4,3,Non,28,Marié(e),Commercial,Cadre Commercial,1,5,0
+Non,0,1,10,4,Transformation Digitale,Occasionnel,1,4,3,4,3,3,2,3,Non,58,Célibataire,Commercial,Cadre Commercial,0,37,0
+Non,1,3,23,3,Transformation Digitale,Aucun,1,2,3,2,2,3,4,3,Non,44,Marié(e),Consulting,Consultant,4,3,0
+Oui,0,3,6,4,Ressources Humaines,Occasionnel,0,3,3,1,1,4,3,4,Oui,37,Divorcé(e),Ressources Humaines,Ressources Humaines,4,3,1
+Non,0,2,1,1,Infra & Cloud,Occasionnel,0,4,3,1,1,4,3,3,Non,32,Célibataire,Consulting,Assistant de Direction,1,1,0
+Oui,0,5,6,3,Infra & Cloud,Frequent,1,4,2,1,4,2,3,3,Oui,20,Célibataire,Consulting,Consultant,1,1,1
+Non,0,3,6,4,Autre,Occasionnel,2,1,3,2,3,3,3,3,Non,34,Célibataire,Consulting,Assistant de Direction,1,16,0
+Non,1,2,2,2,Infra & Cloud,Aucun,0,3,2,2,4,4,4,3,Non,37,Divorcé(e),Consulting,Manager,5,1,0
+Non,1,3,2,4,Ressources Humaines,Aucun,2,3,2,5,4,4,3,4,Non,59,Marié(e),Ressources Humaines,Senior Manager,9,3,0
+Non,0,1,1,3,Infra & Cloud,Frequent,0,1,3,5,2,1,2,3,Oui,50,Marié(e),Consulting,Directeur Technique,3,8,0
+Oui,0,1,5,3,Marketing,Occasionnel,0,3,2,2,3,4,3,3,Oui,25,Célibataire,Commercial,Cadre Commercial,1,6,1
+Non,2,2,7,1,Transformation Digitale,Occasionnel,2,4,2,1,4,3,3,3,Non,25,Marié(e),Consulting,Assistant de Direction,1,2,0
+Non,0,5,15,3,Transformation Digitale,Occasionnel,0,2,3,1,4,3,3,3,Non,22,Célibataire,Consulting,Consultant,1,0,0
+Non,0,1,1,4,Transformation Digitale,Frequent,12,1,2,3,1,3,2,4,Non,51,Célibataire,Consulting,Manager,3,13,0
+Oui,0,3,7,3,Infra & Cloud,Frequent,0,1,1,2,3,4,3,4,Oui,34,Célibataire,Consulting,Consultant,1,9,1
+Non,0,3,26,3,Ressources Humaines,Aucun,4,4,4,4,4,3,3,3,Oui,54,Célibataire,Ressources Humaines,Senior Manager,2,5,0
+Non,1,2,18,1,Infra & Cloud,Occasionnel,1,2,3,1,3,3,3,3,Non,24,Marié(e),Consulting,Consultant,0,5,0
+Non,1,3,6,4,Infra & Cloud,Occasionnel,0,3,2,2,2,3,3,3,Non,34,Divorcé(e),Consulting,Assistant de Direction,6,1,0
+Non,0,3,3,3,Infra & Cloud,Occasionnel,1,3,3,3,4,1,3,3,Non,37,Célibataire,Commercial,Cadre Commercial,2,5,0
+Non,0,6,5,3,Transformation Digitale,Occasionnel,5,3,2,3,1,4,3,3,Non,34,Célibataire,Consulting,Senior Manager,2,11,0
+Non,1,6,11,2,Entrepreunariat,Frequent,2,2,3,3,4,3,3,3,Non,36,Marié(e),Commercial,Cadre Commercial,0,9,0
+Non,1,2,3,2,Infra & Cloud,Occasionnel,0,1,3,1,4,1,3,4,Non,36,Divorcé(e),Consulting,Consultant,5,1,0
+Non,2,3,26,2,Infra & Cloud,Frequent,4,3,3,4,4,4,4,3,Oui,43,Marié(e),Commercial,Senior Manager,1,25,0
+Non,3,2,23,3,Infra & Cloud,Frequent,0,1,1,1,3,3,2,4,Non,30,Divorcé(e),Consulting,Assistant de Direction,1,10,0
+Non,1,2,22,2,Marketing,Aucun,0,3,3,2,2,1,4,3,Non,33,Marié(e),Commercial,Cadre Commercial,0,7,0
+Oui,3,2,14,4,Infra & Cloud,Occasionnel,4,2,3,1,2,1,3,3,Oui,56,Marié(e),Consulting,Assistant de Direction,9,5,1
+Non,0,5,6,3,Infra & Cloud,Occasionnel,15,1,3,5,3,3,3,3,Non,51,Célibataire,Consulting,Directeur Technique,7,20,0
+Oui,0,3,6,4,Infra & Cloud,Occasionnel,7,2,1,2,3,2,2,3,Oui,31,Marié(e),Commercial,Cadre Commercial,4,7,1
+Non,0,3,6,3,Autre,Occasionnel,4,3,2,1,2,3,2,3,Non,26,Marié(e),Consulting,Assistant de Direction,1,5,0
+Oui,1,3,23,4,Transformation Digitale,Occasionnel,15,4,3,3,4,4,2,3,Non,58,Marié(e),Consulting,Manager,1,40,1
+Oui,0,2,22,1,Marketing,Occasionnel,0,4,3,1,3,4,2,3,Oui,19,Célibataire,Commercial,Représentant Commercial,1,0,1
+Non,1,2,2,1,Entrepreunariat,Occasionnel,2,3,3,1,4,3,3,3,Non,22,Marié(e),Consulting,Consultant,0,2,0
+Non,0,2,20,4,Transformation Digitale,Occasionnel,5,3,3,2,1,3,2,3,Non,49,Marié(e),Consulting,Tech Lead,1,15,0
+Non,0,2,28,3,Transformation Digitale,Frequent,1,2,4,1,3,4,3,3,Non,43,Célibataire,Consulting,Assistant de Direction,4,3,0
+Non,0,3,12,3,Marketing,Frequent,2,3,3,3,4,4,3,3,Non,50,Célibataire,Commercial,Cadre Commercial,4,2,0
+Oui,1,2,20,3,Infra & Cloud,Occasionnel,2,2,1,2,3,3,3,3,Oui,31,Marié(e),Commercial,Cadre Commercial,3,2,1
+Non,1,2,9,1,Infra & Cloud,Occasionnel,0,3,3,3,3,3,3,3,Oui,41,Divorcé(e),Commercial,Cadre Commercial,3,9,0
+Non,1,3,25,1,Infra & Cloud,Occasionnel,5,3,3,1,3,4,3,4,Non,26,Marié(e),Ressources Humaines,Ressources Humaines,1,8,0
+Non,2,0,6,2,Transformation Digitale,Occasionnel,0,2,3,2,2,4,3,4,Non,36,Divorcé(e),Consulting,Tech Lead,6,3,0
+Oui,0,2,8,4,Infra & Cloud,Frequent,0,1,1,3,4,4,3,3,Non,51,Célibataire,Consulting,Tech Lead,2,4,1
+Non,1,1,4,4,Infra & Cloud,Occasionnel,5,4,2,2,3,3,4,3,Non,39,Marié(e),Commercial,Cadre Commercial,4,15,0
+Non,0,3,28,3,Infra & Cloud,Occasionnel,2,1,2,2,3,4,3,3,Non,25,Marié(e),Commercial,Cadre Commercial,2,2,0
+Non,0,2,9,3,Ressources Humaines,Occasionnel,4,3,3,2,4,4,1,3,Oui,30,Marié(e),Ressources Humaines,Ressources Humaines,0,11,0
+Oui,0,2,9,3,Transformation Digitale,Occasionnel,0,1,3,1,1,1,4,4,Non,32,Célibataire,Consulting,Consultant,7,5,1
+Non,0,2,29,3,Transformation Digitale,Occasionnel,0,3,3,1,4,2,2,3,Non,45,Célibataire,Consulting,Assistant de Direction,5,6,0
+Non,0,2,3,5,Entrepreunariat,Occasionnel,2,4,3,2,3,2,3,4,Oui,38,Célibataire,Consulting,Assistant de Direction,3,3,0
+Non,0,4,18,3,Infra & Cloud,Occasionnel,0,1,3,1,3,3,2,3,Non,30,Célibataire,Consulting,Assistant de Direction,1,5,0
+Non,3,2,9,2,Transformation Digitale,Frequent,0,4,1,2,4,4,4,3,Non,32,Divorcé(e),Commercial,Cadre Commercial,0,8,0
+Non,1,3,5,3,Entrepreunariat,Occasionnel,2,4,3,1,1,4,3,3,Non,30,Divorcé(e),Consulting,Assistant de Direction,5,3,0
+Non,0,3,2,1,Transformation Digitale,Occasionnel,1,2,2,1,4,4,3,3,Non,30,Célibataire,Consulting,Consultant,0,5,0
+Non,1,2,10,3,Infra & Cloud,Frequent,7,4,2,4,1,2,2,3,Non,41,Divorcé(e),Consulting,Senior Manager,4,7,0
+Non,1,2,9,4,Infra & Cloud,Occasionnel,1,3,3,1,1,4,3,4,Non,41,Marié(e),Consulting,Consultant,2,5,0
+Non,0,3,3,1,Transformation Digitale,Occasionnel,0,2,3,1,2,4,3,3,Non,19,Célibataire,Consulting,Consultant,1,1,0
+Non,1,2,26,3,Transformation Digitale,Frequent,2,2,3,2,2,1,3,3,Non,40,Divorcé(e),Consulting,Assistant de Direction,1,20,0
+Non,2,3,1,5,Marketing,Occasionnel,0,3,3,3,2,1,3,3,Non,35,Marié(e),Commercial,Cadre Commercial,1,10,0
+Non,1,3,6,2,Marketing,Occasionnel,4,2,3,2,3,4,1,4,Oui,53,Marié(e),Commercial,Représentant Commercial,2,7,0
+Non,1,2,9,3,Infra & Cloud,Occasionnel,0,2,3,2,2,3,1,3,Non,45,Divorcé(e),Consulting,Consultant,8,17,0
+Non,0,2,8,3,Marketing,Frequent,3,2,3,3,4,4,3,3,Non,32,Célibataire,Commercial,Cadre Commercial,1,9,0
+Non,1,1,1,1,Entrepreunariat,Aucun,0,4,3,2,3,1,3,3,Non,29,Marié(e),Consulting,Tech Lead,1,10,0
+Non,0,2,7,4,Transformation Digitale,Occasionnel,0,2,2,2,3,3,3,3,Non,51,Marié(e),Consulting,Tech Lead,2,1,0
+Non,1,3,9,3,Transformation Digitale,Occasionnel,0,2,2,1,2,2,2,4,Oui,58,Marié(e),Consulting,Assistant de Direction,4,1,0
+Non,1,2,4,4,Marketing,Occasionnel,2,3,2,3,4,1,2,3,Non,40,Marié(e),Commercial,Cadre Commercial,7,12,0
+Non,1,3,2,4,Marketing,Frequent,1,3,3,1,3,4,3,3,Non,34,Marié(e),Commercial,Représentant Commercial,6,4,0
+Non,2,6,19,1,Transformation Digitale,Occasionnel,2,3,3,1,4,1,3,4,Non,22,Marié(e),Consulting,Assistant de Direction,1,2,0
+Non,1,1,9,3,Transformation Digitale,Aucun,2,4,3,1,2,4,1,3,Non,27,Divorcé(e),Consulting,Assistant de Direction,6,2,0
+Non,1,2,21,3,Transformation Digitale,Occasionnel,0,3,3,1,4,3,1,3,Non,28,Marié(e),Consulting,Assistant de Direction,1,5,0
+Non,1,2,24,2,Infra & Cloud,Occasionnel,1,3,4,3,4,2,1,3,Oui,57,Divorcé(e),Consulting,Manager,3,5,0
+Non,1,2,3,3,Transformation Digitale,Aucun,0,3,2,1,3,4,2,3,Oui,27,Divorcé(e),Consulting,Assistant de Direction,1,1,0
+Non,0,5,11,3,Infra & Cloud,Occasionnel,4,3,3,5,2,2,3,3,Non,50,Célibataire,Consulting,Senior Manager,3,5,0
+Non,1,2,14,3,Infra & Cloud,Occasionnel,1,1,3,1,3,1,3,3,Non,41,Divorcé(e),Consulting,Assistant de Direction,4,9,0
+Non,1,2,5,3,Infra & Cloud,Occasionnel,7,2,3,3,4,3,3,3,Non,30,Marié(e),Commercial,Cadre Commercial,2,10,0
+Non,0,2,1,4,Infra & Cloud,Occasionnel,0,1,2,2,4,3,4,4,Non,38,Célibataire,Commercial,Cadre Commercial,4,8,0
+Non,0,2,6,5,Infra & Cloud,Occasionnel,1,3,3,1,3,1,3,4,Non,32,Célibataire,Consulting,Assistant de Direction,3,5,0
+Non,1,3,17,3,Entrepreunariat,Occasionnel,1,3,3,1,2,4,2,3,Oui,27,Marié(e),Consulting,Assistant de Direction,0,5,0
+Oui,0,5,1,1,Entrepreunariat,Frequent,0,3,1,1,1,1,4,4,Non,19,Célibataire,Commercial,Représentant Commercial,0,0,1
+Non,0,3,3,2,Transformation Digitale,Frequent,7,4,3,1,2,3,2,3,Non,36,Célibataire,Consulting,Consultant,4,8,0
+Non,2,4,9,3,Transformation Digitale,Aucun,6,3,3,2,1,3,3,3,Non,30,Divorcé(e),Consulting,Consultant,1,12,0
+Non,1,3,4,2,Infra & Cloud,Occasionnel,0,3,3,2,1,1,4,3,Oui,45,Divorcé(e),Commercial,Cadre Commercial,4,5,0
+Non,1,3,8,3,Infra & Cloud,Occasionnel,2,3,3,1,1,3,3,3,Oui,56,Divorcé(e),Consulting,Assistant de Direction,4,2,0
+Non,0,2,2,3,Infra & Cloud,Occasionnel,0,3,3,1,4,1,4,3,Non,33,Célibataire,Consulting,Assistant de Direction,0,3,0
+Oui,0,3,2,3,Infra & Cloud,Occasionnel,1,2,2,1,4,3,2,4,Non,19,Célibataire,Consulting,Consultant,1,1,1
+Non,3,2,1,2,Marketing,Occasionnel,15,2,3,3,1,3,3,4,Non,46,Divorcé(e),Commercial,Cadre Commercial,1,24,0
+Non,0,3,9,2,Infra & Cloud,Occasionnel,2,3,3,1,4,3,3,3,Non,38,Célibataire,Consulting,Consultant,1,2,0
+Non,1,0,12,1,Transformation Digitale,Occasionnel,0,3,3,1,4,3,3,4,Oui,31,Marié(e),Consulting,Assistant de Direction,8,4,0
+Non,0,3,27,2,Transformation Digitale,Occasionnel,1,4,3,1,2,4,3,3,Non,34,Célibataire,Consulting,Assistant de Direction,2,3,0
+Oui,0,5,20,2,Marketing,Occasionnel,0,2,3,1,2,4,2,4,Oui,41,Célibataire,Commercial,Représentant Commercial,1,4,1
+Non,1,2,1,3,Transformation Digitale,Occasionnel,0,3,2,1,3,4,2,3,Non,50,Marié(e),Consulting,Consultant,2,3,0
+Non,2,3,13,2,Transformation Digitale,Occasionnel,1,4,4,2,1,3,3,3,Non,53,Divorcé(e),Consulting,Tech Lead,1,4,0
+Non,1,5,14,3,Transformation Digitale,Occasionnel,1,4,3,1,2,4,3,3,Non,33,Marié(e),Consulting,Assistant de Direction,1,8,0
+Non,1,2,4,1,Transformation Digitale,Occasionnel,9,4,3,5,3,2,3,3,Non,40,Marié(e),Consulting,Senior Manager,1,20,0
+Non,0,3,14,4,Transformation Digitale,Occasionnel,2,3,4,5,2,4,3,3,Non,55,Célibataire,Consulting,Directeur Technique,8,24,0
+Non,0,2,2,1,Infra & Cloud,Frequent,1,4,2,2,3,3,2,3,Non,34,Marié(e),Consulting,Tech Lead,1,10,0
+Non,0,6,3,3,Transformation Digitale,Occasionnel,1,4,3,4,2,3,3,3,Non,51,Célibataire,Consulting,Manager,3,7,0
+Non,1,5,1,4,Infra & Cloud,Occasionnel,11,3,2,5,3,1,3,3,Non,52,Marié(e),Consulting,Senior Manager,0,33,0
+Non,0,2,9,3,Transformation Digitale,Occasionnel,0,4,3,1,2,4,2,3,Non,27,Célibataire,Consulting,Assistant de Direction,1,7,0
+Oui,0,1,23,2,Infra & Cloud,Occasionnel,0,2,2,2,3,1,3,3,Oui,35,Marié(e),Consulting,Tech Lead,3,1,1
+Non,3,3,7,3,Transformation Digitale,Aucun,2,4,4,1,4,4,4,3,Non,43,Divorcé(e),Consulting,Assistant de Direction,4,5,0
+Non,1,1,2,2,Transformation Digitale,Aucun,11,1,2,4,4,4,3,4,Non,45,Marié(e),Consulting,Senior Manager,9,20,0
+Non,1,3,21,3,Infra & Cloud,Occasionnel,1,2,4,1,1,1,2,3,Oui,37,Marié(e),Consulting,Assistant de Direction,1,8,0
+Non,0,5,2,3,Transformation Digitale,Frequent,1,2,3,2,2,4,3,3,Non,35,Célibataire,Consulting,Consultant,5,6,0
+Non,1,5,21,2,Transformation Digitale,Aucun,0,3,3,2,3,2,3,3,Non,42,Divorcé(e),Consulting,Tech Lead,2,5,0
+Non,0,3,2,4,Infra & Cloud,Occasionnel,0,4,3,2,3,2,3,3,Non,38,Marié(e),Consulting,Tech Lead,9,1,0
+Non,1,3,29,3,Entrepreunariat,Occasionnel,1,4,3,2,4,1,1,3,Non,38,Marié(e),Consulting,Tech Lead,3,7,0
+Non,1,1,1,1,Entrepreunariat,Frequent,2,3,2,2,1,3,3,3,Non,27,Marié(e),Consulting,Tech Lead,5,2,0
+Non,2,0,18,4,Infra & Cloud,Aucun,1,4,3,2,4,1,3,3,Oui,49,Divorcé(e),Consulting,Tech Lead,1,7,0
+Non,1,4,10,4,Transformation Digitale,Frequent,2,4,3,1,3,4,4,3,Oui,34,Divorcé(e),Consulting,Assistant de Direction,1,5,0
+Non,1,2,19,2,Transformation Digitale,Occasionnel,3,3,3,2,4,3,4,3,Oui,40,Marié(e),Consulting,Consultant,8,7,0
+Oui,0,2,29,1,Transformation Digitale,Occasionnel,0,2,3,2,1,2,3,3,Oui,38,Marié(e),Consulting,Manager,7,1,1
+Oui,3,3,27,3,Marketing,Occasionnel,1,2,3,3,4,4,2,4,Non,29,Marié(e),Commercial,Cadre Commercial,1,10,1
+Non,1,2,5,3,Infra & Cloud,Occasionnel,2,4,4,1,2,1,2,3,Oui,22,Divorcé(e),Consulting,Assistant de Direction,1,4,0
+Non,0,2,18,1,Transformation Digitale,Frequent,1,2,3,1,4,1,3,3,Non,36,Célibataire,Consulting,Consultant,1,8,0
+Non,1,5,9,5,Infra & Cloud,Aucun,0,4,2,2,4,4,1,3,Non,40,Marié(e),Consulting,Manager,9,3,0
+Non,1,3,1,4,Transformation Digitale,Occasionnel,0,4,3,3,1,3,3,3,Non,46,Divorcé(e),Consulting,Manager,7,4,0
+Oui,0,2,4,4,Transformation Digitale,Occasionnel,9,4,1,3,4,3,2,3,Non,32,Marié(e),Commercial,Cadre Commercial,1,14,1
+Non,0,2,1,1,Infra & Cloud,Aucun,5,3,2,3,3,3,3,4,Non,30,Célibataire,Consulting,Tech Lead,1,11,0
+Non,0,2,20,3,Infra & Cloud,Frequent,0,4,3,2,3,4,3,3,Non,27,Célibataire,Commercial,Cadre Commercial,1,7,0
+Non,2,5,8,4,Infra & Cloud,Occasionnel,4,2,2,3,2,4,1,3,Non,51,Marié(e),Consulting,Directeur Technique,5,10,0
+Oui,0,5,3,3,Entrepreunariat,Occasionnel,0,4,3,1,1,3,3,3,Oui,30,Célibataire,Consulting,Assistant de Direction,5,5,1
+Non,0,3,6,3,Infra & Cloud,Occasionnel,0,4,3,3,4,3,3,3,Oui,41,Célibataire,Commercial,Senior Manager,3,1,0
+Oui,0,5,26,4,Marketing,Frequent,0,3,2,2,1,3,2,3,Non,30,Célibataire,Commercial,Cadre Commercial,5,6,1
+Oui,0,1,1,3,Entrepreunariat,Occasionnel,1,3,3,1,3,4,2,3,Non,29,Célibataire,Consulting,Assistant de Direction,0,6,1
+Non,0,2,6,3,Transformation Digitale,Aucun,12,4,2,3,4,4,3,3,Non,45,Célibataire,Commercial,Cadre Commercial,6,19,0
+Non,1,4,3,3,Marketing,Occasionnel,0,4,3,2,1,4,3,3,Non,54,Marié(e),Commercial,Cadre Commercial,2,6,0
+Non,0,3,5,2,Infra & Cloud,Occasionnel,3,4,3,2,2,4,4,3,Non,36,Célibataire,Consulting,Consultant,8,13,0
+Non,0,3,4,4,Transformation Digitale,Occasionnel,1,3,2,1,2,4,3,4,Non,33,Marié(e),Consulting,Assistant de Direction,6,3,0
+Non,3,1,11,3,Autre,Frequent,0,2,3,3,4,3,3,3,Oui,37,Divorcé(e),Consulting,Directeur Technique,1,10,0
+Non,2,6,3,3,Infra & Cloud,Occasionnel,5,1,3,3,3,3,2,3,Non,38,Divorcé(e),Commercial,Cadre Commercial,0,16,0
+Non,1,2,1,4,Transformation Digitale,Aucun,1,3,1,2,3,4,3,3,Non,31,Marié(e),Consulting,Tech Lead,0,5,0
+Non,1,6,3,3,Infra & Cloud,Occasionnel,0,3,2,1,4,1,3,3,Non,59,Marié(e),Consulting,Assistant de Direction,3,1,0
+Non,1,2,4,4,Marketing,Frequent,5,1,3,1,4,3,3,3,Non,37,Divorcé(e),Commercial,Représentant Commercial,4,9,0
+Non,1,5,1,1,Transformation Digitale,Frequent,4,2,3,3,4,4,3,3,Non,29,Marié(e),Commercial,Cadre Commercial,1,11,0
+Non,0,3,1,3,Marketing,Frequent,0,3,3,3,3,1,4,3,Non,35,Célibataire,Commercial,Cadre Commercial,1,10,0
+Oui,0,3,18,1,Transformation Digitale,Occasionnel,0,3,2,1,4,3,2,3,Oui,29,Célibataire,Consulting,Assistant de Direction,1,4,1
+Non,0,3,2,3,Infra & Cloud,Occasionnel,2,3,2,1,4,2,2,3,Non,52,Célibataire,Consulting,Consultant,7,2,0
+Non,0,3,4,2,Entrepreunariat,Occasionnel,11,3,3,5,4,4,3,3,Non,42,Marié(e),Consulting,Senior Manager,1,22,0
+Non,0,2,6,2,Transformation Digitale,Occasionnel,2,2,3,1,3,4,2,3,Non,59,Marié(e),Ressources Humaines,Ressources Humaines,8,2,0
+Non,1,3,1,4,Transformation Digitale,Occasionnel,0,4,3,5,4,3,2,3,Non,50,Divorcé(e),Commercial,Senior Manager,3,7,0
+Oui,1,2,14,3,Transformation Digitale,Occasionnel,0,3,3,1,4,3,1,3,Oui,33,Marié(e),Consulting,Consultant,5,5,1
+Non,1,3,16,3,Marketing,Occasionnel,1,4,3,4,4,3,3,4,Oui,43,Marié(e),Commercial,Senior Manager,5,17,0
+Oui,0,3,2,2,Infra & Cloud,Occasionnel,1,1,3,1,1,1,4,4,Non,33,Marié(e),Consulting,Consultant,7,9,1
+Non,0,2,2,4,Infra & Cloud,Aucun,15,1,2,5,3,4,4,3,Oui,52,Célibataire,Commercial,Senior Manager,1,33,0
+Non,1,5,4,2,Infra & Cloud,Occasionnel,1,3,3,1,2,1,3,3,Non,32,Marié(e),Commercial,Représentant Commercial,2,4,0
+Oui,0,2,1,3,Infra & Cloud,Occasionnel,1,4,2,1,3,4,1,3,Oui,32,Célibataire,Consulting,Consultant,0,3,1
+Non,3,1,1,4,Transformation Digitale,Occasionnel,1,3,3,1,3,3,3,3,Non,39,Divorcé(e),Consulting,Consultant,7,3,0
+Non,0,2,26,4,Marketing,Aucun,2,3,3,2,4,1,3,3,Non,32,Marié(e),Commercial,Cadre Commercial,0,3,0
+Non,2,2,19,2,Infra & Cloud,Occasionnel,0,3,3,2,1,1,2,3,Non,41,Divorcé(e),Consulting,Assistant de Direction,2,1,0
+Non,2,3,24,2,Entrepreunariat,Occasionnel,4,1,3,2,4,1,3,3,Non,40,Divorcé(e),Consulting,Assistant de Direction,1,9,0
+Non,1,2,1,3,Autre,Occasionnel,1,3,4,5,4,3,3,3,Non,45,Marié(e),Consulting,Senior Manager,0,24,0
+Non,1,3,3,4,Transformation Digitale,Frequent,2,2,3,3,3,1,3,3,Non,31,Divorcé(e),Consulting,Directeur Technique,9,2,0
+Non,1,2,5,4,Infra & Cloud,Occasionnel,0,3,2,1,4,3,2,3,Non,33,Marié(e),Consulting,Assistant de Direction,1,2,0
+Non,1,3,2,4,Infra & Cloud,Occasionnel,5,4,2,2,1,2,3,3,Non,34,Marié(e),Consulting,Tech Lead,6,11,0
+Non,1,2,1,2,Transformation Digitale,Occasionnel,0,3,2,1,1,1,2,3,Non,37,Marié(e),Consulting,Assistant de Direction,2,3,0
+Non,1,1,7,4,Infra & Cloud,Frequent,0,1,4,2,3,4,3,3,Non,45,Marié(e),Consulting,Tech Lead,4,3,0
+Oui,2,5,10,3,Transformation Digitale,Frequent,0,1,3,3,3,2,3,3,Non,37,Divorcé(e),Consulting,Tech Lead,6,1,1
+Non,0,1,2,4,Entrepreunariat,Frequent,11,3,3,3,3,4,3,4,Non,39,Célibataire,Consulting,Manager,0,19,0
+Non,0,1,15,3,Infra & Cloud,Occasionnel,1,3,3,1,4,1,3,3,Non,29,Célibataire,Consulting,Assistant de Direction,1,6,0
+Non,0,1,17,2,Infra & Cloud,Occasionnel,0,4,4,2,1,3,3,3,Oui,42,Célibataire,Consulting,Assistant de Direction,3,3,0
+Non,1,2,20,2,Marketing,Occasionnel,0,4,3,2,4,4,3,3,Non,29,Divorcé(e),Commercial,Cadre Commercial,2,3,0
+Non,2,3,1,3,Infra & Cloud,Occasionnel,1,1,3,2,3,4,3,3,Non,25,Marié(e),Consulting,Tech Lead,0,4,0
+Non,1,4,2,3,Transformation Digitale,Occasionnel,7,4,2,1,1,3,3,3,Oui,42,Divorcé(e),Consulting,Consultant,0,9,0
+Non,1,5,2,2,Transformation Digitale,Occasionnel,3,1,3,5,3,4,3,3,Non,40,Divorcé(e),Consulting,Directeur Technique,0,21,0
+Non,0,0,1,3,Infra & Cloud,Occasionnel,0,3,3,1,4,2,2,3,Non,51,Marié(e),Consulting,Assistant de Direction,1,1,0
+Oui,0,2,29,2,Transformation Digitale,Frequent,1,3,2,1,2,2,4,3,Non,31,Célibataire,Consulting,Consultant,0,5,1
+Non,0,3,7,3,Infra & Cloud,Frequent,0,2,4,1,2,3,1,4,Non,32,Marié(e),Consulting,Consultant,1,5,0
+Non,1,0,2,2,Infra & Cloud,Aucun,7,4,2,2,4,4,3,3,Non,38,Marié(e),Commercial,Cadre Commercial,3,8,0
+Non,0,5,2,1,Entrepreunariat,Occasionnel,0,4,2,2,1,4,3,3,Non,32,Célibataire,Consulting,Consultant,4,6,0
+Non,1,2,2,3,Entrepreunariat,Occasionnel,7,3,1,4,2,2,2,3,Oui,46,Marié(e),Commercial,Senior Manager,3,7,0
+Oui,0,5,2,4,Infra & Cloud,Occasionnel,0,1,3,1,3,3,1,3,Non,28,Célibataire,Consulting,Consultant,2,0,1
+Non,2,2,2,3,Transformation Digitale,Occasionnel,0,1,2,2,2,2,3,3,Non,29,Marié(e),Commercial,Cadre Commercial,2,0,0
+Non,1,2,23,3,Transformation Digitale,Occasionnel,7,2,2,2,4,2,3,4,Non,31,Marié(e),Consulting,Manager,0,9,0
+Non,2,2,5,2,Infra & Cloud,Aucun,1,2,4,2,1,4,3,3,Non,25,Divorcé(e),Consulting,Manager,1,6,0
+Non,0,2,20,2,Transformation Digitale,Occasionnel,4,3,3,4,4,2,3,3,Oui,45,Marié(e),Consulting,Manager,0,20,0
+Non,1,4,6,3,Infra & Cloud,Occasionnel,10,4,3,1,4,3,3,3,Non,36,Marié(e),Consulting,Consultant,0,15,0
+Non,0,2,1,3,Transformation Digitale,Occasionnel,4,4,3,5,1,3,3,3,Oui,55,Célibataire,Consulting,Senior Manager,0,36,0
+Oui,1,2,29,4,Infra & Cloud,Aucun,9,1,3,3,2,4,2,3,Oui,47,Marié(e),Consulting,Senior Manager,1,10,1
+Non,1,3,9,3,Transformation Digitale,Occasionnel,0,4,3,1,4,4,2,4,Non,28,Marié(e),Consulting,Assistant de Direction,1,5,0
+Non,1,5,6,4,Transformation Digitale,Occasionnel,0,3,3,2,4,2,4,3,Non,37,Marié(e),Commercial,Cadre Commercial,4,5,0
+Non,0,4,3,2,Transformation Digitale,Occasionnel,1,4,2,1,3,1,4,3,Non,21,Célibataire,Consulting,Assistant de Direction,1,3,0
+Non,2,2,1,4,Transformation Digitale,Aucun,0,1,3,3,4,1,3,3,Oui,37,Divorcé(e),Consulting,Directeur Technique,2,5,0
+Non,1,6,22,3,Infra & Cloud,Occasionnel,6,2,4,3,2,2,2,3,Non,35,Divorcé(e),Consulting,Senior Manager,7,7,0
+Non,1,3,7,2,Transformation Digitale,Occasionnel,7,1,4,2,1,3,3,4,Oui,38,Divorcé(e),Commercial,Cadre Commercial,1,8,0
+Non,1,6,1,3,Infra & Cloud,Frequent,1,3,3,2,2,1,1,4,Non,26,Divorcé(e),Consulting,Tech Lead,1,6,0
+Non,2,4,4,1,Infra & Cloud,Occasionnel,1,1,3,5,2,1,2,3,Non,50,Divorcé(e),Consulting,Directeur Technique,3,10,0
+Non,3,5,3,4,Transformation Digitale,Occasionnel,1,3,3,4,3,4,2,3,Oui,53,Marié(e),Consulting,Directeur Technique,3,5,0
+Non,0,3,1,1,Infra & Cloud,Occasionnel,11,2,3,2,3,3,3,4,Non,42,Marié(e),Commercial,Cadre Commercial,1,20,0
+Non,0,3,2,2,Infra & Cloud,Frequent,0,2,3,2,4,1,2,3,Non,29,Célibataire,Commercial,Cadre Commercial,1,10,0
+Non,1,4,20,2,Entrepreunariat,Occasionnel,0,2,3,2,4,4,3,3,Oui,55,Marié(e),Consulting,Consultant,3,10,0
+Non,1,3,11,2,Transformation Digitale,Frequent,3,1,3,2,1,3,3,3,Oui,26,Marié(e),Consulting,Manager,1,5,0
+Non,0,3,1,3,Infra & Cloud,Occasionnel,5,4,3,1,4,2,3,3,Non,37,Célibataire,Consulting,Assistant de Direction,1,17,0
+Oui,1,0,24,3,Infra & Cloud,Frequent,0,4,3,1,3,4,1,4,Oui,44,Divorcé(e),Consulting,Consultant,3,1,1
+Non,1,2,23,4,Infra & Cloud,Occasionnel,1,4,3,2,4,2,3,3,Non,38,Divorcé(e),Consulting,Manager,9,2,0
+Oui,1,2,16,4,Transformation Digitale,Occasionnel,0,1,3,1,2,4,3,3,Oui,26,Divorcé(e),Consulting,Consultant,2,3,1
+Non,0,3,8,2,Infra & Cloud,Occasionnel,0,4,3,1,4,4,3,4,Non,28,Célibataire,Consulting,Assistant de Direction,1,5,0
+Non,0,4,10,4,Infra & Cloud,Frequent,1,3,3,5,1,4,3,3,Oui,49,Célibataire,Consulting,Directeur Technique,9,3,0
+Non,0,2,3,3,Entrepreunariat,Occasionnel,7,3,3,2,2,4,3,3,Non,36,Célibataire,Consulting,Assistant de Direction,4,8,0
+Non,1,5,5,3,Marketing,Frequent,2,4,3,1,2,3,2,3,Non,31,Divorcé(e),Commercial,Représentant Commercial,1,2,0
+Oui,0,0,4,4,Marketing,Occasionnel,7,4,2,2,4,2,3,3,Oui,26,Célibataire,Commercial,Cadre Commercial,1,8,1
+Non,3,3,9,3,Transformation Digitale,Frequent,1,2,3,1,4,3,2,3,Oui,37,Marié(e),Consulting,Assistant de Direction,1,4,0
+Non,1,2,26,3,Marketing,Frequent,4,3,3,4,2,4,4,3,Non,42,Marié(e),Commercial,Cadre Commercial,5,20,0
+Oui,0,2,3,3,Infra & Cloud,Occasionnel,0,3,3,1,3,3,3,3,Non,18,Célibataire,Consulting,Consultant,1,0,1
+Non,2,3,16,3,Marketing,Occasionnel,6,3,3,3,2,3,2,3,Non,35,Marié(e),Commercial,Cadre Commercial,0,11,0
+Non,2,2,18,4,Infra & Cloud,Frequent,0,3,4,1,4,4,3,3,Non,36,Marié(e),Consulting,Consultant,4,1,0
+Non,1,3,2,3,Transformation Digitale,Occasionnel,1,4,1,2,2,4,3,3,Non,51,Divorcé(e),Consulting,Tech Lead,5,4,0
+Non,0,2,2,4,Infra & Cloud,Occasionnel,0,4,3,4,2,2,3,3,Non,41,Célibataire,Commercial,Senior Manager,1,22,0
+Non,0,2,10,3,Transformation Digitale,Occasionnel,0,4,2,1,3,1,3,3,Non,18,Célibataire,Commercial,Représentant Commercial,1,0,0
+Non,0,2,16,2,Transformation Digitale,Occasionnel,0,2,4,2,1,3,3,3,Non,28,Célibataire,Consulting,Manager,0,8,0
+Non,1,3,7,3,Entrepreunariat,Occasionnel,7,2,4,2,4,2,2,3,Non,31,Marié(e),Commercial,Cadre Commercial,4,8,0
+Non,3,5,1,3,Transformation Digitale,Occasionnel,3,3,4,3,4,1,2,3,Non,39,Divorcé(e),Consulting,Manager,0,18,0
+Non,1,3,24,4,Infra & Cloud,Aucun,0,2,3,2,2,3,3,3,Non,36,Marié(e),Consulting,Consultant,7,9,0
+Non,1,3,7,3,Infra & Cloud,Occasionnel,4,4,2,2,3,3,2,3,Non,32,Marié(e),Commercial,Cadre Commercial,1,13,0
+Non,1,2,25,2,Infra & Cloud,Occasionnel,0,1,2,3,2,3,3,3,Non,38,Marié(e),Consulting,Directeur Technique,3,10,0
+Non,1,2,1,4,Infra & Cloud,Aucun,1,4,1,2,3,4,3,3,Oui,58,Divorcé(e),Consulting,Manager,2,5,0
+Non,1,4,5,4,Entrepreunariat,Occasionnel,0,3,3,1,4,3,3,3,Oui,31,Marié(e),Consulting,Assistant de Direction,0,5,0
+Non,0,1,2,3,Ressources Humaines,Occasionnel,1,1,2,2,1,4,3,3,Non,31,Marié(e),Ressources Humaines,Ressources Humaines,3,2,0
+Non,1,2,7,3,Infra & Cloud,Frequent,9,1,3,3,1,1,3,3,Non,45,Divorcé(e),Consulting,Consultant,1,24,0
+Non,1,2,2,4,Infra & Cloud,Occasionnel,2,3,3,1,4,2,1,3,Oui,31,Divorcé(e),Consulting,Assistant de Direction,0,2,0
+Non,2,2,5,4,Infra & Cloud,Frequent,8,4,3,3,2,2,3,3,Non,33,Marié(e),Consulting,Senior Manager,6,10,0
+Non,0,3,10,1,Transformation Digitale,Occasionnel,11,3,3,4,1,4,3,3,Oui,39,Marié(e),Consulting,Senior Manager,1,21,0
+Non,0,5,10,4,Infra & Cloud,Frequent,1,3,3,1,4,1,3,3,Non,43,Célibataire,Consulting,Consultant,0,8,0
+Non,0,2,1,2,Entrepreunariat,Occasionnel,0,3,2,4,3,4,3,3,Oui,49,Célibataire,Consulting,Manager,7,7,0
+Oui,0,3,8,4,Transformation Digitale,Occasionnel,7,3,2,2,2,1,2,3,Non,52,Marié(e),Consulting,Assistant de Direction,2,8,1
+Non,0,2,5,3,Infra & Cloud,Occasionnel,1,3,3,1,2,2,2,3,Oui,27,Célibataire,Consulting,Assistant de Direction,1,4,0
+Non,0,2,8,2,Entrepreunariat,Occasionnel,11,3,2,2,2,4,3,3,Oui,32,Marié(e),Commercial,Cadre Commercial,1,13,0
+Non,0,3,2,3,Infra & Cloud,Occasionnel,0,4,3,2,3,1,3,3,Oui,27,Célibataire,Commercial,Cadre Commercial,1,5,0
+Non,3,3,7,3,Marketing,Occasionnel,1,4,3,2,4,4,3,3,Non,31,Divorcé(e),Commercial,Cadre Commercial,4,7,0
+Non,0,0,2,4,Transformation Digitale,Occasionnel,0,1,4,2,4,3,2,3,Non,32,Célibataire,Consulting,Assistant de Direction,7,7,0
+Oui,0,4,2,4,Transformation Digitale,Occasionnel,2,1,1,1,4,4,2,3,Oui,28,Marié(e),Consulting,Assistant de Direction,5,3,1
+Non,2,2,28,2,Transformation Digitale,Occasionnel,1,4,3,2,4,4,3,3,Non,30,Marié(e),Consulting,Assistant de Direction,1,10,0
+Non,1,2,7,2,Infra & Cloud,Frequent,8,3,2,3,3,1,3,4,Non,31,Marié(e),Consulting,Tech Lead,1,10,0
+Non,1,2,7,2,Transformation Digitale,Frequent,13,3,2,5,4,1,3,3,Non,39,Marié(e),Consulting,Senior Manager,1,21,0
+Oui,0,3,3,2,Transformation Digitale,Occasionnel,0,4,3,2,3,1,2,3,Oui,39,Marié(e),Commercial,Cadre Commercial,4,1,1
+Non,0,6,10,3,Marketing,Frequent,0,2,2,2,4,3,2,3,Non,33,Célibataire,Commercial,Cadre Commercial,3,7,0
+Non,1,2,5,5,Infra & Cloud,Occasionnel,1,4,3,5,3,2,3,3,Non,47,Marié(e),Consulting,Directeur Technique,4,3,0
+Non,1,3,10,4,Infra & Cloud,Frequent,0,3,2,2,3,2,4,3,Non,43,Divorcé(e),Consulting,Consultant,1,9,0
+Non,1,0,1,1,Marketing,Aucun,1,3,3,2,2,4,3,3,Oui,27,Marié(e),Commercial,Cadre Commercial,0,5,0
+Non,0,4,20,4,Infra & Cloud,Frequent,0,4,3,2,3,4,2,3,Non,54,Célibataire,Consulting,Assistant de Direction,3,4,0
+Non,1,1,7,3,Infra & Cloud,Occasionnel,0,3,3,3,1,1,2,3,Non,43,Marié(e),Consulting,Manager,8,1,0
+Non,2,3,8,4,Autre,Occasionnel,9,4,3,2,4,1,3,3,Non,45,Marié(e),Consulting,Assistant de Direction,9,10,0
+Non,3,2,1,2,Transformation Digitale,Occasionnel,0,2,1,2,4,3,2,4,Oui,40,Marié(e),Commercial,Cadre Commercial,2,4,0
+Oui,0,4,8,4,Autre,Occasionnel,0,2,1,1,1,4,2,3,Oui,29,Marié(e),Consulting,Consultant,1,7,1
+Non,0,2,9,5,Autre,Occasionnel,2,2,2,1,4,3,3,3,Non,29,Célibataire,Consulting,Consultant,0,3,0
+Non,3,2,5,3,Marketing,Occasionnel,1,4,2,2,3,3,3,3,Non,30,Divorcé(e),Commercial,Cadre Commercial,1,10,0
+Non,1,3,8,4,Marketing,Occasionnel,0,2,3,2,2,1,3,3,Non,27,Marié(e),Commercial,Cadre Commercial,1,8,0
+Non,2,2,5,2,Transformation Digitale,Occasionnel,0,4,3,2,4,3,2,3,Non,37,Divorcé(e),Consulting,Tech Lead,7,6,0
+Non,1,3,15,2,Infra & Cloud,Occasionnel,2,3,2,3,4,2,3,3,Oui,38,Divorcé(e),Consulting,Directeur Technique,0,11,0
+Non,0,2,7,4,Transformation Digitale,Occasionnel,4,3,3,3,4,3,2,3,Oui,31,Célibataire,Consulting,Tech Lead,1,11,0
+Non,2,2,10,1,Marketing,Occasionnel,1,4,2,2,2,1,3,3,Oui,29,Divorcé(e),Commercial,Cadre Commercial,1,7,0
+Non,0,5,5,4,Entrepreunariat,Occasionnel,0,3,3,3,2,4,3,3,Non,35,Célibataire,Consulting,Tech Lead,0,16,0
+Non,2,2,26,1,Infra & Cloud,Occasionnel,0,3,3,1,4,3,2,3,Non,23,Divorcé(e),Consulting,Assistant de Direction,1,4,0
+Non,0,3,6,3,Transformation Digitale,Occasionnel,1,4,2,2,2,4,3,3,Oui,41,Célibataire,Consulting,Tech Lead,6,5,0
+Non,0,3,4,1,Transformation Digitale,Frequent,0,2,3,2,3,1,3,3,Non,47,Célibataire,Commercial,Représentant Commercial,3,0,0
+Non,0,2,23,5,Infra & Cloud,Occasionnel,0,1,3,4,4,2,3,3,Non,42,Célibataire,Consulting,Directeur Technique,2,1,0
+Non,1,3,2,3,Infra & Cloud,Aucun,0,4,3,2,3,1,2,3,Non,29,Marié(e),Commercial,Cadre Commercial,1,4,0
+Non,1,5,2,1,Entrepreunariat,Occasionnel,1,3,3,1,3,3,3,3,Oui,42,Divorcé(e),Ressources Humaines,Ressources Humaines,0,3,0
+Non,1,4,2,3,Transformation Digitale,Occasionnel,0,3,3,1,2,3,3,3,Non,32,Marié(e),Consulting,Consultant,1,8,0
+Non,1,3,29,1,Transformation Digitale,Occasionnel,0,1,3,3,3,2,1,4,Non,48,Marié(e),Commercial,Senior Manager,3,0,0
+Non,2,2,6,3,Transformation Digitale,Occasionnel,6,3,4,2,1,1,3,3,Oui,37,Divorcé(e),Consulting,Assistant de Direction,4,7,0
+Non,1,2,25,2,Entrepreunariat,Aucun,2,4,3,2,3,2,4,3,Oui,30,Marié(e),Commercial,Cadre Commercial,7,2,0
+Non,1,3,1,3,Infra & Cloud,Occasionnel,7,3,3,2,3,2,3,3,Non,26,Marié(e),Commercial,Cadre Commercial,1,8,0
+Non,0,6,2,4,Autre,Occasionnel,0,1,2,2,4,2,3,4,Non,42,Célibataire,Consulting,Manager,3,1,0
+Oui,0,3,1,1,Entrepreunariat,Frequent,1,1,2,1,2,3,3,3,Oui,21,Célibataire,Commercial,Représentant Commercial,1,3,1
+Non,0,6,1,5,Transformation Digitale,Aucun,0,4,3,2,4,2,3,3,Non,36,Célibataire,Commercial,Cadre Commercial,4,1,0
+Non,1,2,3,4,Transformation Digitale,Frequent,1,1,2,3,4,1,3,3,Non,36,Marié(e),Commercial,Cadre Commercial,4,13,0
+Non,0,2,1,4,Transformation Digitale,Occasionnel,1,4,3,2,3,3,3,3,Non,57,Marié(e),Consulting,Manager,2,3,0
+Non,1,3,10,4,Infra & Cloud,Occasionnel,1,4,4,1,3,3,3,3,Oui,40,Marié(e),Consulting,Consultant,3,7,0
+Non,0,3,9,2,Transformation Digitale,Aucun,2,1,3,1,4,3,2,4,Non,21,Célibataire,Commercial,Représentant Commercial,1,3,0
+Oui,0,2,5,3,Marketing,Occasionnel,0,4,3,1,3,2,3,3,Oui,33,Célibataire,Commercial,Représentant Commercial,1,1,1
+Non,1,3,10,3,Transformation Digitale,Occasionnel,0,3,3,1,1,2,3,4,Non,37,Marié(e),Consulting,Consultant,6,5,0
+Non,0,2,7,4,Transformation Digitale,Aucun,0,3,3,2,3,3,4,3,Non,46,Marié(e),Consulting,Tech Lead,2,1,0
+Oui,0,5,4,3,Marketing,Frequent,7,1,3,2,2,3,3,3,Non,41,Célibataire,Commercial,Cadre Commercial,1,8,1
+Non,0,2,10,3,Entrepreunariat,Occasionnel,1,4,2,3,4,4,3,3,Non,50,Célibataire,Consulting,Manager,6,4,0
+Oui,2,6,22,2,Marketing,Occasionnel,1,3,2,2,3,1,3,3,Oui,40,Marié(e),Commercial,Cadre Commercial,2,6,1
+Non,0,5,9,4,Infra & Cloud,Occasionnel,2,3,2,1,2,4,3,3,Oui,31,Célibataire,Consulting,Assistant de Direction,0,2,0
+Oui,0,0,12,3,Infra & Cloud,Occasionnel,0,3,4,1,2,4,3,3,Non,21,Célibataire,Commercial,Représentant Commercial,1,1,1
+Non,0,4,23,3,Infra & Cloud,Occasionnel,1,4,3,1,4,4,3,3,Non,29,Célibataire,Consulting,Assistant de Direction,9,3,0
+Non,0,5,9,4,Infra & Cloud,Occasionnel,0,3,2,2,2,3,3,3,Non,35,Célibataire,Consulting,Manager,9,1,0
+Non,1,2,1,2,Transformation Digitale,Occasionnel,0,4,3,1,2,2,3,3,Non,27,Divorcé(e),Consulting,Consultant,1,5,0
+Non,0,1,9,4,Infra & Cloud,Occasionnel,0,2,3,2,4,4,3,3,Non,28,Célibataire,Commercial,Cadre Commercial,1,7,0
+Non,0,2,7,3,Autre,Occasionnel,0,2,2,3,3,3,3,4,Non,49,Célibataire,Consulting,Manager,8,5,0
+Non,1,2,14,2,Infra & Cloud,Occasionnel,0,3,3,2,4,3,2,3,Non,51,Marié(e),Commercial,Cadre Commercial,4,7,0
+Non,1,3,2,3,Infra & Cloud,Occasionnel,2,4,3,1,3,2,3,3,Non,36,Marié(e),Consulting,Assistant de Direction,4,2,0
+Oui,0,3,19,3,Marketing,Aucun,0,1,4,2,4,2,2,3,Oui,34,Célibataire,Commercial,Cadre Commercial,8,5,1
+Non,0,2,2,3,Infra & Cloud,Occasionnel,1,3,3,4,4,3,3,3,Oui,55,Célibataire,Consulting,Senior Manager,2,5,0
+Non,1,2,10,4,Marketing,Occasionnel,0,4,3,2,3,4,4,3,Oui,24,Divorcé(e),Commercial,Cadre Commercial,1,5,0
+Non,1,3,2,1,Entrepreunariat,Occasionnel,0,3,3,1,2,1,3,3,Non,30,Marié(e),Commercial,Représentant Commercial,1,1,0
+Oui,0,2,3,1,Entrepreunariat,Frequent,0,3,3,1,1,3,3,4,Non,26,Célibataire,Consulting,Assistant de Direction,0,6,1
+Non,1,1,11,3,Transformation Digitale,Occasionnel,1,1,3,1,2,4,3,3,Non,22,Marié(e),Consulting,Assistant de Direction,1,2,0
+Non,2,2,2,2,Transformation Digitale,Occasionnel,9,2,2,3,3,2,3,3,Non,36,Marié(e),Commercial,Cadre Commercial,1,10,0
+Oui,0,4,4,3,Entrepreunariat,Frequent,0,3,3,1,4,3,3,4,Oui,30,Célibataire,Consulting,Assistant de Direction,9,1,1
+Non,1,2,14,3,Infra & Cloud,Occasionnel,12,4,3,1,1,3,2,3,Non,37,Divorcé(e),Consulting,Consultant,1,18,0
+Non,2,5,2,2,Marketing,Occasionnel,1,4,3,2,2,3,3,3,Non,40,Divorcé(e),Commercial,Cadre Commercial,7,5,0
+Non,1,5,1,4,Infra & Cloud,Occasionnel,1,2,3,1,1,2,3,3,Non,42,Divorcé(e),Consulting,Consultant,3,5,0
+Non,0,2,10,4,Infra & Cloud,Occasionnel,0,3,3,2,2,4,2,3,Oui,37,Célibataire,Consulting,Tech Lead,2,1,0
+Non,1,3,12,3,Infra & Cloud,Occasionnel,3,1,2,4,2,3,3,3,Non,43,Divorcé(e),Consulting,Directeur Technique,1,25,0
+Non,1,3,2,3,Transformation Digitale,Occasionnel,0,2,2,2,3,2,3,4,Non,40,Marié(e),Consulting,Consultant,6,1,0
+Non,1,4,5,2,Transformation Digitale,Occasionnel,1,1,3,5,1,3,2,3,Non,54,Marié(e),Consulting,Directeur Technique,4,4,0
+Non,1,3,4,4,Marketing,Aucun,1,3,3,2,3,1,3,3,Non,34,Marié(e),Commercial,Cadre Commercial,9,3,0
+Non,1,5,7,2,Transformation Digitale,Occasionnel,3,2,3,2,1,2,1,3,Non,31,Marié(e),Consulting,Tech Lead,1,13,0
+Non,1,1,21,3,Transformation Digitale,Frequent,1,4,3,1,4,1,3,4,Non,43,Marié(e),Consulting,Consultant,7,3,0
+Non,0,3,8,4,Autre,Occasionnel,0,3,3,2,3,4,3,3,Oui,43,Divorcé(e),Consulting,Manager,4,5,0
+Non,0,3,4,2,Infra & Cloud,Occasionnel,1,2,2,2,4,2,3,3,Oui,25,Célibataire,Commercial,Cadre Commercial,1,5,0
+Non,2,2,25,5,Transformation Digitale,Aucun,10,2,3,2,3,1,3,3,Oui,37,Marié(e),Consulting,Assistant de Direction,3,13,0
+Non,1,3,1,2,Infra & Cloud,Occasionnel,3,4,2,1,1,3,3,3,Non,31,Marié(e),Consulting,Consultant,1,4,0
+Non,1,3,1,1,Infra & Cloud,Frequent,1,2,3,5,3,3,3,3,Oui,39,Divorcé(e),Consulting,Senior Manager,1,21,0
+Non,3,0,6,3,Infra & Cloud,Frequent,7,3,4,4,1,4,2,3,Non,56,Marié(e),Commercial,Cadre Commercial,9,7,0
+Non,0,6,12,3,Entrepreunariat,Occasionnel,4,2,3,2,3,2,3,3,Non,30,Célibataire,Commercial,Cadre Commercial,0,5,0
+Non,1,2,1,3,Marketing,Occasionnel,0,2,4,3,1,3,3,3,Non,41,Marié(e),Commercial,Cadre Commercial,1,10,0
+Non,1,2,17,2,Transformation Digitale,Occasionnel,1,3,3,2,1,4,3,3,Non,28,Divorcé(e),Consulting,Consultant,1,10,0
+Oui,1,5,3,3,Transformation Digitale,Occasionnel,0,1,3,1,1,3,3,3,Non,25,Marié(e),Consulting,Consultant,5,2,1
+Non,0,4,3,3,Transformation Digitale,Occasionnel,0,4,2,3,3,3,3,3,Oui,52,Marié(e),Consulting,Tech Lead,2,5,0
+Non,2,3,10,2,Infra & Cloud,Occasionnel,0,1,3,1,4,4,2,4,Non,45,Marié(e),Consulting,Assistant de Direction,3,2,0
+Non,0,2,4,2,Infra & Cloud,Occasionnel,1,4,3,4,4,4,1,3,Non,52,Marié(e),Consulting,Senior Manager,2,5,0
+Non,1,3,29,2,Infra & Cloud,Frequent,0,1,3,2,3,2,3,3,Non,42,Divorcé(e),Consulting,Assistant de Direction,2,5,0
+Non,0,2,2,3,Infra & Cloud,Occasionnel,0,3,1,2,4,3,3,4,Non,30,Célibataire,Consulting,Tech Lead,2,5,0
+Non,0,5,7,3,Infra & Cloud,Occasionnel,11,1,3,5,1,4,1,3,Non,60,Marié(e),Consulting,Senior Manager,5,29,0
+Non,1,5,18,3,Transformation Digitale,Occasionnel,0,3,3,2,3,3,2,3,Non,46,Divorcé(e),Consulting,Tech Lead,2,10,0
+Non,3,4,28,4,Entrepreunariat,Frequent,0,4,2,2,4,4,4,3,Non,42,Marié(e),Consulting,Manager,0,6,0
+Oui,0,4,1,1,Entrepreunariat,Occasionnel,1,1,3,1,2,2,3,3,Oui,24,Célibataire,Commercial,Représentant Commercial,1,5,1
+Oui,1,3,6,2,Marketing,Frequent,1,4,1,1,3,4,2,3,Non,34,Divorcé(e),Commercial,Représentant Commercial,0,2,1
+Non,1,3,2,2,Infra & Cloud,Frequent,0,4,3,1,4,3,3,4,Oui,38,Marié(e),Consulting,Consultant,1,1,0
+Non,0,2,2,4,Infra & Cloud,Occasionnel,1,3,3,5,3,4,3,3,Non,40,Marié(e),Commercial,Senior Manager,0,20,0
+Non,2,3,23,3,Infra & Cloud,Occasionnel,0,1,3,1,4,2,1,4,Non,26,Divorcé(e),Consulting,Assistant de Direction,1,3,0
+Non,1,3,3,3,Infra & Cloud,Aucun,1,3,3,1,4,3,1,3,Non,30,Marié(e),Consulting,Consultant,4,5,0
+Non,0,2,3,4,Transformation Digitale,Occasionnel,0,2,2,3,3,3,3,3,Non,29,Marié(e),Consulting,Directeur Technique,1,10,0
+Oui,0,2,25,5,Entrepreunariat,Occasionnel,1,3,2,1,2,2,4,3,Non,29,Marié(e),Consulting,Assistant de Direction,5,2,1
+Oui,0,3,2,2,Entrepreunariat,Occasionnel,0,1,2,1,4,3,4,3,Non,19,Célibataire,Ressources Humaines,Ressources Humaines,1,1,1
+Non,0,3,22,4,Autre,Aucun,7,3,3,3,1,3,3,3,Non,30,Marié(e),Commercial,Cadre Commercial,0,9,0
+Non,1,3,29,3,Marketing,Occasionnel,0,1,2,4,4,3,2,3,Non,57,Divorcé(e),Commercial,Senior Manager,3,1,0
+Non,1,2,29,4,Infra & Cloud,Occasionnel,15,2,2,4,3,2,3,3,Non,50,Marié(e),Consulting,Senior Manager,0,27,0
+Non,0,2,2,3,Transformation Digitale,Aucun,6,3,3,1,4,3,2,3,Non,30,Célibataire,Consulting,Consultant,0,11,0
+Non,0,5,28,3,Marketing,Frequent,13,3,2,3,1,4,4,3,Non,60,Marié(e),Commercial,Cadre Commercial,4,18,0
+Non,3,2,2,2,Transformation Digitale,Occasionnel,0,1,3,2,4,3,3,3,Non,47,Divorcé(e),Consulting,Tech Lead,5,5,0
+Non,0,2,2,3,Infra & Cloud,Occasionnel,0,1,3,4,3,3,1,3,Non,46,Marié(e),Consulting,Directeur Technique,6,3,0
+Non,0,2,22,3,Infra & Cloud,Occasionnel,4,4,1,1,3,3,3,3,Non,35,Célibataire,Consulting,Consultant,0,5,0
+Non,0,3,8,4,Infra & Cloud,Occasionnel,0,3,3,2,3,3,3,3,Non,54,Célibataire,Consulting,Consultant,7,1,0
+Non,1,3,2,4,Infra & Cloud,Occasionnel,5,4,2,1,3,3,3,3,Non,34,Divorcé(e),Consulting,Assistant de Direction,3,7,0
+Non,1,3,10,3,Marketing,Occasionnel,1,3,2,3,4,3,3,3,Oui,46,Marié(e),Commercial,Cadre Commercial,2,3,0
+Non,1,6,9,1,Infra & Cloud,Occasionnel,0,3,3,3,2,4,4,4,Non,31,Divorcé(e),Consulting,Tech Lead,1,13,0
+Oui,0,2,15,1,Transformation Digitale,Occasionnel,7,2,3,3,3,4,4,3,Oui,33,Marié(e),Consulting,Senior Manager,7,7,1
+Oui,3,2,10,1,Transformation Digitale,Occasionnel,1,1,1,1,4,1,3,3,Non,33,Divorcé(e),Consulting,Consultant,7,4,1
+Non,0,3,7,1,Marketing,Occasionnel,1,4,3,1,2,1,3,3,Non,30,Célibataire,Commercial,Représentant Commercial,0,3,0
+Non,0,2,16,3,Infra & Cloud,Occasionnel,0,4,3,3,3,3,3,3,Oui,35,Marié(e),Consulting,Manager,4,8,0
+Oui,0,2,20,3,Infra & Cloud,Frequent,0,1,3,3,3,1,3,3,Non,31,Marié(e),Consulting,Manager,3,1,1
+Oui,3,2,23,3,Ressources Humaines,Frequent,0,2,3,3,1,3,3,3,Oui,34,Divorcé(e),Ressources Humaines,Ressources Humaines,9,3,1
+Non,1,4,5,2,Autre,Frequent,2,2,3,1,3,4,3,3,Non,42,Marié(e),Consulting,Consultant,4,2,0
+Non,0,3,10,4,Transformation Digitale,Aucun,9,2,3,3,4,4,2,3,Non,36,Célibataire,Commercial,Cadre Commercial,1,10,0
+Oui,0,3,4,1,Entrepreunariat,Frequent,1,3,2,1,3,3,3,3,Non,22,Célibataire,Consulting,Consultant,5,2,1
+Non,1,2,2,5,Marketing,Occasionnel,6,2,3,2,4,1,3,3,Non,48,Marié(e),Commercial,Cadre Commercial,2,9,0
+Non,0,2,18,5,Infra & Cloud,Occasionnel,7,1,3,4,2,4,3,4,Non,55,Célibataire,Commercial,Senior Manager,3,10,0
+Non,0,3,10,2,Infra & Cloud,Aucun,1,4,3,2,4,4,3,3,Non,41,Célibataire,Commercial,Cadre Commercial,7,14,0
+Non,0,2,1,3,Marketing,Occasionnel,6,2,3,2,3,3,3,3,Non,35,Marié(e),Commercial,Cadre Commercial,9,11,0
+Non,0,3,6,3,Infra & Cloud,Occasionnel,5,2,3,4,3,3,3,3,Non,40,Célibataire,Consulting,Tech Lead,7,20,0
+Non,1,3,8,1,Infra & Cloud,Frequent,0,3,3,1,3,1,3,3,Non,39,Marié(e),Consulting,Consultant,1,8,0
+Non,0,2,2,1,Infra & Cloud,Occasionnel,0,2,3,2,4,3,4,3,Oui,31,Célibataire,Commercial,Cadre Commercial,4,6,0
+Non,1,5,24,3,Transformation Digitale,Occasionnel,5,4,3,3,1,4,2,4,Oui,42,Marié(e),Consulting,Tech Lead,1,10,0
+Non,1,3,2,3,Autre,Occasionnel,3,4,3,2,2,2,4,3,Non,45,Marié(e),Commercial,Cadre Commercial,0,8,0
+Oui,1,2,17,4,Infra & Cloud,Frequent,1,2,3,1,3,2,2,3,Oui,26,Divorcé(e),Ressources Humaines,Ressources Humaines,0,7,1
+Non,2,2,19,3,Entrepreunariat,Occasionnel,1,4,3,2,4,2,4,3,Non,29,Divorcé(e),Consulting,Tech Lead,4,3,0
+Non,1,2,1,5,Transformation Digitale,Occasionnel,0,1,4,4,3,3,3,3,Non,33,Divorcé(e),Consulting,Directeur Technique,4,6,0
+Non,1,3,7,3,Infra & Cloud,Occasionnel,0,3,2,3,4,3,2,4,Non,31,Divorcé(e),Commercial,Senior Manager,9,5,0
+Oui,0,3,5,3,Marketing,Frequent,0,2,3,1,2,4,3,3,Oui,18,Célibataire,Commercial,Représentant Commercial,1,0,1
+Non,1,2,28,3,Autre,Aucun,0,3,1,3,1,3,3,3,Non,40,Divorcé(e),Commercial,Cadre Commercial,3,1,0
+Non,0,3,2,4,Autre,Aucun,0,1,2,2,3,1,3,3,Oui,41,Célibataire,Consulting,Manager,2,8,0
+Non,2,5,29,2,Transformation Digitale,Occasionnel,0,1,3,2,3,1,3,3,Non,26,Divorcé(e),Commercial,Cadre Commercial,5,0,0
+Non,0,3,1,3,Transformation Digitale,Occasionnel,0,1,3,2,3,4,3,3,Non,35,Célibataire,Commercial,Cadre Commercial,1,5,0
+Non,0,3,21,4,Infra & Cloud,Occasionnel,5,4,4,2,4,4,3,3,Non,34,Célibataire,Commercial,Cadre Commercial,1,10,0
+Oui,0,3,24,3,Entrepreunariat,Occasionnel,0,3,1,1,4,2,1,3,Oui,26,Célibataire,Consulting,Consultant,1,1,1
+Non,0,3,1,3,Entrepreunariat,Occasionnel,1,2,3,3,4,4,4,3,Non,37,Célibataire,Consulting,Tech Lead,4,6,0
+Non,0,3,18,1,Transformation Digitale,Frequent,1,1,3,3,3,4,2,3,Non,46,Marié(e),Consulting,Manager,5,2,0
+Non,1,2,2,5,Infra & Cloud,Occasionnel,11,2,3,4,1,2,3,3,Non,41,Marié(e),Commercial,Senior Manager,7,18,0
+Non,1,6,9,4,Transformation Digitale,Aucun,7,1,3,3,2,4,3,3,Non,37,Divorcé(e),Commercial,Cadre Commercial,1,9,0
+Non,2,3,6,2,Entrepreunariat,Occasionnel,6,4,3,2,1,2,3,3,Oui,52,Divorcé(e),Consulting,Assistant de Direction,3,10,0
+Oui,0,2,11,4,Autre,Aucun,1,4,4,2,3,4,3,3,Non,32,Marié(e),Commercial,Cadre Commercial,8,4,1
+Non,2,3,24,3,Transformation Digitale,Frequent,2,4,3,1,4,3,3,3,Non,24,Marié(e),Commercial,Représentant Commercial,0,2,0
+Non,1,4,10,3,Transformation Digitale,Occasionnel,0,3,3,2,3,3,3,3,Non,38,Marié(e),Consulting,Manager,3,1,0
+Non,1,2,1,4,Infra & Cloud,Occasionnel,4,2,3,2,2,2,2,3,Non,37,Marié(e),Consulting,Tech Lead,6,6,0
+Non,1,5,18,4,Infra & Cloud,Occasionnel,0,4,2,5,3,3,3,3,Oui,49,Divorcé(e),Consulting,Directeur Technique,1,31,0
+Non,2,3,23,3,Transformation Digitale,Occasionnel,1,2,4,1,4,2,3,3,Oui,24,Marié(e),Consulting,Assistant de Direction,1,6,0
+Non,2,5,28,2,Marketing,Occasionnel,1,1,3,2,2,4,4,4,Non,26,Marié(e),Commercial,Cadre Commercial,1,5,0
+Non,1,2,17,2,Autre,Occasionnel,0,4,2,1,2,4,3,4,Non,24,Marié(e),Consulting,Consultant,1,1,0
+Non,1,2,3,3,Transformation Digitale,Frequent,10,1,3,5,2,3,3,3,Non,50,Marié(e),Ressources Humaines,Senior Manager,1,32,0
+Non,0,1,13,1,Transformation Digitale,Occasionnel,0,2,3,1,3,3,3,3,Non,25,Marié(e),Commercial,Représentant Commercial,1,7,0
+Oui,1,4,7,3,Infra & Cloud,Frequent,1,1,3,1,3,4,3,3,Oui,24,Marié(e),Consulting,Consultant,1,6,1
+Oui,1,2,12,4,Infra & Cloud,Frequent,0,2,2,1,1,3,4,3,Non,30,Marié(e),Commercial,Représentant Commercial,1,1,1
+Non,1,3,1,2,Infra & Cloud,Occasionnel,1,2,2,1,4,4,3,3,Oui,34,Marié(e),Consulting,Assistant de Direction,1,6,0
+Oui,0,2,13,4,Transformation Digitale,Occasionnel,1,2,3,2,1,3,1,3,Non,31,Divorcé(e),Commercial,Cadre Commercial,2,3,1
+Non,0,3,25,2,Autre,Occasionnel,0,1,2,2,4,4,3,3,Non,35,Célibataire,Consulting,Consultant,4,3,0
+Non,2,4,6,4,Transformation Digitale,Occasionnel,5,1,4,2,4,4,4,4,Non,31,Divorcé(e),Commercial,Cadre Commercial,4,7,0
+Non,2,5,6,4,Transformation Digitale,Occasionnel,0,1,2,1,3,3,2,3,Non,27,Divorcé(e),Consulting,Assistant de Direction,0,5,0
+Non,1,3,2,3,Marketing,Occasionnel,1,4,3,2,3,3,2,3,Oui,37,Marié(e),Commercial,Cadre Commercial,4,3,0
+Non,0,0,1,3,Infra & Cloud,Occasionnel,0,4,2,1,2,4,4,3,Non,20,Célibataire,Consulting,Assistant de Direction,1,1,0
+Non,2,4,2,4,Infra & Cloud,Occasionnel,2,3,3,2,4,2,3,3,Non,42,Marié(e),Consulting,Manager,1,10,0
+Non,1,3,6,4,Autre,Occasionnel,0,2,2,4,4,3,2,3,Oui,43,Divorcé(e),Consulting,Directeur Technique,4,1,0
+Non,0,3,1,1,Infra & Cloud,Occasionnel,0,3,3,1,1,4,2,3,Non,38,Célibataire,Consulting,Assistant de Direction,3,0,0
+Non,1,3,9,5,Transformation Digitale,Frequent,4,4,3,2,3,2,3,3,Oui,43,Divorcé(e),Consulting,Consultant,3,8,0
+Non,1,3,1,4,Infra & Cloud,Occasionnel,0,4,2,4,1,1,1,3,Non,48,Marié(e),Consulting,Senior Manager,7,3,0
+Non,0,1,1,4,Infra & Cloud,Occasionnel,0,1,2,2,3,2,4,3,Non,44,Célibataire,Ressources Humaines,Ressources Humaines,4,2,0
+Non,2,3,14,3,Entrepreunariat,Occasionnel,0,3,3,1,3,4,3,3,Oui,34,Divorcé(e),Commercial,Représentant Commercial,1,8,0
+Oui,1,3,2,1,Marketing,Occasionnel,0,3,3,1,1,2,3,3,Non,27,Divorcé(e),Commercial,Représentant Commercial,0,4,1
+Non,0,2,22,1,Entrepreunariat,Occasionnel,1,3,3,1,3,3,3,3,Non,21,Célibataire,Commercial,Représentant Commercial,1,3,0
+Non,1,2,3,4,Autre,Occasionnel,0,4,3,5,4,1,4,3,Oui,44,Marié(e),Consulting,Senior Manager,4,2,0
+Non,0,3,6,1,Transformation Digitale,Occasionnel,2,1,3,1,3,4,3,4,Non,22,Marié(e),Consulting,Assistant de Direction,0,2,0
+Non,0,3,8,4,Marketing,Occasionnel,1,3,3,2,3,4,3,3,Non,33,Divorcé(e),Commercial,Cadre Commercial,0,5,0
+Non,1,2,9,4,Infra & Cloud,Occasionnel,0,1,3,2,4,4,2,3,Oui,32,Marié(e),Consulting,Assistant de Direction,1,6,0
+Non,1,2,3,3,Transformation Digitale,Frequent,0,3,3,1,3,3,3,4,Non,30,Divorcé(e),Consulting,Assistant de Direction,1,1,0
+Non,0,2,1,1,Transformation Digitale,Occasionnel,8,4,3,2,1,4,4,4,Non,53,Célibataire,Commercial,Cadre Commercial,7,14,0
+Non,1,4,1,5,Infra & Cloud,Occasionnel,8,2,3,1,4,4,2,3,Non,34,Marié(e),Consulting,Assistant de Direction,1,10,0
+Oui,2,4,26,4,Infra & Cloud,Frequent,0,1,3,2,1,4,3,3,Non,45,Marié(e),Commercial,Cadre Commercial,2,1,1
+Non,1,2,6,3,Infra & Cloud,Occasionnel,0,3,3,1,4,3,3,3,Oui,26,Marié(e),Consulting,Consultant,1,3,0
+Non,1,2,3,3,Autre,Occasionnel,7,3,3,3,3,3,3,3,Non,37,Marié(e),Consulting,Tech Lead,1,10,0
+Non,1,5,3,2,Transformation Digitale,Occasionnel,1,2,3,2,3,1,2,3,Non,29,Marié(e),Commercial,Cadre Commercial,1,6,0
+Non,0,3,6,4,Infra & Cloud,Occasionnel,11,2,1,2,4,2,3,3,Non,35,Célibataire,Consulting,Assistant de Direction,1,17,0
+Non,1,2,6,3,Infra & Cloud,Frequent,4,3,3,2,4,3,1,4,Non,33,Divorcé(e),Consulting,Manager,3,13,0
+Non,1,1,19,4,Transformation Digitale,Occasionnel,7,3,3,3,2,3,4,3,Non,54,Marié(e),Ressources Humaines,Ressources Humaines,2,9,0
+Non,1,2,9,2,Transformation Digitale,Occasionnel,0,2,2,2,2,3,3,3,Oui,36,Divorcé(e),Consulting,Tech Lead,2,3,0
+Non,0,0,3,4,Transformation Digitale,Occasionnel,1,1,2,1,4,4,3,3,Non,27,Célibataire,Consulting,Assistant de Direction,0,4,0
+Oui,0,5,10,1,Transformation Digitale,Occasionnel,1,4,3,1,3,4,3,3,Oui,20,Célibataire,Consulting,Assistant de Direction,1,1,1
+Oui,0,3,3,3,Infra & Cloud,Frequent,9,1,3,1,1,1,3,3,Oui,33,Célibataire,Consulting,Assistant de Direction,1,10,1
+Non,2,3,3,3,Infra & Cloud,Aucun,0,3,2,1,3,3,3,3,Non,35,Marié(e),Consulting,Consultant,1,1,0
+Non,1,3,4,3,Transformation Digitale,Occasionnel,0,1,4,1,1,1,4,3,Non,23,Marié(e),Consulting,Assistant de Direction,2,3,0
+Non,1,4,8,3,Infra & Cloud,Occasionnel,1,4,4,2,2,3,3,4,Non,25,Marié(e),Commercial,Cadre Commercial,0,3,0
+Non,0,2,7,4,Marketing,Occasionnel,0,4,2,2,4,1,3,4,Non,38,Célibataire,Commercial,Cadre Commercial,0,7,0
+Non,1,5,1,4,Infra & Cloud,Frequent,2,2,1,1,4,4,3,3,Non,29,Divorcé(e),Consulting,Assistant de Direction,1,10,0
+Non,0,3,2,1,Marketing,Occasionnel,2,2,4,2,2,4,3,3,Non,48,Marié(e),Commercial,Cadre Commercial,3,2,0
+Non,2,3,3,1,Transformation Digitale,Frequent,0,4,4,2,4,2,3,4,Oui,27,Divorcé(e),Commercial,Cadre Commercial,1,6,0
+Non,0,2,10,2,Infra & Cloud,Occasionnel,0,4,4,1,4,1,3,3,Non,37,Célibataire,Consulting,Assistant de Direction,3,1,0
+Non,3,3,28,1,Transformation Digitale,Occasionnel,3,4,4,1,3,3,3,3,Oui,50,Marié(e),Consulting,Consultant,1,20,0
+Non,0,3,9,3,Transformation Digitale,Occasionnel,7,4,2,3,2,2,4,3,Non,34,Célibataire,Consulting,Manager,1,8,0
+Oui,0,3,3,2,Infra & Cloud,Occasionnel,2,1,3,2,3,1,3,3,Non,24,Célibataire,Commercial,Cadre Commercial,9,2,1
+Non,0,4,2,4,Entrepreunariat,Occasionnel,11,4,2,2,3,1,3,3,Non,39,Célibataire,Consulting,Manager,1,20,0
+Non,0,2,10,3,Marketing,Occasionnel,0,4,3,2,4,4,2,3,Non,32,Célibataire,Commercial,Cadre Commercial,1,10,0
+Oui,1,4,8,2,Entrepreunariat,Frequent,1,2,3,2,3,1,3,3,Oui,50,Marié(e),Commercial,Cadre Commercial,3,4,1
+Non,0,4,1,4,Infra & Cloud,Occasionnel,1,2,4,2,4,3,2,3,Non,38,Célibataire,Consulting,Manager,0,9,0
+Non,0,3,1,2,Infra & Cloud,Occasionnel,0,3,3,3,1,4,3,3,Non,27,Marié(e),Consulting,Tech Lead,1,9,0
+Non,0,6,3,2,Infra & Cloud,Occasionnel,7,3,3,3,4,4,3,3,Non,32,Célibataire,Consulting,Directeur Technique,3,7,0
+Non,0,2,14,4,Marketing,Occasionnel,1,4,3,2,1,4,3,3,Non,47,Célibataire,Commercial,Cadre Commercial,2,7,0
+Non,1,2,5,4,Infra & Cloud,Frequent,1,4,2,3,1,3,3,4,Oui,40,Marié(e),Commercial,Cadre Commercial,5,18,0
+Non,0,3,7,3,Infra & Cloud,Occasionnel,1,3,4,4,3,3,3,3,Non,53,Marié(e),Consulting,Directeur Technique,3,5,0
+Non,3,2,10,4,Ressources Humaines,Occasionnel,12,2,2,5,4,2,2,3,Non,41,Divorcé(e),Ressources Humaines,Senior Manager,3,21,0
+Non,0,1,16,4,Marketing,Occasionnel,2,1,3,2,1,4,3,3,Non,60,Célibataire,Commercial,Cadre Commercial,8,2,0
+Non,2,4,10,2,Infra & Cloud,Frequent,1,4,3,3,1,3,2,4,Non,27,Divorcé(e),Consulting,Tech Lead,1,9,0
+Non,1,3,1,3,Ressources Humaines,Occasionnel,2,4,2,5,3,2,3,3,Non,41,Marié(e),Ressources Humaines,Senior Manager,1,22,0
+Non,1,2,8,4,Marketing,Occasionnel,2,4,3,1,2,4,3,3,Non,50,Marié(e),Commercial,Représentant Commercial,7,2,0
+Oui,0,4,1,2,Infra & Cloud,Occasionnel,3,1,1,1,2,4,3,3,Oui,28,Célibataire,Consulting,Assistant de Direction,7,7,1
+Non,1,2,8,3,Infra & Cloud,Aucun,0,1,4,3,1,1,3,3,Non,36,Marié(e),Consulting,Directeur Technique,9,8,0
+Non,0,4,1,3,Infra & Cloud,Occasionnel,0,3,3,3,3,4,4,3,Oui,38,Célibataire,Consulting,Tech Lead,4,1,0
+Non,0,5,24,3,Transformation Digitale,Aucun,1,1,1,1,3,3,3,3,Non,44,Célibataire,Consulting,Consultant,2,5,0
+Non,2,2,3,3,Transformation Digitale,Frequent,11,4,3,4,3,4,2,3,Oui,47,Divorcé(e),Commercial,Cadre Commercial,9,22,0
+Non,1,2,27,5,Marketing,Occasionnel,7,3,3,2,4,4,2,4,Non,30,Divorcé(e),Commercial,Cadre Commercial,7,8,0
+Non,0,6,10,3,Infra & Cloud,Occasionnel,0,3,3,1,3,3,3,3,Non,29,Célibataire,Commercial,Représentant Commercial,1,1,0
+Oui,0,2,19,3,Transformation Digitale,Frequent,2,3,4,1,3,4,3,3,Oui,42,Divorcé(e),Consulting,Assistant de Direction,6,2,1
+Non,1,5,15,3,Infra & Cloud,Frequent,2,4,2,2,4,3,3,3,Non,43,Marié(e),Commercial,Cadre Commercial,3,2,0
+Non,0,2,8,2,Transformation Digitale,Occasionnel,4,2,3,2,3,4,3,3,Non,34,Célibataire,Consulting,Manager,3,5,0
+Non,1,2,9,1,Transformation Digitale,Occasionnel,0,2,3,1,1,4,4,3,Non,23,Marié(e),Consulting,Consultant,1,4,0
+Non,1,3,3,3,Ressources Humaines,Occasionnel,3,3,4,2,2,3,1,3,Non,39,Marié(e),Ressources Humaines,Ressources Humaines,9,8,0
+Non,0,1,9,3,Transformation Digitale,Occasionnel,1,3,3,4,4,3,2,3,Non,56,Marié(e),Consulting,Manager,7,10,0
+Non,0,2,2,1,Transformation Digitale,Occasionnel,2,4,2,1,4,4,2,4,Oui,40,Célibataire,Consulting,Assistant de Direction,0,4,0
+Non,0,2,7,3,Transformation Digitale,Occasionnel,0,4,2,2,1,1,1,3,Non,27,Célibataire,Consulting,Manager,8,7,0
+Non,2,2,10,3,Marketing,Occasionnel,2,4,3,1,2,4,3,3,Non,29,Divorcé(e),Commercial,Représentant Commercial,1,2,0
+Non,0,4,6,3,Infra & Cloud,Occasionnel,2,4,3,2,4,4,3,3,Non,53,Célibataire,Consulting,Consultant,2,2,0
+Non,1,2,2,4,Infra & Cloud,Aucun,0,4,3,2,1,1,4,3,Non,35,Divorcé(e),Consulting,Manager,2,1,0
+Non,2,2,24,4,Infra & Cloud,Frequent,4,1,3,2,4,4,3,3,Non,32,Marié(e),Consulting,Consultant,1,10,0
+Non,1,0,2,5,Transformation Digitale,Occasionnel,0,4,3,1,3,2,1,3,Oui,38,Marié(e),Consulting,Assistant de Direction,6,1,0
+Non,1,3,8,5,Infra & Cloud,Occasionnel,0,2,3,2,1,3,3,3,Non,34,Divorcé(e),Consulting,Tech Lead,3,0,0
+Non,0,3,3,4,Marketing,Occasionnel,1,3,2,4,1,1,4,3,Non,52,Marié(e),Commercial,Senior Manager,1,34,0
+Oui,0,2,1,4,Autre,Occasionnel,7,4,3,1,4,3,2,3,Oui,33,Célibataire,Consulting,Assistant de Direction,1,10,1
+Non,0,5,26,1,Transformation Digitale,Occasionnel,1,3,3,2,4,2,2,4,Non,25,Célibataire,Commercial,Cadre Commercial,1,6,0
+Non,0,3,2,2,Entrepreunariat,Occasionnel,3,2,1,2,3,1,3,3,Non,45,Célibataire,Commercial,Représentant Commercial,0,8,0
+Non,0,3,10,1,Transformation Digitale,Occasionnel,0,1,4,1,3,4,3,3,Non,23,Célibataire,Consulting,Assistant de Direction,1,2,0
+Oui,0,2,27,2,Infra & Cloud,Frequent,1,2,4,2,3,4,3,3,Oui,47,Célibataire,Commercial,Cadre Commercial,4,5,1
+Non,0,5,2,3,Autre,Occasionnel,1,4,3,2,4,3,3,4,Non,34,Célibataire,Commercial,Cadre Commercial,1,6,0
+Oui,1,2,2,3,Transformation Digitale,Occasionnel,1,4,3,5,1,4,3,3,Oui,55,Marié(e),Consulting,Senior Manager,5,5,1
+Non,0,1,8,4,Infra & Cloud,Aucun,0,1,2,3,1,2,3,3,Non,36,Célibataire,Commercial,Cadre Commercial,1,10,0
+Non,1,3,19,4,Transformation Digitale,Aucun,1,4,3,1,4,1,3,3,Non,52,Marié(e),Consulting,Assistant de Direction,0,4,0
+Non,1,2,1,2,Infra & Cloud,Frequent,2,1,1,1,4,1,3,3,Non,26,Divorcé(e),Consulting,Consultant,3,2,0
+Non,1,3,27,3,Transformation Digitale,Occasionnel,1,2,3,2,3,1,2,3,Non,29,Marié(e),Consulting,Manager,4,8,0
+Oui,0,2,8,3,Entrepreunariat,Occasionnel,1,4,2,2,1,3,2,3,Non,26,Célibataire,Commercial,Cadre Commercial,6,4,1
+Non,0,2,1,4,Infra & Cloud,Occasionnel,1,2,4,1,4,3,3,3,Non,34,Célibataire,Consulting,Assistant de Direction,2,4,0
+Non,2,4,19,4,Transformation Digitale,Occasionnel,1,4,3,2,1,2,3,3,Oui,54,Divorcé(e),Consulting,Tech Lead,9,5,0
+Non,1,3,8,1,Marketing,Frequent,1,3,3,2,4,2,3,3,Non,27,Marié(e),Commercial,Cadre Commercial,0,4,0
+Non,2,3,10,1,Infra & Cloud,Occasionnel,4,4,3,1,1,2,2,3,Oui,37,Divorcé(e),Consulting,Assistant de Direction,0,5,0
+Non,0,2,2,4,Infra & Cloud,Frequent,4,1,4,2,1,4,3,3,Oui,38,Célibataire,Consulting,Tech Lead,6,15,0
+Non,0,3,2,4,Transformation Digitale,Occasionnel,1,3,2,1,1,3,3,3,Non,34,Célibataire,Consulting,Assistant de Direction,1,6,0
+Non,1,1,8,4,Infra & Cloud,Occasionnel,0,1,3,1,4,2,2,3,Non,35,Marié(e),Commercial,Représentant Commercial,1,3,0
+Non,2,2,1,3,Infra & Cloud,Occasionnel,0,4,1,1,3,3,3,4,Non,30,Marié(e),Consulting,Consultant,3,2,0
+Non,1,2,2,2,Transformation Digitale,Frequent,3,3,4,2,2,4,3,4,Non,40,Marié(e),Consulting,Manager,1,8,0
+Non,1,1,8,2,Infra & Cloud,Occasionnel,1,3,3,2,1,2,3,3,Non,34,Marié(e),Commercial,Cadre Commercial,5,3,0
+Non,1,4,8,3,Infra & Cloud,Frequent,14,2,3,5,4,2,2,3,Non,42,Divorcé(e),Consulting,Senior Manager,1,24,0
+Oui,2,2,6,3,Infra & Cloud,Occasionnel,0,3,4,1,1,3,3,4,Oui,23,Marié(e),Consulting,Consultant,1,0,1
+Non,3,4,9,3,Infra & Cloud,Aucun,0,3,2,1,2,3,3,3,Non,24,Divorcé(e),Consulting,Consultant,1,1,0
+Non,1,3,11,4,Infra & Cloud,Occasionnel,1,4,3,2,3,2,3,4,Non,52,Marié(e),Consulting,Consultant,8,5,0
+Non,0,3,2,3,Transformation Digitale,Occasionnel,0,3,3,4,3,4,3,3,Non,50,Marié(e),Consulting,Directeur Technique,5,4,0
+Oui,1,1,1,2,Infra & Cloud,Occasionnel,0,2,2,1,1,4,3,3,Oui,29,Marié(e),Consulting,Consultant,1,1,1
+Non,0,3,7,3,Transformation Digitale,Occasionnel,3,3,3,3,3,4,4,3,Non,33,Marié(e),Consulting,Directeur Technique,0,13,0
+Oui,0,3,16,3,Marketing,Occasionnel,0,1,3,2,1,3,3,3,Non,33,Célibataire,Commercial,Cadre Commercial,5,3,1
+Non,1,3,2,2,Autre,Occasionnel,3,3,3,4,4,3,2,3,Oui,47,Marié(e),Consulting,Senior Manager,1,26,0
+Non,1,2,1,3,Autre,Occasionnel,0,3,3,2,2,1,3,3,Non,36,Marié(e),Consulting,Tech Lead,0,9,0
+Non,1,3,23,2,Infra & Cloud,Occasionnel,0,3,4,1,3,3,3,4,Non,29,Marié(e),Consulting,Assistant de Direction,1,10,0
+Oui,0,2,2,4,Infra & Cloud,Occasionnel,13,4,3,5,2,4,3,3,Oui,58,Célibataire,Consulting,Directeur Technique,7,31,1
+Non,0,0,1,4,Infra & Cloud,Occasionnel,2,4,4,1,3,3,3,3,Non,35,Célibataire,Consulting,Assistant de Direction,3,2,0
+Non,1,4,1,2,Infra & Cloud,Occasionnel,0,4,2,2,4,4,3,3,Oui,42,Marié(e),Consulting,Tech Lead,9,4,0
+Oui,0,3,2,4,Transformation Digitale,Occasionnel,2,3,3,1,3,4,2,3,Non,28,Célibataire,Consulting,Assistant de Direction,6,2,1
+Non,1,2,13,3,Ressources Humaines,Occasionnel,0,3,3,1,2,2,3,3,Non,36,Marié(e),Ressources Humaines,Ressources Humaines,4,5,0
+Non,1,3,4,3,Infra & Cloud,Occasionnel,6,3,2,2,3,3,3,3,Non,32,Marié(e),Consulting,Tech Lead,1,14,0
+Non,0,6,16,4,Transformation Digitale,Frequent,0,1,2,2,3,4,3,3,Non,40,Célibataire,Consulting,Consultant,6,1,0
+Non,0,4,2,3,Transformation Digitale,Occasionnel,0,3,2,2,4,2,2,4,Oui,30,Célibataire,Consulting,Tech Lead,5,0,0
+Non,0,3,2,3,Infra & Cloud,Occasionnel,0,2,2,1,3,4,3,3,Non,45,Célibataire,Consulting,Assistant de Direction,1,1,0
+Non,1,3,29,3,Infra & Cloud,Occasionnel,7,2,3,2,2,4,2,3,Non,42,Marié(e),Consulting,Tech Lead,1,9,0
+Non,1,3,12,3,Infra & Cloud,Frequent,1,1,2,2,1,3,2,3,Non,38,Divorcé(e),Consulting,Manager,2,4,0
+Non,0,3,16,4,Infra & Cloud,Frequent,1,3,2,1,4,3,3,3,Non,34,Célibataire,Consulting,Assistant de Direction,1,5,0
+Oui,2,3,11,3,Marketing,Occasionnel,7,3,3,3,4,1,4,3,Non,49,Marié(e),Commercial,Cadre Commercial,1,9,1
+Oui,0,3,2,1,Transformation Digitale,Occasionnel,7,3,3,2,4,3,2,3,Non,55,Célibataire,Commercial,Cadre Commercial,4,9,1
+Non,1,3,14,2,Infra & Cloud,Occasionnel,1,2,3,4,1,3,3,4,Non,43,Marié(e),Consulting,Directeur Technique,6,4,0
+Non,1,3,5,1,Entrepreunariat,Occasionnel,0,3,2,3,4,2,3,3,Oui,27,Divorcé(e),Consulting,Directeur Technique,1,9,0
+Non,0,3,7,3,Autre,Occasionnel,1,3,3,3,3,2,4,4,Non,35,Célibataire,Consulting,Tech Lead,3,8,0
+Non,0,2,2,4,Marketing,Occasionnel,7,2,3,2,2,1,3,4,Oui,28,Marié(e),Commercial,Cadre Commercial,1,8,0
+Non,1,1,3,2,Ressources Humaines,Occasionnel,0,3,3,1,4,3,1,3,Non,34,Marié(e),Ressources Humaines,Ressources Humaines,0,3,0
+Oui,1,2,5,2,Transformation Digitale,Frequent,1,3,2,1,3,1,3,3,Oui,26,Marié(e),Consulting,Assistant de Direction,1,8,1
+Non,3,6,3,3,Transformation Digitale,Aucun,0,4,3,1,4,3,2,3,Non,27,Marié(e),Consulting,Assistant de Direction,1,0,0
+Non,1,2,26,4,Marketing,Occasionnel,4,1,3,4,3,3,2,3,Non,51,Marié(e),Commercial,Senior Manager,2,20,0
+Non,0,2,4,3,Transformation Digitale,Occasionnel,2,4,3,2,2,4,2,3,Non,44,Célibataire,Consulting,Manager,9,5,0
+Non,0,3,2,1,Transformation Digitale,Occasionnel,0,1,4,1,1,3,2,3,Non,25,Célibataire,Consulting,Assistant de Direction,7,4,0
+Non,1,5,1,3,Transformation Digitale,Occasionnel,0,1,4,2,1,1,3,4,Non,33,Divorcé(e),Commercial,Cadre Commercial,1,9,0
+Non,0,3,27,1,Transformation Digitale,Occasionnel,1,3,2,1,1,4,2,3,Non,35,Célibataire,Consulting,Assistant de Direction,1,6,0
+Non,1,1,1,2,Infra & Cloud,Occasionnel,4,2,3,2,4,4,2,3,Oui,36,Marié(e),Commercial,Cadre Commercial,1,18,0
+Non,1,3,13,4,Infra & Cloud,Occasionnel,0,2,3,2,4,3,2,3,Non,32,Divorcé(e),Commercial,Cadre Commercial,2,5,0
+Non,1,3,5,4,Infra & Cloud,Frequent,0,2,2,1,4,2,2,3,Non,30,Divorcé(e),Consulting,Assistant de Direction,9,5,0
+Non,1,3,7,2,Marketing,Occasionnel,0,1,2,3,4,4,3,3,Oui,53,Marié(e),Commercial,Cadre Commercial,7,5,0
+Non,1,2,9,3,Marketing,Occasionnel,0,4,3,3,1,3,3,3,Oui,45,Divorcé(e),Commercial,Cadre Commercial,4,5,0
+Non,1,3,8,2,Transformation Digitale,Occasionnel,1,3,4,2,3,3,2,3,Non,32,Marié(e),Consulting,Assistant de Direction,5,5,0
+Non,0,3,25,4,Transformation Digitale,Frequent,0,3,2,4,4,3,3,4,Non,52,Marié(e),Consulting,Tech Lead,3,9,0
+Non,2,2,16,4,Marketing,Occasionnel,0,4,2,2,3,4,3,3,Non,37,Divorcé(e),Commercial,Cadre Commercial,4,1,0
+Non,1,6,8,2,Transformation Digitale,Occasionnel,0,2,2,1,4,4,3,3,Non,28,Divorcé(e),Ressources Humaines,Ressources Humaines,1,5,0
+Non,2,2,1,2,Infra & Cloud,Occasionnel,2,4,2,2,4,1,1,4,Non,22,Marié(e),Consulting,Tech Lead,6,2,0
+Non,1,2,8,4,Infra & Cloud,Occasionnel,0,1,4,1,4,3,2,4,Oui,44,Marié(e),Consulting,Consultant,2,3,0
+Non,0,2,2,1,Transformation Digitale,Frequent,2,2,3,1,4,4,3,3,Oui,42,Célibataire,Consulting,Assistant de Direction,5,2,0
+Non,0,3,8,3,Infra & Cloud,Occasionnel,0,1,2,1,1,3,3,4,Non,36,Marié(e),Ressources Humaines,Ressources Humaines,0,5,0
+Non,0,3,3,1,Autre,Occasionnel,0,3,3,2,1,4,3,3,Oui,25,Marié(e),Commercial,Cadre Commercial,1,5,0
+Non,1,2,9,3,Infra & Cloud,Occasionnel,5,4,2,3,3,2,3,4,Oui,35,Marié(e),Consulting,Tech Lead,1,17,0
+Oui,1,3,25,4,Infra & Cloud,Frequent,7,4,3,1,2,1,2,3,Oui,35,Divorcé(e),Consulting,Assistant de Direction,1,10,1
+Non,1,2,1,3,Infra & Cloud,Aucun,0,4,3,1,4,2,3,3,Non,32,Divorcé(e),Consulting,Consultant,0,3,0
+Non,0,1,4,1,Marketing,Occasionnel,0,3,2,2,1,1,4,3,Non,25,Marié(e),Commercial,Cadre Commercial,1,5,0
+Non,1,2,1,3,Entrepreunariat,Occasionnel,0,3,3,1,1,2,3,3,Non,49,Marié(e),Consulting,Assistant de Direction,2,4,0
+Non,0,2,4,1,Infra & Cloud,Aucun,3,1,2,1,4,4,2,3,Non,24,Marié(e),Consulting,Consultant,0,5,0
+Non,1,3,5,2,Infra & Cloud,Frequent,5,2,3,2,2,4,3,3,Non,32,Marié(e),Commercial,Cadre Commercial,1,10,0
+Non,1,3,9,3,Marketing,Occasionnel,1,2,2,1,2,4,3,3,Non,38,Marié(e),Commercial,Représentant Commercial,0,2,0
+Non,1,1,3,3,Infra & Cloud,Occasionnel,1,3,4,2,4,2,2,3,Oui,42,Marié(e),Consulting,Consultant,2,5,0
+Non,1,2,11,4,Infra & Cloud,Occasionnel,0,4,3,1,4,2,3,3,Oui,31,Marié(e),Consulting,Assistant de Direction,3,6,0
+Oui,3,3,1,3,Transformation Digitale,Occasionnel,0,2,2,1,3,3,3,3,Oui,29,Divorcé(e),Commercial,Représentant Commercial,6,3,1
+Non,1,3,8,3,Marketing,Occasionnel,2,1,3,4,4,3,3,3,Non,53,Marié(e),Commercial,Cadre Commercial,5,2,0
+Non,0,2,25,3,Entrepreunariat,Occasionnel,4,4,2,3,2,1,3,3,Non,35,Marié(e),Consulting,Tech Lead,3,13,0
+Non,1,3,21,2,Transformation Digitale,Frequent,0,3,3,1,4,2,3,3,Non,37,Marié(e),Commercial,Représentant Commercial,5,5,0
+Non,0,0,23,4,Infra & Cloud,Occasionnel,3,4,3,4,4,3,3,3,Non,53,Célibataire,Consulting,Directeur Technique,6,12,0
+Non,1,2,1,3,Infra & Cloud,Frequent,2,4,3,2,4,2,2,3,Non,43,Marié(e),Consulting,Manager,4,5,0
+Non,1,2,2,2,Marketing,Occasionnel,7,3,3,2,4,1,3,4,Oui,47,Marié(e),Commercial,Cadre Commercial,0,7,0
+Non,0,2,19,2,Transformation Digitale,Aucun,0,1,3,3,2,4,3,3,Oui,37,Célibataire,Commercial,Cadre Commercial,1,10,0
+Non,1,3,2,4,Infra & Cloud,Aucun,14,1,3,4,1,4,3,3,Non,50,Divorcé(e),Consulting,Senior Manager,1,31,0
+Non,2,2,2,3,Infra & Cloud,Occasionnel,0,4,2,2,4,3,3,3,Non,39,Marié(e),Ressources Humaines,Ressources Humaines,8,5,0
+Non,1,4,3,2,Ressources Humaines,Occasionnel,0,4,3,1,2,3,4,3,Oui,33,Divorcé(e),Ressources Humaines,Ressources Humaines,3,4,0
+Oui,0,2,25,4,Infra & Cloud,Occasionnel,0,1,3,1,4,3,1,4,Oui,32,Célibataire,Consulting,Consultant,1,1,1
+Non,3,5,7,1,Transformation Digitale,Occasionnel,0,1,2,1,4,3,3,3,Non,29,Divorcé(e),Consulting,Consultant,6,4,0
+Non,0,0,9,2,Infra & Cloud,Occasionnel,7,2,3,1,1,4,3,3,Oui,44,Marié(e),Consulting,Assistant de Direction,1,8,0
+Non,0,3,5,4,Transformation Digitale,Occasionnel,0,1,3,2,4,2,3,3,Non,28,Célibataire,Commercial,Cadre Commercial,1,4,0
+Oui,1,3,2,1,Infra & Cloud,Frequent,0,4,2,1,4,4,2,3,Oui,58,Divorcé(e),Consulting,Consultant,9,1,1
+Non,1,2,8,3,Infra & Cloud,Occasionnel,0,1,3,2,2,3,4,4,Non,43,Divorcé(e),Consulting,Tech Lead,4,1,0
+Oui,0,3,2,3,Transformation Digitale,Occasionnel,0,3,2,1,3,4,2,3,Non,20,Célibataire,Commercial,Représentant Commercial,1,2,1
+Oui,0,3,18,1,Autre,Occasionnel,0,4,3,1,4,1,2,3,Non,21,Célibataire,Consulting,Assistant de Direction,1,1,1
+Non,1,2,14,1,Infra & Cloud,Occasionnel,4,3,3,2,4,1,2,3,Oui,36,Marié(e),Consulting,Manager,0,16,0
+Non,0,3,2,4,Infra & Cloud,Occasionnel,1,4,2,1,4,1,2,3,Oui,47,Célibataire,Commercial,Représentant Commercial,1,3,0
+Oui,1,3,3,1,Infra & Cloud,Occasionnel,0,2,3,2,3,1,4,3,Oui,22,Marié(e),Consulting,Tech Lead,0,3,1
+Oui,1,1,2,4,Infra & Cloud,Occasionnel,1,2,1,1,4,3,2,3,Oui,41,Divorcé(e),Consulting,Consultant,4,7,1
+Non,1,2,9,3,Transformation Digitale,Occasionnel,2,3,3,1,3,2,3,3,Non,28,Divorcé(e),Consulting,Assistant de Direction,5,2,0
+Oui,0,2,6,3,Transformation Digitale,Occasionnel,2,4,3,1,1,4,1,4,Oui,39,Marié(e),Consulting,Consultant,7,2,1
+Non,0,2,4,3,Infra & Cloud,Occasionnel,0,2,3,1,3,3,3,3,Non,27,Célibataire,Consulting,Assistant de Direction,1,1,0
+Non,2,3,10,3,Infra & Cloud,Occasionnel,1,2,3,1,2,2,3,3,Non,34,Divorcé(e),Consulting,Consultant,1,1,0
+Non,0,6,14,2,Transformation Digitale,Occasionnel,0,3,2,2,3,1,3,3,Non,42,Célibataire,Commercial,Cadre Commercial,7,5,0
+Non,0,1,1,4,Autre,Occasionnel,0,3,2,1,1,2,3,3,Oui,33,Célibataire,Consulting,Assistant de Direction,3,3,0
+Non,1,3,5,3,Entrepreunariat,Occasionnel,0,3,2,3,2,4,3,3,Oui,58,Divorcé(e),Consulting,Manager,2,6,0
+Non,0,2,7,4,Infra & Cloud,Occasionnel,5,2,2,1,3,2,4,3,Non,31,Marié(e),Commercial,Représentant Commercial,3,7,0
+Non,1,2,21,1,Infra & Cloud,Occasionnel,0,4,3,2,4,4,1,4,Oui,35,Marié(e),Consulting,Manager,1,10,0
+Non,1,3,8,2,Autre,Occasionnel,1,1,3,3,2,3,2,3,Non,49,Marié(e),Consulting,Consultant,4,26,0
+Non,2,2,20,4,Transformation Digitale,Occasionnel,0,4,3,1,3,1,2,3,Non,48,Marié(e),Consulting,Assistant de Direction,4,0,0
+Non,1,2,20,2,Marketing,Aucun,0,4,3,2,3,4,2,3,Non,31,Marié(e),Commercial,Cadre Commercial,1,9,0
+Non,0,6,7,4,Autre,Occasionnel,0,2,3,1,4,3,3,3,Non,36,Célibataire,Consulting,Assistant de Direction,2,6,0
+Non,1,3,1,3,Entrepreunariat,Occasionnel,5,4,3,3,1,2,3,3,Non,38,Marié(e),Consulting,Directeur Technique,1,15,0
+Non,0,3,1,3,Infra & Cloud,Aucun,0,3,2,1,2,3,3,4,Non,32,Marié(e),Consulting,Consultant,6,3,0
+Oui,3,2,19,2,Marketing,Occasionnel,0,3,2,1,2,3,3,3,Oui,25,Marié(e),Commercial,Représentant Commercial,1,1,1
+Non,1,2,10,4,Marketing,Occasionnel,0,1,2,3,2,2,2,3,Non,40,Divorcé(e),Commercial,Cadre Commercial,2,1,0
+Non,0,2,1,3,Transformation Digitale,Frequent,0,3,2,2,1,2,3,3,Non,26,Célibataire,Commercial,Cadre Commercial,1,7,0
+Non,0,3,6,3,Transformation Digitale,Occasionnel,2,4,3,1,1,3,3,3,Oui,41,Célibataire,Consulting,Consultant,2,18,0
+Non,0,6,2,4,Transformation Digitale,Occasionnel,3,3,3,1,3,3,3,4,Non,36,Célibataire,Consulting,Consultant,4,11,0
+Oui,0,3,21,3,Autre,Occasionnel,0,4,2,1,2,2,4,3,Oui,19,Célibataire,Commercial,Représentant Commercial,1,1,1
+Oui,0,2,4,3,Entrepreunariat,Occasionnel,0,1,3,1,1,2,3,3,Non,20,Célibataire,Consulting,Consultant,1,1,1
+Non,2,2,12,3,Transformation Digitale,Occasionnel,8,4,3,2,4,3,1,3,Oui,31,Marié(e),Consulting,Manager,0,9,0
+Non,1,2,9,4,Transformation Digitale,Frequent,0,4,3,1,2,4,3,3,Oui,40,Divorcé(e),Consulting,Assistant de Direction,8,1,0
+Non,1,2,3,4,Transformation Digitale,Occasionnel,6,3,3,2,1,3,4,3,Non,32,Marié(e),Consulting,Tech Lead,1,8,0
+Oui,1,6,3,1,Infra & Cloud,Occasionnel,3,3,2,3,4,1,3,3,Oui,36,Marié(e),Commercial,Cadre Commercial,1,16,1
+Non,0,3,1,3,Infra & Cloud,Occasionnel,1,2,2,2,4,1,3,3,Non,33,Célibataire,Consulting,Manager,0,5,0
+Oui,0,2,1,4,Infra & Cloud,Occasionnel,11,1,2,3,3,3,1,3,Non,37,Marié(e),Commercial,Cadre Commercial,5,14,1
+Non,0,5,4,2,Infra & Cloud,Aucun,0,3,3,2,2,2,2,3,Non,45,Marié(e),Consulting,Consultant,1,9,0
+Non,1,5,20,3,Entrepreunariat,Frequent,0,3,3,1,4,2,3,3,Non,29,Marié(e),Commercial,Représentant Commercial,1,3,0
+Non,0,3,18,3,Transformation Digitale,Occasionnel,1,3,3,2,3,2,3,3,Non,35,Marié(e),Commercial,Cadre Commercial,1,5,0
+Non,1,2,1,2,Infra & Cloud,Occasionnel,7,4,3,4,4,2,2,3,Non,52,Marié(e),Consulting,Senior Manager,2,9,0
+Oui,0,4,2,3,Entrepreunariat,Occasionnel,0,4,3,1,3,1,3,4,Non,58,Célibataire,Consulting,Assistant de Direction,4,1,1
+Non,1,3,2,2,Transformation Digitale,Occasionnel,15,3,3,4,3,3,4,3,Non,53,Divorcé(e),Commercial,Senior Manager,6,17,0
+Non,1,2,8,2,Autre,Occasionnel,7,3,3,3,3,1,4,3,Non,30,Divorcé(e),Commercial,Cadre Commercial,5,8,0
+Non,0,1,10,3,Entrepreunariat,Aucun,1,3,3,2,4,2,3,3,Oui,38,Célibataire,Commercial,Cadre Commercial,1,5,0
+Non,1,2,3,4,Infra & Cloud,Occasionnel,0,4,3,3,4,2,3,3,Non,35,Divorcé(e),Commercial,Cadre Commercial,6,10,0
+Non,0,3,2,5,Infra & Cloud,Occasionnel,0,1,4,3,3,4,3,3,Non,39,Célibataire,Commercial,Cadre Commercial,0,8,0
+Oui,0,2,24,3,Infra & Cloud,Aucun,0,2,4,4,2,4,2,3,Oui,40,Célibataire,Commercial,Cadre Commercial,4,1,1
+Non,0,3,16,4,Transformation Digitale,Frequent,2,3,4,2,3,3,4,3,Oui,47,Divorcé(e),Consulting,Tech Lead,1,19,0
+Non,2,3,8,4,Entrepreunariat,Aucun,0,1,3,2,4,4,3,3,Non,36,Divorcé(e),Commercial,Cadre Commercial,4,7,0
+Oui,0,0,9,2,Transformation Digitale,Aucun,1,3,2,1,1,1,3,4,Oui,31,Célibataire,Consulting,Assistant de Direction,0,3,1
+Non,0,2,17,3,Infra & Cloud,Aucun,6,4,3,4,3,4,3,3,Non,33,Célibataire,Commercial,Senior Manager,1,10,0
+Oui,0,5,10,3,Infra & Cloud,Occasionnel,0,4,2,1,1,3,3,4,Oui,29,Célibataire,Consulting,Assistant de Direction,6,0,1
+Non,0,4,13,1,Infra & Cloud,Occasionnel,0,2,3,1,4,1,3,3,Non,33,Célibataire,Consulting,Assistant de Direction,3,3,0
+Non,2,2,1,4,Transformation Digitale,Occasionnel,0,4,3,1,4,4,3,3,Non,45,Divorcé(e),Consulting,Consultant,3,5,0
+Non,1,1,1,2,Transformation Digitale,Occasionnel,1,4,3,4,4,3,2,4,Non,50,Divorcé(e),Consulting,Directeur Technique,9,5,0
+Non,1,2,1,4,Autre,Frequent,1,3,4,2,2,1,3,3,Oui,33,Marié(e),Consulting,Manager,1,6,0
+Non,1,2,9,3,Transformation Digitale,Frequent,0,1,3,5,3,2,4,3,Non,41,Divorcé(e),Consulting,Directeur Technique,2,18,0
+Non,1,2,16,4,Entrepreunariat,Occasionnel,2,3,3,1,2,2,3,3,Non,27,Marié(e),Consulting,Consultant,9,2,0
+Non,1,2,23,2,Infra & Cloud,Aucun,0,4,3,2,1,3,3,3,Oui,45,Marié(e),Consulting,Consultant,1,9,0
+Non,0,0,4,2,Infra & Cloud,Occasionnel,0,4,3,2,4,3,3,3,Oui,47,Célibataire,Commercial,Cadre Commercial,1,9,0
+Oui,0,2,22,3,Infra & Cloud,Occasionnel,0,1,3,1,3,2,3,3,Oui,30,Marié(e),Consulting,Assistant de Direction,4,5,1
+Non,1,2,24,3,Infra & Cloud,Occasionnel,1,4,3,4,3,4,3,3,Oui,50,Marié(e),Consulting,Tech Lead,3,12,0
+Non,1,0,10,1,Transformation Digitale,Frequent,0,3,3,1,3,2,2,3,Non,38,Marié(e),Consulting,Assistant de Direction,0,2,0
+Non,1,3,7,2,Transformation Digitale,Occasionnel,0,4,3,3,3,2,3,3,Non,46,Divorcé(e),Consulting,Tech Lead,6,8,0
+Non,2,6,17,1,Transformation Digitale,Occasionnel,3,4,2,2,3,2,3,3,Non,24,Divorcé(e),Consulting,Tech Lead,1,4,0
+Oui,1,2,14,4,Autre,Occasionnel,0,3,2,1,2,4,1,4,Oui,35,Divorcé(e),Consulting,Consultant,1,4,1
+Non,1,1,1,1,Infra & Cloud,Frequent,0,3,3,2,1,3,3,3,Non,31,Marié(e),Consulting,Tech Lead,1,4,0
+Non,0,2,5,2,Infra & Cloud,Aucun,0,2,3,1,4,4,3,3,Non,18,Célibataire,Consulting,Assistant de Direction,1,0,0
+Non,1,2,17,3,Entrepreunariat,Occasionnel,0,3,3,3,3,3,3,3,Non,54,Marié(e),Consulting,Tech Lead,8,10,0
+Non,1,3,25,4,Transformation Digitale,Occasionnel,10,3,3,3,3,3,2,3,Oui,35,Divorcé(e),Consulting,Manager,1,16,0
+Non,3,4,8,2,Infra & Cloud,Occasionnel,1,2,4,3,1,3,2,3,Oui,30,Marié(e),Consulting,Directeur Technique,0,8,0
+Oui,0,2,11,3,Transformation Digitale,Occasionnel,0,4,2,1,1,1,3,3,Oui,20,Célibataire,Consulting,Assistant de Direction,1,1,1
+Oui,0,3,5,3,Transformation Digitale,Frequent,1,2,3,1,2,1,3,3,Non,30,Célibataire,Consulting,Consultant,0,3,1
+Non,0,2,2,2,Transformation Digitale,Occasionnel,1,4,4,2,4,2,3,3,Non,26,Marié(e),Consulting,Tech Lead,1,8,0
+Non,1,3,8,1,Infra & Cloud,Occasionnel,1,2,1,1,1,1,2,3,Non,22,Marié(e),Consulting,Consultant,1,4,0
+Non,0,0,6,3,Infra & Cloud,Occasionnel,2,1,2,2,3,4,3,3,Non,48,Célibataire,Consulting,Manager,2,2,0
+Non,0,3,4,4,Infra & Cloud,Occasionnel,4,3,2,3,3,2,3,3,Non,48,Célibataire,Consulting,Manager,7,15,0
+Non,0,6,7,2,Transformation Digitale,Occasionnel,2,4,3,2,3,2,3,3,Non,41,Célibataire,Consulting,Tech Lead,6,2,0
+Non,1,3,1,1,Infra & Cloud,Occasionnel,11,4,2,4,4,3,3,3,Non,39,Marié(e),Consulting,Tech Lead,1,21,0
+Non,1,2,2,4,Infra & Cloud,Occasionnel,2,1,3,2,4,2,3,3,Non,27,Marié(e),Consulting,Tech Lead,0,3,0
+Non,1,4,10,3,Autre,Occasionnel,1,2,3,1,4,1,2,4,Non,35,Divorcé(e),Consulting,Consultant,1,3,0
+Non,0,3,5,2,Marketing,Occasionnel,0,4,3,5,3,2,4,3,Non,42,Marié(e),Commercial,Senior Manager,6,1,0
+Non,0,5,9,3,Infra & Cloud,Occasionnel,0,1,3,1,4,2,3,3,Non,50,Marié(e),Consulting,Consultant,4,1,0
+Non,0,4,2,3,Infra & Cloud,Occasionnel,4,3,2,4,4,1,3,3,Oui,59,Célibataire,Consulting,Tech Lead,3,5,0
+Oui,0,2,11,2,Transformation Digitale,Occasionnel,0,1,1,2,2,1,1,3,Non,37,Marié(e),Consulting,Manager,5,1,1
+Non,2,3,18,4,Transformation Digitale,Frequent,6,3,3,2,2,4,3,3,Oui,55,Marié(e),Consulting,Manager,3,8,0
+Non,2,3,7,1,Infra & Cloud,Aucun,5,2,1,5,3,2,3,4,Non,41,Divorcé(e),Consulting,Directeur Technique,1,21,0
+Non,0,1,3,4,Infra & Cloud,Occasionnel,0,2,3,2,4,3,3,3,Oui,38,Célibataire,Commercial,Cadre Commercial,8,1,0
+Oui,0,6,29,2,Transformation Digitale,Aucun,2,2,1,2,1,4,3,3,Non,26,Célibataire,Commercial,Cadre Commercial,8,2,1
+Oui,1,3,2,1,Marketing,Occasionnel,6,1,1,5,4,4,3,3,Non,52,Marié(e),Commercial,Senior Manager,1,32,1
+Non,1,2,28,3,Transformation Digitale,Occasionnel,11,4,4,4,4,3,3,3,Oui,44,Marié(e),Commercial,Cadre Commercial,3,12,0
+Non,1,3,1,3,Infra & Cloud,Aucun,0,4,3,2,3,1,3,3,Non,50,Marié(e),Commercial,Cadre Commercial,0,18,0
+Oui,0,1,16,4,Infra & Cloud,Occasionnel,15,3,4,1,1,3,3,3,Non,36,Célibataire,Consulting,Consultant,1,17,1
+Non,0,2,22,3,Transformation Digitale,Frequent,2,4,3,3,1,3,3,3,Oui,39,Célibataire,Consulting,Tech Lead,1,21,0
+Non,0,2,8,1,Infra & Cloud,Aucun,2,2,2,1,4,4,2,3,Non,33,Célibataire,Commercial,Représentant Commercial,0,2,0
+Non,1,4,11,2,Infra & Cloud,Occasionnel,1,4,3,4,4,2,4,3,Non,45,Marié(e),Commercial,Senior Manager,3,9,0
+Non,0,2,29,4,Transformation Digitale,Aucun,7,4,3,1,3,2,3,3,Non,32,Célibataire,Consulting,Consultant,9,8,0
+Non,1,2,1,4,Marketing,Occasionnel,0,2,4,2,4,4,2,3,Non,34,Divorcé(e),Commercial,Cadre Commercial,0,15,0
+Non,1,1,1,2,Entrepreunariat,Occasionnel,0,2,3,3,4,3,1,3,Oui,59,Marié(e),Commercial,Senior Manager,3,6,0
+Non,0,3,24,4,Transformation Digitale,Occasionnel,0,2,3,1,2,1,3,3,Non,45,Célibataire,Ressources Humaines,Ressources Humaines,1,6,0
+Non,1,2,2,3,Marketing,Frequent,6,3,2,3,2,1,3,3,Non,53,Marié(e),Commercial,Cadre Commercial,2,15,0
+Oui,1,3,15,3,Autre,Occasionnel,0,1,3,2,3,2,2,3,Non,36,Divorcé(e),Consulting,Consultant,7,1,1
+Oui,1,2,2,3,Infra & Cloud,Frequent,1,1,3,1,1,2,3,3,Oui,26,Marié(e),Consulting,Assistant de Direction,6,3,1
+Non,1,2,10,4,Infra & Cloud,Occasionnel,0,3,3,1,3,4,3,3,Oui,34,Marié(e),Commercial,Représentant Commercial,1,1,0
+Non,0,5,10,1,Transformation Digitale,Occasionnel,0,4,3,1,2,2,3,4,Non,28,Marié(e),Commercial,Représentant Commercial,1,1,0
+Non,1,2,3,4,Autre,Frequent,2,3,3,1,3,1,3,3,Non,38,Marié(e),Consulting,Assistant de Direction,3,2,0
+Non,1,2,2,4,Transformation Digitale,Occasionnel,7,2,3,5,3,4,2,3,Oui,50,Marié(e),Consulting,Directeur Technique,2,8,0
+Non,0,3,3,3,Autre,Occasionnel,0,4,3,2,2,1,2,3,Non,37,Célibataire,Consulting,Manager,3,4,0
+Non,1,3,26,3,Marketing,Occasionnel,7,3,3,2,1,2,2,3,Non,40,Marié(e),Commercial,Cadre Commercial,1,7,0
+Non,2,5,1,1,Transformation Digitale,Frequent,1,1,2,1,3,3,3,3,Non,26,Divorcé(e),Consulting,Assistant de Direction,1,5,0
+Non,2,0,1,4,Transformation Digitale,Occasionnel,2,4,3,5,4,4,3,3,Non,46,Divorcé(e),Consulting,Directeur Technique,9,2,0
+Non,1,4,2,4,Infra & Cloud,Occasionnel,7,3,2,3,3,2,3,3,Non,54,Marié(e),Commercial,Cadre Commercial,6,9,0
+Non,1,4,9,3,Transformation Digitale,Frequent,0,1,3,1,3,2,3,3,Non,56,Marié(e),Consulting,Assistant de Direction,2,5,0
+Non,0,2,12,5,Transformation Digitale,Occasionnel,7,4,2,3,4,2,2,3,Non,36,Célibataire,Consulting,Tech Lead,0,14,0
+Non,0,3,2,1,Transformation Digitale,Aucun,6,3,2,4,1,2,4,3,Non,55,Célibataire,Consulting,Senior Manager,7,9,0
+Non,1,5,25,3,Transformation Digitale,Occasionnel,0,3,2,3,4,3,3,3,Non,43,Divorcé(e),Commercial,Cadre Commercial,5,1,0
+Oui,0,3,9,3,Marketing,Frequent,0,4,3,1,4,2,3,3,Oui,20,Célibataire,Commercial,Représentant Commercial,1,2,1
+Oui,0,6,10,3,Infra & Cloud,Occasionnel,1,3,2,1,1,1,2,3,Non,21,Célibataire,Consulting,Consultant,1,1,1
+Non,3,2,8,4,Infra & Cloud,Occasionnel,1,4,2,2,1,1,3,4,Oui,46,Divorcé(e),Consulting,Assistant de Direction,8,16,0
+Oui,3,2,4,4,Infra & Cloud,Occasionnel,2,1,3,1,3,3,4,3,Oui,51,Marié(e),Consulting,Assistant de Direction,9,10,1
+Oui,0,2,24,2,Entrepreunariat,Aucun,1,2,2,3,1,1,2,3,Non,28,Célibataire,Consulting,Manager,1,10,1
+Non,2,2,1,2,Transformation Digitale,Occasionnel,1,1,2,1,1,1,3,3,Non,26,Marié(e),Consulting,Consultant,1,5,0
+Non,1,1,20,3,Autre,Occasionnel,0,3,3,2,1,3,2,3,Non,30,Marié(e),Consulting,Tech Lead,0,6,0
+Non,0,3,7,2,Entrepreunariat,Occasionnel,0,2,4,1,3,3,3,3,Non,41,Marié(e),Consulting,Assistant de Direction,1,10,0
+Non,1,4,17,1,Infra & Cloud,Occasionnel,1,3,2,3,3,1,2,3,Non,38,Marié(e),Consulting,Manager,0,19,0
+Non,1,6,20,4,Entrepreunariat,Occasionnel,11,1,3,3,4,4,3,4,Non,40,Marié(e),Consulting,Manager,4,11,0
+Non,3,4,8,5,Infra & Cloud,Aucun,1,1,1,1,3,4,3,3,Non,27,Marié(e),Consulting,Consultant,1,3,0
+Non,1,4,2,1,Infra & Cloud,Frequent,1,4,3,3,2,2,3,3,Non,55,Marié(e),Consulting,Tech Lead,3,3,0
+Non,0,4,10,3,Autre,Occasionnel,1,3,3,2,3,4,4,3,Non,28,Célibataire,Consulting,Assistant de Direction,3,8,0
+Oui,1,1,1,2,Transformation Digitale,Occasionnel,3,2,2,3,1,4,3,3,Non,44,Marié(e),Ressources Humaines,Ressources Humaines,9,20,1
+Non,1,2,5,3,Infra & Cloud,Occasionnel,1,4,2,3,4,3,3,3,Non,33,Divorcé(e),Consulting,Manager,4,3,0
+Oui,0,2,4,3,Entrepreunariat,Occasionnel,4,4,3,3,1,1,3,4,Oui,35,Célibataire,Commercial,Cadre Commercial,0,8,1
+Oui,0,4,29,4,Transformation Digitale,Frequent,3,1,2,2,3,2,3,4,Non,33,Célibataire,Consulting,Assistant de Direction,1,13,1
+Non,1,5,15,2,Infra & Cloud,Occasionnel,2,1,3,1,3,4,2,3,Non,28,Divorcé(e),Consulting,Consultant,1,4,0
+Non,0,1,3,1,Infra & Cloud,Frequent,0,1,3,2,4,3,2,3,Non,34,Célibataire,Consulting,Manager,0,6,0
+Non,3,5,10,4,Infra & Cloud,Occasionnel,0,4,2,2,4,3,3,3,Oui,37,Divorcé(e),Commercial,Cadre Commercial,2,1,0
+Oui,1,3,4,1,Entrepreunariat,Occasionnel,5,4,3,1,4,2,4,3,Oui,25,Marié(e),Consulting,Consultant,1,7,1
+Oui,1,0,21,3,Transformation Digitale,Occasionnel,0,1,3,1,3,3,2,4,Non,26,Divorcé(e),Consulting,Consultant,1,1,1
+Oui,0,0,25,3,Transformation Digitale,Occasionnel,2,1,2,1,2,2,3,4,Oui,33,Célibataire,Consulting,Assistant de Direction,4,2,1
+Non,1,3,2,2,Transformation Digitale,Occasionnel,13,4,3,4,1,4,3,3,Non,42,Marié(e),Consulting,Senior Manager,0,22,0
+Oui,2,2,1,3,Transformation Digitale,Frequent,0,1,2,1,2,1,3,3,Non,28,Divorcé(e),Consulting,Consultant,1,1,1
+Oui,0,4,1,4,Autre,Frequent,0,4,3,2,3,4,3,3,Oui,50,Célibataire,Commercial,Cadre Commercial,3,0,1
+Non,1,3,7,3,Infra & Cloud,Frequent,0,4,3,2,2,3,3,3,Non,33,Marié(e),Commercial,Cadre Commercial,0,3,0
+Non,3,2,3,4,Infra & Cloud,Aucun,0,3,2,1,4,4,3,3,Non,34,Marié(e),Consulting,Assistant de Direction,3,0,0
+Non,0,3,1,4,Transformation Digitale,Aucun,2,1,4,4,4,3,2,4,Non,48,Célibataire,Consulting,Senior Manager,2,5,0
+Non,1,2,9,4,Infra & Cloud,Aucun,4,2,2,2,3,4,3,3,Non,45,Marié(e),Commercial,Cadre Commercial,1,15,0
+Non,0,4,7,4,Infra & Cloud,Occasionnel,4,2,3,3,2,4,3,3,Non,52,Célibataire,Consulting,Manager,7,8,0
+Non,2,2,10,4,Marketing,Occasionnel,2,3,2,3,3,2,3,3,Oui,38,Divorcé(e),Commercial,Cadre Commercial,0,8,0
+Non,1,1,28,4,Infra & Cloud,Occasionnel,1,3,3,1,4,1,3,4,Non,29,Divorcé(e),Consulting,Assistant de Direction,4,7,0
+Non,3,3,3,3,Transformation Digitale,Occasionnel,1,4,3,3,2,2,2,3,Non,28,Divorcé(e),Consulting,Tech Lead,0,9,0
+Non,1,3,3,1,Marketing,Occasionnel,4,1,3,4,3,4,3,3,Non,46,Marié(e),Commercial,Senior Manager,3,12,0
+Non,0,2,2,2,Marketing,Occasionnel,0,4,3,3,2,3,3,3,Non,38,Célibataire,Commercial,Cadre Commercial,7,1,0
+Non,1,1,27,3,Infra & Cloud,Frequent,0,3,3,3,1,3,3,3,Non,43,Marié(e),Consulting,Tech Lead,8,8,0
+Oui,3,4,2,3,Infra & Cloud,Frequent,11,1,3,4,4,4,3,3,Non,39,Divorcé(e),Consulting,Manager,7,18,1
+Non,0,2,14,3,Transformation Digitale,Occasionnel,4,3,2,5,3,1,4,3,Non,40,Célibataire,Consulting,Directeur Technique,1,20,0
+Non,0,6,1,1,Entrepreunariat,Occasionnel,2,4,2,1,2,3,4,3,Oui,21,Célibataire,Consulting,Assistant de Direction,1,2,0
+Non,0,2,9,3,Infra & Cloud,Aucun,0,3,3,2,2,3,2,3,Non,39,Célibataire,Consulting,Consultant,9,5,0
+Non,0,0,18,4,Infra & Cloud,Aucun,0,1,3,2,4,1,3,4,Non,36,Célibataire,Consulting,Tech Lead,2,11,0
+Non,1,4,20,3,Infra & Cloud,Frequent,2,3,4,1,4,1,3,3,Non,31,Marié(e),Commercial,Représentant Commercial,0,2,0
+Non,0,2,2,1,Infra & Cloud,Occasionnel,0,1,2,1,2,1,1,3,Non,28,Marié(e),Consulting,Assistant de Direction,0,5,0
+Non,1,3,11,2,Marketing,Frequent,0,4,3,2,4,4,3,3,Non,35,Divorcé(e),Commercial,Cadre Commercial,1,5,0
+Non,1,3,8,4,Entrepreunariat,Occasionnel,2,4,2,4,2,2,3,3,Non,49,Marié(e),Commercial,Cadre Commercial,6,9,0
+Non,0,3,2,2,Infra & Cloud,Frequent,0,4,3,2,3,4,2,3,Non,34,Célibataire,Consulting,Tech Lead,2,3,0
+Non,2,2,10,3,Infra & Cloud,Frequent,1,4,3,1,2,4,2,3,Non,29,Divorcé(e),Consulting,Assistant de Direction,0,7,0
+Non,0,3,29,3,Transformation Digitale,Occasionnel,0,2,1,2,4,1,3,3,Non,42,Célibataire,Consulting,Consultant,4,1,0
+Non,1,2,8,1,Transformation Digitale,Occasionnel,1,2,2,2,4,3,2,3,Oui,29,Marié(e),Consulting,Tech Lead,1,10,0
+Non,1,2,1,3,Ressources Humaines,Occasionnel,5,3,4,1,3,4,4,3,Non,38,Marié(e),Ressources Humaines,Ressources Humaines,1,7,0
+Non,1,2,6,3,Infra & Cloud,Frequent,0,3,2,1,3,4,3,3,Oui,28,Divorcé(e),Consulting,Assistant de Direction,1,3,0
+Oui,0,0,8,1,Transformation Digitale,Aucun,0,3,3,1,3,4,3,3,Non,18,Célibataire,Consulting,Consultant,1,0,1
+Oui,0,3,9,4,Marketing,Occasionnel,0,1,3,2,1,1,3,3,Oui,33,Célibataire,Commercial,Cadre Commercial,0,5,1
+Non,1,4,12,4,Infra & Cloud,Occasionnel,0,2,3,1,4,1,3,3,Oui,41,Marié(e),Consulting,Consultant,3,1,0
+Oui,1,5,15,3,Transformation Digitale,Frequent,2,3,3,1,3,3,2,3,Non,31,Marié(e),Consulting,Consultant,1,2,1
+Non,2,2,25,2,Transformation Digitale,Occasionnel,1,3,2,2,4,3,3,3,Non,37,Divorcé(e),Consulting,Manager,7,6,0
+Non,1,0,6,3,Infra & Cloud,Occasionnel,2,4,2,1,3,3,3,3,Non,27,Marié(e),Consulting,Assistant de Direction,1,4,0
+Non,0,3,9,1,Infra & Cloud,Occasionnel,1,2,3,2,3,1,2,4,Non,34,Marié(e),Commercial,Cadre Commercial,1,6,0
+Non,0,2,8,4,Entrepreunariat,Occasionnel,1,3,3,1,3,2,1,3,Non,35,Célibataire,Ressources Humaines,Ressources Humaines,1,5,0
+Oui,1,3,23,1,Infra & Cloud,Occasionnel,3,4,2,3,1,1,1,3,Non,29,Marié(e),Commercial,Cadre Commercial,1,11,1
+Non,0,3,9,4,Transformation Digitale,Frequent,2,2,3,3,3,3,2,3,Non,40,Célibataire,Consulting,Directeur Technique,9,18,0
+Oui,0,2,12,3,Infra & Cloud,Frequent,13,3,3,4,1,2,2,3,Oui,42,Célibataire,Commercial,Cadre Commercial,0,21,1
+Non,0,3,4,4,Marketing,Occasionnel,1,2,3,2,1,4,4,3,Non,42,Célibataire,Commercial,Cadre Commercial,7,6,0
+Non,1,2,1,4,Transformation Digitale,Occasionnel,1,4,2,1,3,2,3,3,Non,35,Marié(e),Consulting,Consultant,6,8,0
+Non,0,2,24,3,Transformation Digitale,Occasionnel,1,4,3,1,2,4,3,4,Non,24,Célibataire,Consulting,Consultant,8,4,0
+Oui,0,4,12,1,Infra & Cloud,Occasionnel,0,3,3,1,4,4,2,3,Oui,28,Marié(e),Consulting,Consultant,1,1,1
+Non,1,2,3,4,Transformation Digitale,Occasionnel,0,1,4,1,4,2,3,4,Non,26,Marié(e),Consulting,Consultant,1,8,0
+Non,1,3,10,3,Marketing,Occasionnel,1,3,2,2,3,1,3,3,Non,30,Marié(e),Commercial,Cadre Commercial,1,10,0
+Non,1,3,26,2,Transformation Digitale,Frequent,0,3,2,2,4,4,1,3,Oui,40,Marié(e),Consulting,Assistant de Direction,3,1,0
+Non,1,2,2,3,Infra & Cloud,Occasionnel,6,3,2,3,2,2,4,3,Non,35,Divorcé(e),Consulting,Tech Lead,2,7,0
+Non,0,3,1,3,Transformation Digitale,Frequent,4,4,2,2,1,3,3,4,Non,34,Célibataire,Consulting,Manager,0,13,0
+Non,1,2,4,4,Autre,Frequent,2,4,2,1,4,2,4,3,Non,35,Marié(e),Consulting,Consultant,1,2,0
+Oui,0,2,9,3,Marketing,Occasionnel,1,1,1,2,3,2,2,3,Non,43,Célibataire,Commercial,Cadre Commercial,8,4,1
+Non,3,3,2,1,Infra & Cloud,Aucun,0,3,3,1,1,3,3,3,Non,32,Divorcé(e),Commercial,Représentant Commercial,1,1,0
+Non,1,2,4,4,Entrepreunariat,Occasionnel,4,4,3,5,1,4,3,3,Non,56,Divorcé(e),Consulting,Senior Manager,4,5,0
+Non,1,5,6,1,Transformation Digitale,Occasionnel,0,2,3,1,4,1,3,3,Non,29,Marié(e),Consulting,Consultant,1,10,0
+Non,0,4,9,2,Infra & Cloud,Occasionnel,0,3,3,1,1,3,3,4,Non,19,Célibataire,Consulting,Assistant de Direction,1,1,0
+Non,1,2,7,3,Transformation Digitale,Occasionnel,0,1,3,1,3,3,2,3,Oui,45,Marié(e),Consulting,Assistant de Direction,4,3,0
+Non,1,2,1,3,Infra & Cloud,Occasionnel,3,4,2,2,4,2,2,3,Non,37,Marié(e),Consulting,Tech Lead,1,14,0
+Non,0,2,3,3,Infra & Cloud,Occasionnel,1,1,2,1,3,1,2,3,Non,20,Célibataire,Consulting,Consultant,1,2,0
+Oui,0,4,10,4,Infra & Cloud,Occasionnel,0,3,3,1,3,3,3,3,Oui,44,Célibataire,Consulting,Assistant de Direction,1,6,1
+Non,1,6,7,2,Transformation Digitale,Occasionnel,4,4,3,5,3,2,3,3,Non,53,Divorcé(e),Consulting,Senior Manager,3,7,0
+Non,1,2,15,1,Infra & Cloud,Occasionnel,1,2,1,1,4,1,2,3,Oui,29,Marié(e),Consulting,Assistant de Direction,0,5,0
+Oui,1,5,3,4,Infra & Cloud,Frequent,0,3,2,1,4,2,3,3,Oui,22,Marié(e),Consulting,Assistant de Direction,0,0,1
+Non,0,2,2,3,Marketing,Occasionnel,15,3,3,4,1,1,3,4,Non,46,Marié(e),Commercial,Senior Manager,8,26,0
+Non,0,3,17,3,Infra & Cloud,Aucun,0,4,1,1,3,4,3,3,Non,44,Célibataire,Consulting,Assistant de Direction,2,0,0
+Non,1,2,2,3,Ressources Humaines,Occasionnel,1,2,3,1,3,4,3,3,Non,33,Marié(e),Ressources Humaines,Ressources Humaines,1,5,0
+Oui,1,2,5,2,Infra & Cloud,Aucun,0,1,2,1,1,1,1,3,Non,41,Divorcé(e),Consulting,Assistant de Direction,6,1,1
+Non,3,3,29,4,Infra & Cloud,Occasionnel,0,3,3,2,1,3,3,3,Non,30,Divorcé(e),Commercial,Cadre Commercial,8,4,0
+Non,3,2,2,4,Transformation Digitale,Frequent,0,2,3,2,2,4,3,3,Non,40,Marié(e),Commercial,Cadre Commercial,5,0,0
+Non,1,3,2,3,Transformation Digitale,Frequent,2,4,3,4,1,3,3,4,Non,50,Marié(e),Consulting,Senior Manager,2,2,0
+Non,3,2,19,4,Transformation Digitale,Occasionnel,3,4,2,1,1,3,3,3,Non,28,Marié(e),Consulting,Consultant,1,6,0
+Non,1,2,15,2,Infra & Cloud,Occasionnel,0,4,3,5,2,1,3,3,Non,46,Marié(e),Consulting,Directeur Technique,5,4,0
+Non,3,2,17,4,Infra & Cloud,Occasionnel,1,3,3,2,1,4,3,3,Oui,35,Marié(e),Commercial,Cadre Commercial,3,7,0
+Oui,1,3,17,2,Infra & Cloud,Occasionnel,0,4,3,1,2,1,1,3,Non,24,Marié(e),Consulting,Consultant,1,1,1
+Non,1,3,25,3,Transformation Digitale,Frequent,0,2,3,2,3,1,2,3,Non,33,Marié(e),Commercial,Cadre Commercial,1,10,0
+Non,1,4,6,4,Infra & Cloud,Occasionnel,1,3,1,1,3,3,3,3,Non,36,Divorcé(e),Consulting,Consultant,1,7,0
+Non,3,4,7,4,Infra & Cloud,Occasionnel,8,3,3,2,3,1,2,3,Non,30,Divorcé(e),Consulting,Consultant,1,10,0
+Non,0,3,29,4,Autre,Occasionnel,13,4,3,2,4,2,3,4,Non,44,Célibataire,Consulting,Assistant de Direction,1,20,0
+Non,0,2,21,3,Marketing,Occasionnel,2,3,4,1,4,4,3,3,Non,20,Célibataire,Commercial,Représentant Commercial,1,2,0
+Non,1,3,2,4,Entrepreunariat,Occasionnel,1,4,3,2,4,3,2,3,Non,46,Divorcé(e),Consulting,Tech Lead,2,6,0
+Non,1,3,2,5,Transformation Digitale,Aucun,0,4,4,2,1,1,4,3,Non,42,Marié(e),Ressources Humaines,Ressources Humaines,7,4,0
+Non,1,3,7,4,Marketing,Occasionnel,1,2,4,2,4,2,3,3,Oui,60,Divorcé(e),Commercial,Cadre Commercial,0,11,0
+Non,1,2,13,3,Autre,Frequent,2,3,2,1,2,3,3,4,Non,32,Marié(e),Consulting,Consultant,1,2,0
+Non,0,2,2,2,Infra & Cloud,Frequent,0,4,3,2,3,4,3,3,Oui,32,Célibataire,Consulting,Assistant de Direction,4,8,0
+Non,1,2,1,3,Entrepreunariat,Occasionnel,7,3,1,3,1,3,3,4,Oui,36,Divorcé(e),Consulting,Tech Lead,2,7,0
+Non,1,5,9,3,Transformation Digitale,Occasionnel,4,1,3,1,4,2,3,3,Non,33,Marié(e),Consulting,Assistant de Direction,0,14,0
+Non,1,2,10,3,Entrepreunariat,Occasionnel,1,2,2,2,2,2,4,3,Non,40,Divorcé(e),Commercial,Cadre Commercial,7,5,0
+Non,0,4,10,4,Infra & Cloud,Occasionnel,1,3,3,2,4,2,3,3,Non,25,Célibataire,Commercial,Cadre Commercial,0,4,0
+Non,1,2,1,3,Transformation Digitale,Occasionnel,5,4,3,1,2,1,3,4,Oui,30,Marié(e),Consulting,Assistant de Direction,0,11,0
+Non,0,6,26,5,Transformation Digitale,Frequent,0,1,3,3,1,3,3,3,Oui,42,Marié(e),Consulting,Directeur Technique,3,1,0
+Non,1,6,8,2,Marketing,Aucun,4,3,2,3,4,2,2,3,Oui,35,Marié(e),Commercial,Cadre Commercial,4,13,0
+Non,2,3,14,3,Infra & Cloud,Occasionnel,6,1,3,1,1,4,2,3,Oui,27,Marié(e),Consulting,Assistant de Direction,1,9,0
+Non,1,2,1,4,Infra & Cloud,Frequent,1,4,3,3,3,1,1,3,Non,54,Divorcé(e),Consulting,Tech Lead,7,5,0
+Non,1,5,2,1,Infra & Cloud,Occasionnel,7,1,4,1,4,4,3,3,Non,44,Marié(e),Consulting,Assistant de Direction,1,10,0
+Oui,0,2,10,3,Transformation Digitale,Aucun,0,1,2,1,2,2,4,4,Oui,19,Célibataire,Consulting,Assistant de Direction,1,1,1
+Non,3,5,1,3,Infra & Cloud,Occasionnel,1,1,3,1,4,1,3,3,Non,29,Divorcé(e),Consulting,Assistant de Direction,1,3,0
+Non,0,2,3,3,Infra & Cloud,Occasionnel,0,4,3,4,4,1,3,3,Non,54,Marié(e),Consulting,Directeur Technique,3,10,0
+Non,0,2,11,2,Transformation Digitale,Occasionnel,0,3,3,2,1,4,2,3,Oui,31,Marié(e),Consulting,Manager,1,6,0
+Non,0,2,24,3,Transformation Digitale,Occasionnel,1,3,2,2,1,2,3,3,Non,31,Célibataire,Consulting,Manager,1,10,0
+Non,0,2,3,3,Infra & Cloud,Occasionnel,0,3,2,2,4,4,3,3,Non,59,Célibataire,Commercial,Cadre Commercial,5,6,0
+Non,1,2,3,3,Infra & Cloud,Occasionnel,0,3,1,5,4,2,3,3,Non,43,Marié(e),Consulting,Directeur Technique,3,8,0
+Non,1,2,4,2,Transformation Digitale,Occasionnel,0,1,2,5,3,3,4,3,Non,49,Marié(e),Consulting,Senior Manager,2,1,0
+Non,0,2,3,3,Entrepreunariat,Frequent,0,3,3,1,2,3,2,3,Non,36,Marié(e),Consulting,Assistant de Direction,1,11,0
+Non,0,4,2,2,Entrepreunariat,Occasionnel,0,4,4,1,2,3,2,3,Non,48,Célibataire,Consulting,Consultant,5,1,0
+Non,3,2,4,2,Infra & Cloud,Occasionnel,0,1,3,1,3,2,3,3,Non,27,Divorcé(e),Consulting,Assistant de Direction,1,5,0
+Non,2,2,7,3,Infra & Cloud,Occasionnel,1,3,3,2,4,2,3,3,Oui,29,Divorcé(e),Consulting,Manager,1,6,0
+Non,0,3,1,3,Infra & Cloud,Occasionnel,0,4,2,5,4,3,4,3,Non,48,Célibataire,Consulting,Directeur Technique,6,1,0
+Non,2,2,1,3,Infra & Cloud,Occasionnel,1,4,2,4,4,2,2,3,Non,29,Divorcé(e),Consulting,Directeur Technique,3,7,0
+Non,0,5,20,3,Entrepreunariat,Occasionnel,0,3,4,1,3,4,2,3,Non,34,Marié(e),Consulting,Assistant de Direction,0,1,0
+Non,1,5,5,3,Marketing,Occasionnel,3,2,3,5,2,3,3,3,Non,44,Marié(e),Commercial,Senior Manager,7,22,0
+Non,2,3,10,5,Marketing,Occasionnel,0,4,4,3,3,4,3,3,Oui,33,Divorcé(e),Commercial,Cadre Commercial,0,9,0
+Non,0,2,25,3,Infra & Cloud,Occasionnel,0,2,4,1,4,4,3,3,Oui,19,Célibataire,Consulting,Assistant de Direction,1,1,0
+Non,1,2,1,2,Infra & Cloud,Occasionnel,0,4,3,1,3,4,3,4,Non,23,Marié(e),Consulting,Assistant de Direction,1,1,0
+Oui,0,4,24,1,Infra & Cloud,Frequent,1,3,1,1,4,4,3,3,Oui,25,Célibataire,Commercial,Représentant Commercial,1,1,1
+Non,0,2,4,2,Infra & Cloud,Occasionnel,2,3,3,1,4,2,2,4,Oui,26,Célibataire,Consulting,Assistant de Direction,1,8,0
+Oui,0,2,2,3,Marketing,Occasionnel,1,1,1,5,2,1,3,3,Oui,45,Célibataire,Commercial,Senior Manager,2,24,1
+Non,1,3,8,1,Transformation Digitale,Aucun,15,4,2,4,2,4,3,3,Oui,55,Divorcé(e),Consulting,Manager,1,33,0
+Oui,0,2,10,2,Infra & Cloud,Frequent,2,1,2,1,3,3,1,4,Non,21,Célibataire,Consulting,Consultant,1,2,1
+Non,1,2,4,2,Marketing,Occasionnel,0,4,2,5,2,3,3,3,Non,46,Marié(e),Commercial,Senior Manager,2,11,0
+Non,0,3,2,3,Marketing,Occasionnel,0,3,3,2,1,4,3,3,Oui,34,Célibataire,Commercial,Cadre Commercial,0,3,0
+Non,1,5,9,3,Infra & Cloud,Frequent,11,4,3,5,2,1,2,4,Oui,51,Divorcé(e),Commercial,Senior Manager,4,29,0
+Non,0,6,18,4,Transformation Digitale,Occasionnel,5,4,3,3,4,4,2,3,Non,59,Célibataire,Consulting,Tech Lead,6,9,0
+Non,2,2,19,3,Transformation Digitale,Frequent,5,3,3,2,2,3,4,3,Non,34,Divorcé(e),Consulting,Consultant,4,11,0
+Non,0,2,1,4,Transformation Digitale,Frequent,0,4,3,1,3,3,2,3,Oui,28,Célibataire,Consulting,Consultant,0,4,0
+Non,2,4,4,2,Infra & Cloud,Occasionnel,14,3,4,5,1,4,2,3,Non,44,Divorcé(e),Consulting,Senior Manager,1,25,0
+Non,2,5,11,3,Infra & Cloud,Frequent,1,3,2,2,2,4,4,3,Non,34,Marié(e),Ressources Humaines,Ressources Humaines,4,10,0
+Non,0,3,6,1,Infra & Cloud,Occasionnel,2,3,3,1,3,4,3,3,Oui,35,Marié(e),Consulting,Assistant de Direction,0,3,0
+Non,0,2,7,4,Transformation Digitale,Occasionnel,0,2,4,2,2,4,3,3,Oui,42,Marié(e),Consulting,Assistant de Direction,6,1,0
+Non,0,3,4,4,Marketing,Occasionnel,15,4,2,3,4,4,4,3,Non,43,Célibataire,Commercial,Cadre Commercial,3,21,0
+Non,0,2,2,4,Infra & Cloud,Occasionnel,5,3,3,2,2,4,3,3,Oui,36,Célibataire,Consulting,Tech Lead,9,16,0
+Oui,1,2,15,3,Transformation Digitale,Occasionnel,0,1,3,3,4,4,3,3,Non,44,Marié(e),Consulting,Manager,1,10,1
+Non,1,2,2,3,Infra & Cloud,Frequent,2,4,2,1,4,2,3,3,Oui,28,Marié(e),Consulting,Consultant,1,2,0
+Non,0,6,6,2,Transformation Digitale,Frequent,7,2,2,1,3,2,2,3,Non,51,Célibataire,Consulting,Consultant,0,7,0
+Non,0,3,9,2,Transformation Digitale,Aucun,1,3,3,2,3,3,3,3,Oui,30,Célibataire,Consulting,Tech Lead,7,8,0
+Oui,2,2,7,3,Entrepreunariat,Occasionnel,7,2,3,1,3,1,3,3,Oui,29,Divorcé(e),Consulting,Consultant,3,7,1
+Non,0,2,1,3,Entrepreunariat,Occasionnel,1,4,3,1,1,2,2,3,Non,28,Célibataire,Consulting,Assistant de Direction,2,3,0
+Non,0,3,1,3,Transformation Digitale,Occasionnel,2,4,3,1,2,4,2,3,Non,25,Célibataire,Consulting,Assistant de Direction,1,2,0
+Non,2,4,8,3,Transformation Digitale,Occasionnel,0,3,4,2,4,3,4,3,Non,32,Marié(e),Commercial,Cadre Commercial,1,10,0
+Non,0,4,25,3,Transformation Digitale,Frequent,0,2,3,5,2,3,3,4,Non,45,Célibataire,Consulting,Senior Manager,3,0,0
+Non,2,4,13,4,Transformation Digitale,Occasionnel,15,3,2,4,2,4,3,3,Oui,39,Divorcé(e),Consulting,Senior Manager,6,19,0
+Non,2,3,23,4,Infra & Cloud,Occasionnel,2,1,3,1,3,4,3,3,Non,58,Divorcé(e),Consulting,Assistant de Direction,1,2,0
+Oui,1,3,7,2,Infra & Cloud,Occasionnel,1,4,3,2,3,1,3,3,Non,32,Marié(e),Consulting,Consultant,1,10,1
+Oui,0,2,23,3,Transformation Digitale,Occasionnel,0,3,3,1,1,1,3,3,Non,39,Célibataire,Consulting,Assistant de Direction,0,5,1
+Non,1,6,6,3,Entrepreunariat,Occasionnel,6,1,2,2,4,1,3,3,Non,30,Marié(e),Consulting,Consultant,0,9,0
+Non,0,0,10,4,Entrepreunariat,Occasionnel,1,4,3,3,3,1,3,3,Non,36,Marié(e),Consulting,Manager,3,7,0
+Non,0,3,1,2,Infra & Cloud,Occasionnel,5,4,3,1,1,3,4,3,Non,46,Célibataire,Ressources Humaines,Ressources Humaines,6,7,0
+Non,3,6,1,3,Infra & Cloud,Aucun,7,3,1,2,4,1,3,3,Non,28,Marié(e),Consulting,Consultant,0,9,0
+Non,0,2,28,3,Infra & Cloud,Occasionnel,1,4,3,4,1,2,3,3,Oui,50,Marié(e),Consulting,Directeur Technique,4,3,0
+Oui,0,2,25,4,Marketing,Occasionnel,1,4,2,3,2,3,3,3,Oui,40,Célibataire,Commercial,Cadre Commercial,2,5,1
+Oui,0,2,5,3,Infra & Cloud,Occasionnel,7,2,3,3,2,3,2,3,Oui,52,Célibataire,Commercial,Cadre Commercial,9,8,1
+Non,2,2,17,4,Transformation Digitale,Occasionnel,0,2,3,3,1,4,3,4,Oui,30,Marié(e),Consulting,Senior Manager,1,9,0
+Non,0,6,18,2,Infra & Cloud,Occasionnel,1,1,3,2,3,1,3,3,Non,39,Célibataire,Consulting,Tech Lead,0,8,0
+Non,1,5,2,4,Infra & Cloud,Aucun,9,4,3,3,3,1,2,3,Oui,31,Divorcé(e),Commercial,Cadre Commercial,1,10,0
+Non,0,4,10,2,Transformation Digitale,Aucun,11,3,1,2,2,1,3,3,Non,41,Célibataire,Commercial,Cadre Commercial,1,19,0
+Oui,0,2,1,3,Infra & Cloud,Frequent,2,4,3,1,2,1,4,3,Oui,31,Célibataire,Commercial,Représentant Commercial,1,3,1
+Oui,0,4,3,3,Infra & Cloud,Occasionnel,1,1,3,1,1,3,4,3,Non,44,Marié(e),Consulting,Consultant,4,3,1
+Non,0,3,2,1,Infra & Cloud,Aucun,2,3,3,4,3,4,2,3,Oui,42,Marié(e),Consulting,Senior Manager,0,20,0
+Non,1,5,2,2,Transformation Digitale,Occasionnel,9,4,1,5,3,4,3,3,Non,55,Marié(e),Consulting,Senior Manager,4,19,0
+Non,0,4,8,4,Infra & Cloud,Occasionnel,7,4,3,5,2,1,3,3,Non,56,Célibataire,Ressources Humaines,Senior Manager,6,7,0
+Non,1,0,16,2,Infra & Cloud,Aucun,0,3,3,1,3,2,3,3,Non,40,Divorcé(e),Consulting,Assistant de Direction,9,4,0
+Non,1,0,9,3,Infra & Cloud,Occasionnel,1,4,3,3,4,4,2,3,Non,34,Divorcé(e),Consulting,Manager,0,9,0
+Non,0,4,2,3,Infra & Cloud,Occasionnel,8,3,3,2,4,3,3,3,Non,40,Célibataire,Consulting,Assistant de Direction,1,9,0
+Non,1,2,1,3,Marketing,Frequent,1,3,3,2,1,4,3,3,Non,41,Divorcé(e),Commercial,Cadre Commercial,0,9,0
+Non,0,3,4,4,Infra & Cloud,Frequent,1,3,3,2,3,2,3,3,Oui,35,Célibataire,Consulting,Assistant de Direction,1,9,0
+Non,1,2,5,3,Infra & Cloud,Occasionnel,0,3,3,4,2,2,3,3,Oui,51,Divorcé(e),Ressources Humaines,Senior Manager,1,33,0
+Non,1,3,2,2,Infra & Cloud,Occasionnel,1,2,3,2,1,4,3,3,Non,38,Divorcé(e),Commercial,Cadre Commercial,3,7,0
+Non,0,6,15,2,Transformation Digitale,Occasionnel,9,3,3,2,1,4,4,3,Non,34,Célibataire,Commercial,Cadre Commercial,1,10,0
+Non,3,6,19,1,Transformation Digitale,Occasionnel,1,4,3,1,4,3,2,3,Non,25,Marié(e),Consulting,Consultant,3,3,0
+Oui,0,0,7,4,Transformation Digitale,Occasionnel,5,3,2,3,1,4,2,3,Oui,58,Marié(e),Consulting,Tech Lead,7,10,1
+Non,1,3,1,4,Infra & Cloud,Occasionnel,0,2,3,1,2,3,3,4,Non,40,Marié(e),Consulting,Consultant,3,4,0
+Non,1,2,7,3,Marketing,Frequent,6,1,4,2,1,4,2,3,Non,36,Marié(e),Commercial,Cadre Commercial,2,15,0
+Non,0,2,4,3,Infra & Cloud,Occasionnel,0,4,3,3,4,3,3,3,Non,48,Célibataire,Consulting,Tech Lead,1,10,0
+Non,1,4,11,3,Transformation Digitale,Occasionnel,0,3,4,1,4,2,3,3,Non,27,Marié(e),Commercial,Représentant Commercial,8,1,0
+Non,0,1,11,2,Entrepreunariat,Occasionnel,0,4,2,4,2,2,2,3,Non,51,Célibataire,Consulting,Tech Lead,3,5,0
+Non,0,5,1,3,Infra & Cloud,Aucun,0,4,3,1,4,3,4,3,Non,18,Célibataire,Consulting,Consultant,1,0,0
+Non,1,0,1,3,Transformation Digitale,Occasionnel,0,4,2,2,4,2,3,3,Non,35,Marié(e),Consulting,Consultant,0,9,0
+Non,0,3,2,1,Infra & Cloud,Frequent,0,4,1,2,4,2,3,4,Non,27,Célibataire,Commercial,Cadre Commercial,3,6,0
+Oui,0,2,13,4,Marketing,Occasionnel,3,1,4,4,3,3,2,3,Oui,55,Célibataire,Commercial,Cadre Commercial,6,19,1
+Non,1,0,23,3,Infra & Cloud,Occasionnel,15,4,3,4,2,1,3,3,Oui,56,Marié(e),Consulting,Tech Lead,4,19,0
+Non,3,2,26,1,Entrepreunariat,Aucun,0,1,2,1,3,3,3,4,Non,34,Divorcé(e),Consulting,Assistant de Direction,1,5,0
+Non,3,0,2,1,Transformation Digitale,Occasionnel,11,2,4,2,3,2,3,4,Non,40,Divorcé(e),Consulting,Manager,5,12,0
+Non,2,1,29,3,Transformation Digitale,Occasionnel,7,2,3,2,3,1,3,3,Non,34,Marié(e),Consulting,Consultant,4,8,0
+Oui,0,3,2,3,Infra & Cloud,Frequent,0,3,2,1,4,3,4,3,Non,31,Célibataire,Commercial,Représentant Commercial,7,1,1
+Oui,1,0,18,4,Marketing,Frequent,3,4,3,2,3,3,2,3,Oui,35,Marié(e),Commercial,Cadre Commercial,0,4,1
+Non,3,2,7,3,Infra & Cloud,Frequent,0,4,4,1,3,4,3,3,Non,38,Divorcé(e),Consulting,Assistant de Direction,1,4,0
+Non,0,2,2,4,Entrepreunariat,Occasionnel,4,3,3,2,4,4,4,3,Non,34,Célibataire,Consulting,Manager,1,14,0
+Non,1,0,26,3,Infra & Cloud,Occasionnel,0,3,2,2,1,3,3,3,Non,28,Marié(e),Commercial,Cadre Commercial,1,5,0
+Oui,2,3,22,4,Transformation Digitale,Occasionnel,6,4,3,2,3,4,2,3,Oui,31,Marié(e),Consulting,Tech Lead,1,10,1
+Non,2,2,21,4,Infra & Cloud,Occasionnel,1,1,2,2,4,4,4,3,Oui,39,Marié(e),Commercial,Cadre Commercial,3,5,0
+Non,0,5,2,3,Marketing,Frequent,3,2,3,3,2,2,3,3,Non,51,Marié(e),Commercial,Cadre Commercial,2,4,0
+Non,2,4,22,3,Infra & Cloud,Frequent,3,4,3,2,4,1,2,3,Oui,41,Divorcé(e),Consulting,Assistant de Direction,3,6,0
+Non,0,2,4,1,Infra & Cloud,Occasionnel,1,3,3,1,3,4,3,3,Oui,37,Marié(e),Consulting,Assistant de Direction,7,6,0
+Non,0,2,5,1,Infra & Cloud,Frequent,1,2,3,2,4,1,4,3,Non,33,Marié(e),Commercial,Cadre Commercial,6,5,0
+Non,3,3,2,1,Marketing,Occasionnel,1,3,3,2,2,1,2,3,Oui,32,Marié(e),Commercial,Cadre Commercial,0,3,0
+Non,1,2,25,2,Infra & Cloud,Aucun,0,3,3,3,3,2,3,4,Non,39,Marié(e),Consulting,Manager,3,6,0
+Non,0,3,18,1,Infra & Cloud,Occasionnel,1,1,4,2,3,2,2,3,Non,25,Marié(e),Commercial,Cadre Commercial,2,3,0
+Non,1,3,28,2,Transformation Digitale,Frequent,0,4,4,4,3,2,2,3,Oui,52,Marié(e),Consulting,Tech Lead,2,5,0
+Non,0,3,6,3,Transformation Digitale,Occasionnel,1,1,2,2,3,1,1,3,Oui,43,Célibataire,Consulting,Assistant de Direction,1,20,0
+Non,0,3,10,3,Marketing,Occasionnel,4,4,2,2,4,4,3,3,Oui,27,Marié(e),Commercial,Cadre Commercial,1,6,0
+Oui,0,2,17,4,Infra & Cloud,Occasionnel,7,4,3,1,3,4,3,3,Oui,27,Célibataire,Consulting,Assistant de Direction,1,8,1
+Non,0,2,2,1,Transformation Digitale,Occasionnel,1,1,2,1,4,4,3,3,Non,26,Célibataire,Consulting,Assistant de Direction,0,4,0
+Non,1,5,10,3,Ressources Humaines,Occasionnel,0,3,3,4,1,3,3,3,Non,42,Marié(e),Ressources Humaines,Senior Manager,0,20,0
+Non,0,2,8,4,Autre,Occasionnel,0,3,3,1,1,3,1,3,Non,52,Marié(e),Consulting,Consultant,9,5,0
+Non,0,6,11,3,Transformation Digitale,Occasionnel,0,1,3,1,3,1,3,3,Non,37,Célibataire,Consulting,Consultant,4,3,0
+Non,0,2,18,2,Infra & Cloud,Frequent,2,3,3,3,4,3,3,3,Non,35,Célibataire,Consulting,Tech Lead,2,2,0
+Non,1,2,1,3,Entrepreunariat,Occasionnel,0,1,3,1,4,2,2,3,Non,25,Marié(e),Consulting,Consultant,4,3,0
+Non,0,2,7,3,Autre,Occasionnel,0,3,4,1,1,4,3,3,Non,26,Célibataire,Consulting,Consultant,0,7,0
+Non,0,3,17,3,Autre,Occasionnel,0,2,2,3,1,1,2,3,Non,29,Célibataire,Ressources Humaines,Ressources Humaines,1,10,0
+Oui,0,2,28,2,Infra & Cloud,Frequent,1,1,2,2,1,1,3,4,Non,49,Célibataire,Consulting,Consultant,3,4,1
+Oui,0,1,14,1,Autre,Frequent,7,3,3,3,4,1,3,3,Oui,29,Célibataire,Consulting,Manager,0,8,1
+Non,0,3,1,3,Transformation Digitale,Occasionnel,12,4,3,4,4,4,2,3,Non,54,Célibataire,Consulting,Directeur Technique,6,20,0
+Non,1,3,1,3,Transformation Digitale,Occasionnel,1,4,3,5,1,3,3,4,Oui,58,Marié(e),Consulting,Directeur Technique,3,9,0
+Non,2,4,1,4,Transformation Digitale,Occasionnel,0,2,4,4,4,4,4,3,Non,55,Divorcé(e),Consulting,Directeur Technique,2,7,0
+Non,0,3,3,4,Marketing,Occasionnel,0,1,3,2,2,4,3,3,Oui,36,Célibataire,Commercial,Cadre Commercial,3,5,0
+Oui,0,3,1,4,Infra & Cloud,Frequent,0,2,1,1,3,2,3,3,Non,31,Célibataire,Commercial,Représentant Commercial,1,1,1
+Non,2,3,7,4,Marketing,Occasionnel,0,4,3,2,1,2,3,3,Non,30,Divorcé(e),Commercial,Cadre Commercial,7,3,0
+Non,0,3,8,5,Infra & Cloud,Occasionnel,1,1,3,4,2,3,4,3,Non,31,Célibataire,Consulting,Directeur Technique,3,3,0
+Non,2,2,1,4,Autre,Frequent,1,4,3,1,1,3,3,3,Non,34,Divorcé(e),Consulting,Assistant de Direction,5,4,0
+Oui,0,3,8,3,Infra & Cloud,Occasionnel,0,1,2,1,2,3,4,3,Non,31,Célibataire,Consulting,Assistant de Direction,1,1,1
+Non,0,3,11,1,Infra & Cloud,Occasionnel,1,2,3,1,1,2,4,3,Non,27,Marié(e),Consulting,Consultant,0,5,0
+Non,0,2,4,4,Infra & Cloud,Occasionnel,1,1,2,2,4,3,2,3,Non,36,Célibataire,Consulting,Consultant,1,10,0
+Non,2,3,16,4,Marketing,Occasionnel,0,3,2,2,1,1,2,3,Non,36,Marié(e),Commercial,Cadre Commercial,4,3,0
+Non,1,2,1,3,Entrepreunariat,Occasionnel,1,1,3,1,4,3,2,3,Non,47,Marié(e),Consulting,Assistant de Direction,7,6,0
+Oui,0,2,9,2,Infra & Cloud,Occasionnel,2,1,2,1,1,1,3,3,Non,25,Marié(e),Commercial,Représentant Commercial,3,3,1
+Non,0,2,5,2,Entrepreunariat,Aucun,1,3,4,1,3,1,1,3,Non,37,Célibataire,Consulting,Consultant,0,6,0
+Non,1,3,1,2,Infra & Cloud,Occasionnel,1,1,3,1,1,4,4,4,Non,56,Marié(e),Consulting,Assistant de Direction,2,3,0
+Non,2,2,2,4,Transformation Digitale,Occasionnel,5,1,3,4,3,2,4,3,Non,47,Marié(e),Consulting,Directeur Technique,3,20,0
+Non,2,3,4,1,Transformation Digitale,Occasionnel,0,4,3,2,3,3,3,3,Oui,24,Marié(e),Commercial,Cadre Commercial,1,5,0
+Non,1,3,7,5,Marketing,Occasionnel,0,4,3,2,4,3,2,3,Non,32,Marié(e),Commercial,Cadre Commercial,4,4,0
+Non,1,2,1,3,Infra & Cloud,Occasionnel,0,4,2,1,2,1,2,3,Non,34,Marié(e),Consulting,Consultant,5,5,0
+Non,0,5,5,5,Transformation Digitale,Occasionnel,0,2,4,1,3,1,2,3,Oui,41,Marié(e),Consulting,Assistant de Direction,2,4,0
+Non,2,2,9,4,Autre,Aucun,0,3,3,2,3,3,4,3,Non,40,Divorcé(e),Consulting,Consultant,3,8,0
+Non,1,5,8,2,Infra & Cloud,Occasionnel,9,1,3,3,4,1,3,3,Non,31,Divorcé(e),Commercial,Cadre Commercial,1,13,0
+Oui,1,1,9,3,Marketing,Occasionnel,4,1,3,3,4,1,4,3,Non,46,Divorcé(e),Commercial,Cadre Commercial,4,7,1
+Oui,0,2,2,3,Infra & Cloud,Aucun,0,1,2,1,1,2,4,4,Oui,39,Célibataire,Consulting,Consultant,2,1,1
+Oui,0,2,1,5,Infra & Cloud,Frequent,4,3,4,3,2,1,3,3,Non,31,Célibataire,Consulting,Tech Lead,1,10,1
+Non,1,2,20,3,Transformation Digitale,Occasionnel,0,2,1,3,1,2,3,3,Oui,45,Divorcé(e),Consulting,Manager,2,7,0
+Non,0,3,8,2,Transformation Digitale,Occasionnel,0,4,4,1,2,4,3,3,Non,31,Célibataire,Ressources Humaines,Ressources Humaines,9,3,0
+Oui,1,2,2,3,Infra & Cloud,Frequent,2,2,3,1,4,3,1,3,Oui,31,Marié(e),Consulting,Consultant,6,2,1
+Non,2,4,29,3,Entrepreunariat,Occasionnel,1,2,3,3,4,4,4,3,Oui,45,Marié(e),Consulting,Tech Lead,4,3,0
+Non,3,3,7,3,Marketing,Occasionnel,2,3,3,2,1,1,3,3,Non,48,Divorcé(e),Commercial,Cadre Commercial,4,2,0
+Oui,0,0,9,4,Entrepreunariat,Occasionnel,2,1,3,1,3,4,3,3,Non,34,Marié(e),Ressources Humaines,Ressources Humaines,1,2,1
+Non,1,5,8,1,Transformation Digitale,Aucun,4,4,2,3,2,3,3,3,Non,40,Divorcé(e),Consulting,Directeur Technique,2,9,0
+Non,0,4,5,3,Transformation Digitale,Occasionnel,1,4,3,2,1,4,3,3,Non,28,Célibataire,Commercial,Cadre Commercial,0,5,0
+Non,0,5,5,3,Infra & Cloud,Aucun,0,3,2,1,3,4,3,3,Non,44,Célibataire,Consulting,Consultant,3,5,0
+Non,0,2,2,3,Transformation Digitale,Occasionnel,8,4,4,4,2,2,2,3,Non,53,Célibataire,Consulting,Directeur Technique,4,9,0
+Non,1,0,5,4,Entrepreunariat,Occasionnel,1,1,3,2,3,2,2,3,Non,49,Marié(e),Consulting,Manager,2,3,0
+Non,1,3,2,3,Transformation Digitale,Occasionnel,1,3,3,1,3,3,4,3,Non,40,Divorcé(e),Consulting,Assistant de Direction,2,3,0
+Non,0,3,20,3,Infra & Cloud,Occasionnel,1,4,3,1,2,3,2,3,Non,44,Célibataire,Consulting,Assistant de Direction,1,5,0
+Non,2,2,7,3,Transformation Digitale,Frequent,0,4,3,2,1,1,3,3,Non,33,Marié(e),Commercial,Cadre Commercial,0,4,0
+Non,0,2,3,3,Autre,Occasionnel,3,4,1,2,1,4,3,3,Non,34,Célibataire,Commercial,Cadre Commercial,3,13,0
+Non,2,2,16,1,Infra & Cloud,Occasionnel,2,4,3,2,3,3,2,3,Non,30,Marié(e),Commercial,Cadre Commercial,8,2,0
+Non,0,3,9,2,Transformation Digitale,Frequent,5,1,3,1,4,3,3,3,Non,42,Célibataire,Consulting,Consultant,1,12,0
+Non,1,4,1,5,Marketing,Frequent,0,1,3,2,3,3,2,3,Non,44,Marié(e),Commercial,Cadre Commercial,7,1,0
+Non,2,2,7,3,Entrepreunariat,Aucun,0,3,3,1,3,2,2,3,Non,30,Divorcé(e),Consulting,Assistant de Direction,1,1,0
+Non,1,2,1,2,Infra & Cloud,Occasionnel,2,2,4,2,3,1,2,4,Non,57,Marié(e),Consulting,Assistant de Direction,0,12,0
+Non,2,3,7,4,Infra & Cloud,Occasionnel,0,3,3,3,2,2,3,3,Non,49,Divorcé(e),Consulting,Manager,3,8,0
+Non,2,3,15,3,Transformation Digitale,Frequent,6,2,3,4,1,4,2,3,Non,34,Divorcé(e),Consulting,Directeur Technique,7,14,0
+Oui,1,3,1,3,Entrepreunariat,Frequent,1,1,3,1,3,4,4,3,Non,28,Marié(e),Commercial,Représentant Commercial,3,3,1
+Oui,0,4,13,3,Entrepreunariat,Frequent,0,1,3,2,2,1,1,3,Non,29,Célibataire,Commercial,Cadre Commercial,5,5,1
+Oui,0,2,24,4,Transformation Digitale,Occasionnel,10,1,2,2,2,3,4,4,Oui,34,Célibataire,Commercial,Cadre Commercial,0,15,1
+Non,1,3,7,1,Infra & Cloud,Occasionnel,0,4,3,1,3,1,3,3,Non,35,Marié(e),Commercial,Représentant Commercial,1,1,0
+Oui,0,2,9,3,Transformation Digitale,Frequent,0,2,3,1,1,3,2,3,Oui,24,Célibataire,Consulting,Consultant,2,0,1
+Non,1,2,13,2,Infra & Cloud,Aucun,0,4,3,1,2,3,3,3,Non,24,Marié(e),Commercial,Représentant Commercial,1,1,0
+Non,0,2,2,1,Transformation Digitale,Frequent,2,2,3,3,3,2,2,3,Oui,44,Célibataire,Consulting,Tech Lead,5,2,0
+Non,2,3,19,3,Infra & Cloud,Occasionnel,0,3,2,2,3,3,3,3,Non,29,Divorcé(e),Commercial,Cadre Commercial,1,10,0
+Non,1,3,1,3,Infra & Cloud,Occasionnel,1,3,3,1,3,1,4,4,Non,30,Divorcé(e),Ressources Humaines,Ressources Humaines,0,5,0
+Non,0,2,4,4,Infra & Cloud,Occasionnel,1,4,3,2,3,2,3,3,Oui,55,Marié(e),Consulting,Manager,0,3,0
+Non,0,5,4,4,Transformation Digitale,Occasionnel,0,1,2,1,2,4,3,3,Non,33,Marié(e),Consulting,Consultant,8,5,0
+Non,1,4,14,3,Transformation Digitale,Occasionnel,1,3,3,2,3,3,2,3,Oui,47,Marié(e),Commercial,Cadre Commercial,3,5,0
+Oui,0,2,2,2,Transformation Digitale,Frequent,0,3,2,1,1,3,2,3,Non,28,Célibataire,Consulting,Consultant,7,0,1
+Non,1,2,1,3,Infra & Cloud,Occasionnel,0,1,2,1,3,4,1,3,Non,28,Divorcé(e),Consulting,Assistant de Direction,1,1,0
+Non,0,5,7,3,Infra & Cloud,Frequent,1,3,3,2,1,4,3,3,Non,28,Célibataire,Commercial,Cadre Commercial,0,4,0
+Non,1,3,3,2,Transformation Digitale,Occasionnel,1,3,2,2,1,1,3,4,Non,49,Marié(e),Consulting,Consultant,4,3,0
+Non,3,3,2,1,Infra & Cloud,Frequent,0,4,3,1,2,3,3,3,Non,29,Marié(e),Consulting,Consultant,0,3,0
+Non,2,2,29,1,Infra & Cloud,Occasionnel,1,3,1,2,2,2,2,3,Non,28,Marié(e),Consulting,Tech Lead,1,8,0
+Non,0,6,8,5,Infra & Cloud,Occasionnel,0,4,3,2,3,1,3,3,Oui,33,Célibataire,Consulting,Manager,2,0,0
+Non,0,5,10,3,Transformation Digitale,Occasionnel,0,3,3,3,4,2,4,4,Non,32,Célibataire,Consulting,Senior Manager,2,5,0
+Non,1,2,11,4,Transformation Digitale,Frequent,1,2,3,4,4,1,3,4,Non,54,Divorcé(e),Consulting,Senior Manager,3,14,0
+Oui,0,2,1,4,Entrepreunariat,Occasionnel,0,1,2,1,1,3,1,3,Non,29,Célibataire,Consulting,Assistant de Direction,6,9,1
+Non,1,1,28,3,Infra & Cloud,Occasionnel,14,4,3,4,1,3,4,3,Non,44,Marié(e),Consulting,Directeur Technique,3,20,0
+Non,0,3,6,3,Infra & Cloud,Occasionnel,2,2,3,3,2,4,3,3,Non,39,Célibataire,Consulting,Tech Lead,4,2,0
+Non,1,2,3,3,Infra & Cloud,Occasionnel,5,3,3,4,2,4,4,3,Non,46,Marié(e),Commercial,Senior Manager,8,13,0
+Non,0,3,16,3,Infra & Cloud,Occasionnel,3,4,2,3,2,4,1,3,Non,35,Célibataire,Consulting,Manager,1,11,0
+Non,0,2,20,1,Infra & Cloud,Occasionnel,1,1,3,2,3,2,3,3,Non,23,Célibataire,Consulting,Consultant,0,4,0
+Oui,0,3,9,4,Infra & Cloud,Occasionnel,1,4,3,1,1,2,1,3,Non,40,Célibataire,Consulting,Consultant,3,5,1
+Non,0,3,1,3,Entrepreunariat,Occasionnel,8,4,2,3,3,4,3,3,Oui,34,Marié(e),Commercial,Cadre Commercial,1,10,0
+Oui,0,2,3,3,Infra & Cloud,Frequent,7,4,3,1,3,1,1,3,Non,31,Célibataire,Consulting,Assistant de Direction,1,7,1
+Non,0,2,22,5,Transformation Digitale,Frequent,13,3,1,4,4,4,3,3,Oui,50,Célibataire,Consulting,Directeur Technique,1,32,0
+Non,1,4,7,2,Entrepreunariat,Occasionnel,5,2,3,1,3,2,3,4,Oui,34,Marié(e),Commercial,Représentant Commercial,0,11,0
+Non,1,3,2,3,Transformation Digitale,Occasionnel,0,3,2,1,2,2,3,3,Non,42,Marié(e),Consulting,Consultant,4,1,0
+Non,0,2,13,3,Transformation Digitale,Occasionnel,3,1,3,2,4,1,3,3,Non,37,Marié(e),Consulting,Assistant de Direction,1,10,0
+Non,1,3,8,1,Autre,Occasionnel,0,3,1,2,1,3,3,3,Non,29,Marié(e),Consulting,Manager,3,7,0
+Non,0,2,25,3,Infra & Cloud,Occasionnel,0,4,2,2,2,4,3,3,Non,33,Célibataire,Consulting,Tech Lead,1,5,0
+Non,1,3,28,3,Entrepreunariat,Occasionnel,0,4,3,1,4,4,3,4,Non,45,Marié(e),Consulting,Assistant de Direction,4,5,0
+Non,1,3,2,3,Infra & Cloud,Frequent,13,4,3,3,4,3,1,3,Oui,42,Marié(e),Consulting,Manager,2,20,0
+Non,0,5,9,2,Transformation Digitale,Occasionnel,7,1,3,2,1,4,4,3,Non,40,Marié(e),Commercial,Cadre Commercial,0,8,0
+Non,1,3,28,4,Infra & Cloud,Occasionnel,5,2,3,2,3,2,3,3,Oui,33,Marié(e),Consulting,Consultant,1,15,0
+Non,0,2,6,2,Transformation Digitale,Occasionnel,7,3,3,4,4,4,3,4,Oui,40,Célibataire,Ressources Humaines,Senior Manager,1,21,0
+Non,3,3,21,2,Entrepreunariat,Occasionnel,0,3,2,1,1,2,3,3,Non,24,Divorcé(e),Consulting,Consultant,0,1,0
+Non,0,2,8,2,Infra & Cloud,Aucun,2,4,3,2,4,3,3,3,Oui,40,Divorcé(e),Consulting,Manager,3,2,0
+Non,3,4,1,4,Entrepreunariat,Occasionnel,7,1,3,3,2,1,3,3,Non,45,Divorcé(e),Consulting,Manager,1,10,0
+Non,2,5,28,4,Infra & Cloud,Occasionnel,4,2,2,1,3,1,3,4,Non,35,Marié(e),Commercial,Représentant Commercial,0,5,0
+Non,1,2,5,2,Infra & Cloud,Occasionnel,2,4,2,2,2,1,3,3,Non,32,Marié(e),Consulting,Assistant de Direction,3,7,0
+Non,0,3,2,4,Infra & Cloud,Occasionnel,1,3,3,1,4,4,2,4,Oui,36,Célibataire,Commercial,Représentant Commercial,3,3,0
+Non,1,2,16,4,Infra & Cloud,Occasionnel,7,3,3,2,3,3,3,3,Non,48,Divorcé(e),Commercial,Cadre Commercial,8,8,0
+Non,2,2,9,3,Infra & Cloud,Occasionnel,0,3,4,1,3,1,2,3,Non,29,Marié(e),Consulting,Assistant de Direction,6,1,0
+Non,1,6,8,4,Infra & Cloud,Occasionnel,2,1,3,2,1,4,1,3,Non,33,Marié(e),Commercial,Cadre Commercial,2,2,0
+Oui,1,4,1,3,Infra & Cloud,Occasionnel,6,2,2,2,1,4,3,3,Non,30,Marié(e),Commercial,Cadre Commercial,1,10,1
+Non,0,2,10,4,Ressources Humaines,Frequent,1,3,3,2,3,3,3,3,Non,38,Marié(e),Ressources Humaines,Ressources Humaines,3,6,0
+Non,0,3,1,3,Transformation Digitale,Occasionnel,1,4,2,1,1,2,3,3,Non,35,Célibataire,Consulting,Consultant,1,3,0
+Non,1,3,29,4,Entrepreunariat,Occasionnel,1,3,3,3,2,2,3,3,Non,30,Marié(e),Commercial,Cadre Commercial,3,4,0
+Oui,1,2,2,3,Infra & Cloud,Occasionnel,0,1,3,1,1,4,3,3,Oui,35,Divorcé(e),Consulting,Consultant,1,1,1
+Oui,1,4,2,5,Entrepreunariat,Occasionnel,1,3,2,3,4,2,3,3,Non,53,Marié(e),Consulting,Tech Lead,0,33,1
+Oui,2,2,2,3,Transformation Digitale,Occasionnel,1,3,3,2,2,1,3,3,Non,38,Marié(e),Consulting,Tech Lead,4,5,1
+Non,1,3,1,4,Entrepreunariat,Aucun,1,4,3,2,1,2,2,3,Non,32,Marié(e),Consulting,Assistant de Direction,4,6,0
+Non,1,3,15,4,Autre,Occasionnel,7,3,3,1,1,4,2,3,Non,48,Marié(e),Consulting,Assistant de Direction,8,8,0
+Non,0,4,7,4,Transformation Digitale,Occasionnel,0,1,3,1,4,3,1,3,Non,34,Célibataire,Consulting,Assistant de Direction,1,1,0
+Non,1,3,26,5,Marketing,Occasionnel,2,3,2,5,4,3,3,4,Non,55,Marié(e),Commercial,Senior Manager,1,36,0
+Non,1,3,1,4,Infra & Cloud,Occasionnel,2,2,3,2,4,2,2,3,Non,34,Marié(e),Consulting,Assistant de Direction,9,2,0
+Non,0,5,3,3,Infra & Cloud,Occasionnel,0,1,3,1,4,1,3,4,Non,26,Marié(e),Consulting,Assistant de Direction,1,1,0
+Non,1,3,14,3,Infra & Cloud,Occasionnel,7,3,3,2,2,4,3,3,Non,38,Marié(e),Commercial,Cadre Commercial,0,9,0
+Non,0,5,16,3,Infra & Cloud,Occasionnel,1,2,3,2,2,2,4,3,Non,38,Célibataire,Commercial,Cadre Commercial,2,3,0
+Non,0,5,1,4,Infra & Cloud,Occasionnel,0,2,3,2,3,1,3,3,Non,36,Célibataire,Commercial,Cadre Commercial,6,1,0
+Non,0,3,3,1,Transformation Digitale,Occasionnel,1,2,3,1,1,4,3,3,Oui,29,Célibataire,Consulting,Consultant,1,10,0
+Non,0,4,10,4,Transformation Digitale,Occasionnel,0,1,3,2,3,3,3,3,Oui,35,Célibataire,Consulting,Manager,3,5,0
+Non,1,3,6,3,Transformation Digitale,Occasionnel,7,4,4,3,3,1,3,3,Non,39,Marié(e),Commercial,Cadre Commercial,2,7,0
+Non,1,0,2,1,Infra & Cloud,Frequent,1,1,3,2,4,4,4,3,Non,29,Divorcé(e),Consulting,Manager,1,6,0
+Non,1,2,9,3,Marketing,Occasionnel,0,3,3,5,3,3,3,3,Oui,50,Marié(e),Commercial,Senior Manager,4,1,0
+Non,1,2,10,3,Entrepreunariat,Occasionnel,2,4,4,1,3,4,3,3,Non,23,Marié(e),Consulting,Assistant de Direction,2,2,0
+Non,1,3,6,4,Infra & Cloud,Frequent,0,1,4,2,1,4,3,3,Oui,36,Marié(e),Consulting,Consultant,3,3,0
+Non,0,2,9,2,Autre,Occasionnel,0,4,2,5,4,4,3,4,Non,42,Célibataire,Consulting,Senior Manager,8,1,0
+Non,2,3,28,3,Infra & Cloud,Occasionnel,6,2,4,2,3,4,2,3,Non,35,Marié(e),Consulting,Consultant,1,10,0
+Non,1,3,10,4,Entrepreunariat,Frequent,7,4,2,2,3,2,2,3,Non,34,Marié(e),Consulting,Manager,1,8,0
+Non,1,2,14,2,Infra & Cloud,Occasionnel,1,4,3,2,1,3,3,3,Non,40,Marié(e),Commercial,Cadre Commercial,1,5,0
+Non,1,0,27,3,Entrepreunariat,Occasionnel,0,4,4,1,2,3,3,3,Non,43,Divorcé(e),Consulting,Consultant,5,6,0
+Non,1,5,7,2,Infra & Cloud,Occasionnel,0,3,2,1,4,4,2,3,Non,35,Marié(e),Consulting,Consultant,1,1,0
+Non,0,5,1,4,Infra & Cloud,Occasionnel,0,4,4,4,1,2,1,3,Non,46,Célibataire,Commercial,Senior Manager,1,26,0
+Oui,3,3,24,3,Transformation Digitale,Occasionnel,0,3,3,1,2,3,3,3,Oui,28,Marié(e),Consulting,Consultant,1,1,1
+Non,0,2,26,2,Autre,Aucun,1,2,2,1,3,2,2,3,Oui,22,Marié(e),Consulting,Assistant de Direction,1,4,0
+Non,1,3,20,5,Transformation Digitale,Frequent,12,2,3,4,3,3,3,3,Oui,50,Marié(e),Consulting,Manager,2,30,0
+Non,2,3,5,4,Autre,Occasionnel,0,2,4,1,4,4,3,3,Non,32,Marié(e),Consulting,Assistant de Direction,3,3,0
+Non,1,4,7,3,Transformation Digitale,Occasionnel,1,2,3,5,4,4,2,3,Oui,44,Divorcé(e),Consulting,Directeur Technique,0,22,0
+Non,1,3,7,3,Transformation Digitale,Occasionnel,1,2,2,1,2,2,2,3,Non,30,Marié(e),Consulting,Assistant de Direction,1,6,0
+Non,0,3,5,5,Transformation Digitale,Occasionnel,1,3,1,2,1,1,3,3,Oui,45,Célibataire,Consulting,Consultant,1,10,0
+Non,1,2,26,3,Marketing,Aucun,4,1,2,2,1,1,3,3,Non,45,Marié(e),Commercial,Cadre Commercial,1,10,0
+Non,0,3,2,4,Autre,Frequent,0,4,3,2,1,4,3,3,Non,31,Célibataire,Commercial,Cadre Commercial,7,5,0
+Non,2,2,12,4,Infra & Cloud,Occasionnel,1,3,3,2,3,2,3,3,Oui,36,Marié(e),Consulting,Tech Lead,9,3,0
+Non,1,3,10,4,Infra & Cloud,Frequent,7,3,4,2,4,1,3,3,Non,34,Divorcé(e),Consulting,Tech Lead,1,9,0
+Non,1,3,25,4,Infra & Cloud,Occasionnel,1,3,3,1,1,4,2,3,Non,49,Marié(e),Consulting,Consultant,1,9,0
+Non,3,3,10,5,Transformation Digitale,Occasionnel,7,2,3,2,1,4,3,3,Non,39,Marié(e),Consulting,Tech Lead,2,7,0
+Non,2,3,19,3,Autre,Occasionnel,0,4,2,1,1,1,3,3,Non,27,Divorcé(e),Consulting,Consultant,1,7,0
+Non,0,2,18,5,Infra & Cloud,Occasionnel,1,2,4,2,1,4,3,3,Non,35,Marié(e),Consulting,Assistant de Direction,1,16,0
+Non,1,5,27,3,Transformation Digitale,Occasionnel,0,2,1,2,1,2,2,4,Non,28,Divorcé(e),Consulting,Tech Lead,0,5,0
+Non,0,2,5,1,Transformation Digitale,Occasionnel,2,3,3,1,4,3,3,3,Non,21,Célibataire,Consulting,Assistant de Direction,1,2,0
+Oui,0,2,3,2,Transformation Digitale,Frequent,0,2,3,1,4,3,4,3,Oui,18,Célibataire,Commercial,Représentant Commercial,1,0,1
+Non,1,2,26,4,Infra & Cloud,Occasionnel,1,4,3,5,3,3,3,3,Non,47,Marié(e),Ressources Humaines,Senior Manager,3,5,0
+Non,1,3,3,2,Transformation Digitale,Occasionnel,0,3,2,2,3,4,3,3,Non,39,Divorcé(e),Consulting,Consultant,0,10,0
+Non,2,2,15,3,Infra & Cloud,Occasionnel,14,1,2,3,3,4,3,3,Non,40,Marié(e),Consulting,Tech Lead,1,18,0
+Non,1,5,8,4,Infra & Cloud,Aucun,2,3,3,2,3,4,3,3,Non,35,Marié(e),Consulting,Manager,1,14,0
+Non,3,2,19,3,Infra & Cloud,Occasionnel,0,3,3,2,3,1,2,3,Non,37,Marié(e),Consulting,Tech Lead,3,4,0
+Non,0,2,4,3,Transformation Digitale,Frequent,3,1,3,2,3,4,1,3,Non,39,Célibataire,Consulting,Tech Lead,0,9,0
+Non,2,3,2,2,Autre,Occasionnel,3,4,2,2,4,1,3,3,Non,45,Divorcé(e),Consulting,Tech Lead,1,10,0
+Non,1,6,2,2,Transformation Digitale,Occasionnel,0,4,2,3,3,4,4,3,Oui,38,Marié(e),Consulting,Tech Lead,3,5,0
+Oui,0,3,10,3,Transformation Digitale,Occasionnel,6,4,2,3,1,3,3,3,Non,35,Marié(e),Commercial,Cadre Commercial,9,13,1
+Non,1,2,10,3,Transformation Digitale,Occasionnel,7,2,3,1,2,1,1,3,Non,37,Marié(e),Consulting,Assistant de Direction,1,8,0
+Non,0,2,16,3,Infra & Cloud,Occasionnel,3,3,3,3,4,4,2,3,Oui,40,Célibataire,Consulting,Tech Lead,6,4,0
+Non,0,3,1,5,Ressources Humaines,Frequent,0,1,3,2,4,3,3,3,Oui,44,Marié(e),Ressources Humaines,Ressources Humaines,4,10,0
+Non,1,3,4,5,Transformation Digitale,Frequent,2,3,2,4,4,2,3,4,Non,48,Marié(e),Consulting,Senior Manager,2,2,0
+Oui,2,2,15,2,Transformation Digitale,Occasionnel,2,1,1,2,4,4,2,3,Oui,35,Divorcé(e),Commercial,Cadre Commercial,6,2,1
+Non,0,2,2,1,Entrepreunariat,Frequent,1,1,3,1,4,3,3,3,Oui,24,Célibataire,Consulting,Assistant de Direction,1,6,0
+Non,0,0,8,3,Transformation Digitale,Occasionnel,0,2,4,1,3,1,3,3,Non,27,Marié(e),Consulting,Assistant de Direction,7,3,0
+Non,0,0,2,3,Transformation Digitale,Frequent,1,4,3,1,4,3,2,3,Non,27,Célibataire,Consulting,Assistant de Direction,2,4,0
+Oui,0,3,7,3,Infra & Cloud,Occasionnel,0,1,3,1,1,2,1,3,Oui,40,Célibataire,Consulting,Consultant,3,4,1
+Non,0,2,10,3,Transformation Digitale,Occasionnel,1,3,2,2,3,3,3,3,Non,29,Célibataire,Commercial,Cadre Commercial,9,5,0
+Non,2,6,5,4,Infra & Cloud,Occasionnel,0,2,3,3,1,3,3,3,Non,36,Marié(e),Consulting,Manager,4,3,0
+Non,2,6,2,1,Infra & Cloud,Frequent,0,4,4,2,3,3,3,3,Non,25,Divorcé(e),Consulting,Tech Lead,1,7,0
+Non,0,3,12,3,Transformation Digitale,Occasionnel,1,4,3,2,2,3,3,4,Non,39,Marié(e),Consulting,Tech Lead,4,5,0
+Non,2,2,22,4,Autre,Occasionnel,1,1,3,4,2,2,3,3,Non,49,Marié(e),Consulting,Directeur Technique,3,4,0
+Non,3,3,17,5,Infra & Cloud,Occasionnel,1,4,2,3,1,3,3,3,Non,50,Divorcé(e),Consulting,Directeur Technique,5,14,0
+Non,0,3,2,3,Transformation Digitale,Occasionnel,2,3,3,1,3,1,3,3,Non,20,Célibataire,Commercial,Représentant Commercial,1,2,0
+Non,1,2,3,3,Infra & Cloud,Occasionnel,7,4,3,2,2,3,3,3,Non,34,Divorcé(e),Consulting,Assistant de Direction,1,11,0
+Non,0,4,7,3,Infra & Cloud,Occasionnel,1,1,3,1,2,3,3,3,Non,36,Célibataire,Consulting,Consultant,2,4,0
+Non,1,3,6,1,Infra & Cloud,Occasionnel,2,3,2,4,3,2,3,3,Oui,49,Marié(e),Consulting,Manager,2,15,0
+Non,0,6,1,4,Transformation Digitale,Aucun,1,4,2,2,3,3,3,3,Non,36,Marié(e),Consulting,Tech Lead,0,3,0
+Non,1,3,3,2,Infra & Cloud,Occasionnel,0,4,4,2,1,1,3,4,Non,36,Divorcé(e),Consulting,Manager,6,5,0
+Non,1,6,22,5,Transformation Digitale,Occasionnel,4,2,3,4,3,3,3,4,Non,54,Marié(e),Consulting,Senior Manager,3,10,0
+Non,1,3,15,2,Infra & Cloud,Occasionnel,6,3,2,4,3,1,3,4,Non,43,Marié(e),Consulting,Directeur Technique,1,14,0
+Oui,0,2,12,4,Autre,Frequent,6,4,3,2,4,1,4,4,Oui,35,Célibataire,Commercial,Cadre Commercial,3,11,1
+Non,2,4,1,3,Infra & Cloud,Frequent,2,4,3,2,4,4,4,3,Non,38,Marié(e),Consulting,Assistant de Direction,7,13,0
+Non,1,3,5,3,Transformation Digitale,Occasionnel,0,1,2,2,2,2,2,3,Oui,29,Divorcé(e),Commercial,Cadre Commercial,1,10,0
+Non,2,5,2,4,Transformation Digitale,Occasionnel,0,4,3,2,4,3,3,3,Non,33,Divorcé(e),Commercial,Cadre Commercial,1,6,0
+Non,2,4,2,3,Transformation Digitale,Occasionnel,1,4,3,2,2,3,2,3,Non,32,Divorcé(e),Consulting,Assistant de Direction,0,9,0
+Non,2,2,5,4,Infra & Cloud,Occasionnel,0,1,3,2,4,1,3,3,Non,31,Marié(e),Commercial,Cadre Commercial,1,10,0
+Non,1,2,16,3,Transformation Digitale,Occasionnel,2,4,3,1,1,2,2,3,Oui,49,Divorcé(e),Consulting,Consultant,4,2,0
+Non,0,3,2,3,Transformation Digitale,Frequent,3,4,2,1,2,2,3,4,Non,38,Célibataire,Consulting,Consultant,1,4,0
+Non,3,2,2,4,Infra & Cloud,Occasionnel,1,2,4,4,2,3,3,3,Non,47,Divorcé(e),Commercial,Senior Manager,6,3,0
+Non,0,2,1,3,Infra & Cloud,Occasionnel,0,3,3,4,3,1,3,3,Non,49,Célibataire,Consulting,Senior Manager,4,8,0
+Non,0,2,23,2,Infra & Cloud,Occasionnel,0,4,3,3,3,4,3,3,Oui,41,Célibataire,Commercial,Cadre Commercial,3,2,0
+Non,0,3,9,1,Infra & Cloud,Occasionnel,0,4,3,1,1,1,3,3,Non,20,Célibataire,Commercial,Représentant Commercial,1,2,0
+Non,1,2,16,3,Infra & Cloud,Aucun,1,3,3,2,4,3,3,4,Oui,33,Divorcé(e),Commercial,Cadre Commercial,1,6,0
+Non,2,2,26,4,Infra & Cloud,Occasionnel,0,1,3,2,3,2,2,3,Non,36,Marié(e),Consulting,Manager,6,3,0
+Non,3,2,1,3,Infra & Cloud,Occasionnel,2,3,3,1,4,1,3,3,Oui,44,Divorcé(e),Ressources Humaines,Ressources Humaines,4,2,0
+Oui,0,2,8,1,Transformation Digitale,Occasionnel,1,4,2,1,3,1,3,3,Oui,23,Célibataire,Consulting,Consultant,1,5,1
+Non,1,5,4,2,Transformation Digitale,Occasionnel,0,4,3,1,3,4,2,3,Non,38,Marié(e),Consulting,Consultant,7,0,0
+Non,0,2,24,4,Transformation Digitale,Occasionnel,1,2,4,3,4,3,3,3,Non,53,Marié(e),Consulting,Manager,3,4,0
+Oui,2,3,7,2,Transformation Digitale,Frequent,7,4,3,1,3,3,3,3,Oui,48,Marié(e),Commercial,Représentant Commercial,2,9,1
+Oui,0,2,2,4,Infra & Cloud,Occasionnel,0,4,3,1,2,1,3,3,Non,32,Célibataire,Consulting,Consultant,1,1,1
+Non,0,5,7,3,Transformation Digitale,Aucun,5,4,3,1,4,3,3,4,Non,26,Célibataire,Consulting,Consultant,1,7,0
+Non,1,1,22,3,Entrepreunariat,Occasionnel,1,1,2,1,2,4,3,3,Non,55,Divorcé(e),Consulting,Assistant de Direction,5,4,0
+Non,1,3,5,2,Transformation Digitale,Occasionnel,4,2,2,2,4,3,4,3,Non,34,Marié(e),Consulting,Consultant,1,15,0
+Non,1,2,1,4,Transformation Digitale,Occasionnel,0,3,1,3,4,3,4,4,Non,60,Divorcé(e),Consulting,Manager,3,1,0
+Non,3,6,21,3,Transformation Digitale,Occasionnel,2,2,4,1,2,4,3,3,Non,33,Marié(e),Consulting,Consultant,1,14,0
+Non,2,2,1,4,Transformation Digitale,Frequent,1,3,1,2,4,3,2,3,Non,37,Divorcé(e),Commercial,Cadre Commercial,1,6,0
+Non,0,3,19,3,Infra & Cloud,Occasionnel,8,2,2,1,4,2,3,3,Non,34,Marié(e),Consulting,Assistant de Direction,1,10,0
+Oui,1,2,7,3,Infra & Cloud,Occasionnel,0,3,3,1,4,2,3,4,Oui,23,Divorcé(e),Commercial,Représentant Commercial,1,3,1
+Non,1,2,2,3,Infra & Cloud,Occasionnel,6,3,4,3,4,2,3,3,Oui,44,Marié(e),Consulting,Manager,1,8,0
+Non,0,2,2,4,Transformation Digitale,Frequent,1,1,2,1,4,3,4,3,Oui,35,Célibataire,Consulting,Assistant de Direction,0,5,0
+Non,1,3,2,3,Transformation Digitale,Occasionnel,8,4,3,2,4,1,3,3,Oui,43,Marié(e),Commercial,Cadre Commercial,1,10,0
+Non,1,1,9,3,Transformation Digitale,Occasionnel,0,3,4,1,3,4,3,3,Non,24,Marié(e),Consulting,Assistant de Direction,1,5,0
+Non,0,3,6,3,Marketing,Occasionnel,8,4,3,3,3,2,3,3,Non,41,Célibataire,Commercial,Cadre Commercial,1,10,0
+Non,1,2,9,4,Transformation Digitale,Occasionnel,1,4,3,1,3,3,3,3,Non,29,Marié(e),Consulting,Consultant,9,5,0
+Non,0,2,2,4,Infra & Cloud,Occasionnel,6,3,3,2,4,3,2,3,Non,36,Célibataire,Commercial,Représentant Commercial,3,13,0
+Non,1,3,1,1,Infra & Cloud,Aucun,14,3,2,3,3,4,2,4,Non,45,Marié(e),Consulting,Manager,3,23,0
+Oui,1,2,22,1,Ressources Humaines,Occasionnel,0,4,1,1,3,3,3,3,Non,24,Marié(e),Ressources Humaines,Ressources Humaines,1,1,1
+Oui,0,3,9,3,Infra & Cloud,Frequent,14,3,1,4,3,3,1,3,Non,47,Marié(e),Commercial,Cadre Commercial,7,23,1
+Non,3,3,17,4,Transformation Digitale,Occasionnel,0,4,1,1,3,3,4,3,Non,26,Marié(e),Consulting,Consultant,1,3,0
+Non,0,2,28,2,Entrepreunariat,Occasionnel,8,4,2,4,2,3,3,3,Non,45,Célibataire,Consulting,Directeur Technique,1,21,0
+Non,1,3,10,3,Infra & Cloud,Frequent,1,1,3,1,3,1,2,3,Non,32,Marié(e),Consulting,Assistant de Direction,6,5,0
+Non,1,2,2,4,Infra & Cloud,Occasionnel,0,2,3,1,3,4,4,3,Non,31,Marié(e),Consulting,Consultant,1,5,0
+Non,1,4,4,3,Ressources Humaines,Aucun,1,3,1,2,2,2,3,3,Non,41,Marié(e),Ressources Humaines,Ressources Humaines,6,3,0
+Non,1,3,8,2,Infra & Cloud,Occasionnel,0,2,3,2,1,2,3,3,Oui,40,Marié(e),Consulting,Tech Lead,2,1,0
+Non,3,2,29,1,Transformation Digitale,Occasionnel,1,2,3,1,1,2,4,3,Non,24,Divorcé(e),Consulting,Consultant,1,6,0
+Non,0,3,13,4,Infra & Cloud,Occasionnel,0,3,3,2,2,4,3,3,Non,46,Célibataire,Consulting,Manager,6,10,0
+Non,1,3,27,4,Infra & Cloud,Occasionnel,0,4,3,2,3,2,3,3,Non,35,Marié(e),Consulting,Tech Lead,2,7,0
+Non,1,2,16,1,Infra & Cloud,Occasionnel,0,2,3,1,4,2,2,3,Non,30,Marié(e),Consulting,Assistant de Direction,1,10,0
+Non,1,3,2,4,Marketing,Aucun,0,3,3,2,2,4,1,3,Non,47,Marié(e),Commercial,Cadre Commercial,7,1,0
+Non,1,5,2,3,Infra & Cloud,Occasionnel,0,3,3,3,4,2,2,3,Oui,46,Divorcé(e),Commercial,Cadre Commercial,4,10,0
+Oui,3,3,13,5,Marketing,Occasionnel,2,2,2,2,1,2,3,3,Oui,36,Divorcé(e),Commercial,Cadre Commercial,5,2,1
+Oui,0,2,1,2,Infra & Cloud,Occasionnel,0,1,1,2,2,2,3,3,Non,32,Célibataire,Commercial,Cadre Commercial,6,0,1
+Non,0,3,4,1,Transformation Digitale,Occasionnel,1,3,3,1,2,3,1,3,Non,23,Célibataire,Consulting,Consultant,1,3,0
+Non,0,3,24,1,Entrepreunariat,Frequent,1,4,3,2,4,4,2,4,Non,31,Célibataire,Consulting,Tech Lead,2,5,0
+Non,1,2,1,3,Infra & Cloud,Aucun,5,4,3,2,4,4,3,3,Oui,39,Marié(e),Consulting,Consultant,1,9,0
+Non,1,2,19,3,Infra & Cloud,Occasionnel,0,4,1,3,3,3,1,3,Non,32,Marié(e),Commercial,Cadre Commercial,3,4,0
+Non,0,3,7,4,Transformation Digitale,Occasionnel,12,2,3,5,2,2,2,3,Non,40,Célibataire,Commercial,Senior Manager,1,21,0
+Non,2,2,4,3,Infra & Cloud,Occasionnel,0,3,1,3,3,3,4,4,Non,45,Marié(e),Ressources Humaines,Ressources Humaines,4,5,0
+Non,0,2,2,4,Entrepreunariat,Frequent,0,4,2,1,1,4,3,3,Non,30,Célibataire,Consulting,Assistant de Direction,0,9,0
+Non,1,2,10,3,Transformation Digitale,Frequent,2,1,3,1,4,4,3,3,Non,24,Marié(e),Ressources Humaines,Ressources Humaines,0,2,0
+Oui,1,0,8,3,Ressources Humaines,Frequent,1,3,2,1,4,3,2,3,Non,30,Divorcé(e),Ressources Humaines,Ressources Humaines,6,4,1
+Non,1,3,5,3,Entrepreunariat,Occasionnel,0,1,3,2,3,3,3,3,Non,31,Marié(e),Commercial,Cadre Commercial,1,5,0
+Non,0,5,8,3,Transformation Digitale,Occasionnel,1,3,3,1,4,3,2,3,Non,27,Célibataire,Consulting,Assistant de Direction,1,6,0
+Oui,0,3,9,3,Marketing,Occasionnel,2,2,1,1,2,3,3,3,Non,29,Célibataire,Commercial,Représentant Commercial,1,2,1
+Non,0,5,1,3,Infra & Cloud,Frequent,0,4,4,2,3,4,4,3,Oui,29,Célibataire,Consulting,Manager,8,3,0
+Non,1,2,15,2,Marketing,Occasionnel,1,3,2,3,1,1,3,3,Non,30,Divorcé(e),Commercial,Cadre Commercial,2,7,0
+Non,3,3,2,4,Transformation Digitale,Occasionnel,1,4,4,1,4,1,3,3,Oui,34,Marié(e),Consulting,Assistant de Direction,0,5,0
+Non,0,2,2,3,Marketing,Aucun,1,4,3,2,2,4,2,3,Non,33,Célibataire,Commercial,Cadre Commercial,8,11,0
+Non,0,1,11,4,Marketing,Occasionnel,0,4,3,2,4,3,4,3,Non,49,Célibataire,Commercial,Cadre Commercial,3,5,0
+Oui,0,2,16,3,Infra & Cloud,Occasionnel,0,1,3,3,1,3,2,4,Oui,33,Célibataire,Commercial,Cadre Commercial,2,0,1
+Non,1,4,2,2,Transformation Digitale,Frequent,0,3,2,1,2,2,2,3,Non,38,Marié(e),Consulting,Consultant,4,6,0
+Oui,3,2,16,4,Marketing,Occasionnel,0,1,3,3,3,1,3,3,Non,31,Marié(e),Commercial,Cadre Commercial,2,1,1
+Non,1,2,4,3,Entrepreunariat,Occasionnel,0,4,2,1,1,3,3,3,Non,29,Divorcé(e),Consulting,Assistant de Direction,1,1,0
+Non,1,3,16,3,Infra & Cloud,Occasionnel,1,3,4,2,3,3,3,3,Non,30,Marié(e),Consulting,Manager,3,7,0
+Non,0,3,5,4,Entrepreunariat,Aucun,0,2,3,1,2,2,3,3,Non,32,Célibataire,Consulting,Assistant de Direction,2,7,0
+Non,1,2,18,3,Transformation Digitale,Occasionnel,1,2,1,2,4,3,3,3,Oui,38,Marié(e),Consulting,Manager,3,1,0
+Oui,1,4,17,3,Entrepreunariat,Frequent,0,3,2,1,3,4,3,3,Oui,43,Marié(e),Consulting,Assistant de Direction,9,1,1
+Non,3,6,12,3,Transformation Digitale,Occasionnel,0,2,3,1,2,2,2,4,Non,42,Divorcé(e),Consulting,Consultant,8,5,0
+Non,3,2,2,3,Transformation Digitale,Occasionnel,0,3,2,5,1,2,3,3,Non,55,Marié(e),Consulting,Directeur Technique,8,1,0
+Non,2,2,4,3,Entrepreunariat,Aucun,1,4,3,2,2,4,2,3,Non,33,Divorcé(e),Consulting,Assistant de Direction,5,9,0
+Non,2,2,9,4,Infra & Cloud,Occasionnel,0,3,3,1,1,2,3,4,Non,41,Divorcé(e),Consulting,Consultant,1,5,0
+Non,1,3,10,3,Infra & Cloud,Aucun,0,4,3,2,3,3,3,3,Oui,34,Divorcé(e),Commercial,Cadre Commercial,1,15,0
+Non,3,2,1,4,Transformation Digitale,Aucun,0,1,2,4,3,4,2,4,Oui,53,Marié(e),Consulting,Tech Lead,4,3,0
+Non,0,5,2,3,Infra & Cloud,Occasionnel,1,2,3,1,4,2,3,3,Non,43,Célibataire,Ressources Humaines,Ressources Humaines,0,9,0
+Non,0,3,3,2,Infra & Cloud,Occasionnel,2,4,1,2,4,1,3,3,Non,34,Célibataire,Commercial,Cadre Commercial,5,2,0
+Oui,0,3,7,1,Marketing,Occasionnel,1,2,3,1,2,2,3,3,Non,21,Célibataire,Commercial,Représentant Commercial,1,1,1
+Non,1,3,6,2,Autre,Occasionnel,0,4,2,1,3,2,3,3,Non,38,Marié(e),Consulting,Consultant,1,5,0
+Oui,0,6,8,1,Transformation Digitale,Occasionnel,0,3,3,1,1,3,3,3,Oui,22,Marié(e),Consulting,Consultant,1,1,1
+Non,2,3,29,4,Marketing,Occasionnel,5,1,2,2,4,1,3,3,Non,31,Marié(e),Commercial,Cadre Commercial,1,12,0
+Non,0,2,3,3,Entrepreunariat,Occasionnel,2,1,3,3,3,4,3,3,Non,51,Marié(e),Consulting,Senior Manager,2,2,0
+Non,2,2,9,2,Marketing,Occasionnel,0,2,2,2,2,1,3,3,Non,37,Marié(e),Commercial,Cadre Commercial,1,5,0
+Non,1,3,2,4,Transformation Digitale,Occasionnel,2,3,3,5,4,3,3,3,Oui,46,Divorcé(e),Consulting,Directeur Technique,7,2,0
+Non,1,1,10,3,Infra & Cloud,Occasionnel,5,4,3,3,1,4,3,3,Oui,36,Marié(e),Consulting,Manager,7,12,0
+Oui,3,2,1,2,Transformation Digitale,Frequent,2,3,3,1,2,3,2,3,Oui,44,Divorcé(e),Consulting,Assistant de Direction,1,5,1
+Non,0,4,8,2,Autre,Occasionnel,4,3,3,2,2,3,2,3,Non,37,Divorcé(e),Ressources Humaines,Ressources Humaines,2,10,0
+Oui,0,2,27,3,Infra & Cloud,Occasionnel,7,3,3,2,4,4,3,3,Oui,35,Célibataire,Commercial,Cadre Commercial,1,10,1
+Non,1,1,8,4,Infra & Cloud,Occasionnel,7,4,4,1,1,2,3,3,Non,33,Marié(e),Consulting,Assistant de Direction,6,10,0
+Non,1,6,1,3,Infra & Cloud,Occasionnel,0,3,3,1,4,3,4,3,Non,28,Marié(e),Consulting,Assistant de Direction,1,5,0
+Non,0,3,10,1,Transformation Digitale,Occasionnel,2,3,3,3,3,3,3,4,Non,39,Célibataire,Consulting,Directeur Technique,7,4,0
+Non,0,3,26,2,Infra & Cloud,Aucun,2,2,2,2,2,3,3,3,Non,46,Célibataire,Commercial,Cadre Commercial,8,2,0
+Non,1,5,2,2,Infra & Cloud,Occasionnel,0,3,3,1,1,4,2,3,Non,40,Marié(e),Consulting,Consultant,4,4,0
+Non,2,2,13,3,Transformation Digitale,Occasionnel,0,2,4,2,1,3,2,3,Non,42,Marié(e),Consulting,Manager,5,0,0
+Non,1,6,2,2,Transformation Digitale,Aucun,1,2,3,2,4,3,3,3,Non,35,Divorcé(e),Consulting,Tech Lead,2,7,0
+Non,3,3,2,3,Ressources Humaines,Aucun,3,1,3,1,2,4,3,3,Non,38,Divorcé(e),Ressources Humaines,Ressources Humaines,5,11,0
+Oui,1,3,9,4,Infra & Cloud,Frequent,0,4,3,2,1,3,2,3,Non,34,Marié(e),Consulting,Consultant,4,7,1
+Oui,0,4,10,4,Transformation Digitale,Occasionnel,0,4,3,2,1,2,1,3,Non,37,Célibataire,Consulting,Tech Lead,1,10,1
+Non,1,6,20,3,Infra & Cloud,Frequent,2,3,3,2,4,4,3,3,Non,39,Divorcé(e),Commercial,Cadre Commercial,2,2,0
+Non,0,2,9,3,Infra & Cloud,Aucun,1,1,3,1,3,3,2,3,Non,43,Célibataire,Consulting,Assistant de Direction,4,3,0
+Non,0,3,5,3,Infra & Cloud,Occasionnel,1,2,4,2,2,1,1,3,Non,41,Célibataire,Consulting,Manager,3,3,0
+Non,1,3,4,1,Marketing,Occasionnel,13,3,3,3,3,4,4,3,Oui,41,Divorcé(e),Commercial,Cadre Commercial,0,22,0
+Non,0,3,10,3,Transformation Digitale,Occasionnel,0,1,3,3,3,2,3,3,Non,30,Célibataire,Consulting,Tech Lead,9,7,0
+Oui,0,3,20,2,Transformation Digitale,Occasionnel,1,4,3,1,2,3,3,3,Oui,26,Marié(e),Ressources Humaines,Ressources Humaines,0,5,1
+Oui,1,2,21,2,Transformation Digitale,Occasionnel,3,4,3,2,2,4,4,4,Non,46,Marié(e),Consulting,Manager,4,9,1
+Non,1,3,1,3,Infra & Cloud,Occasionnel,0,3,3,2,4,4,3,3,Non,40,Divorcé(e),Consulting,Manager,4,5,0
+Non,2,5,8,2,Entrepreunariat,Occasionnel,4,2,4,2,3,3,3,4,Non,34,Marié(e),Commercial,Cadre Commercial,1,10,0
+Non,1,0,2,3,Transformation Digitale,Aucun,14,2,3,4,2,4,2,4,Non,58,Divorcé(e),Commercial,Senior Manager,4,16,0
+Non,1,2,23,4,Transformation Digitale,Occasionnel,0,2,1,1,3,2,4,3,Non,35,Marié(e),Consulting,Consultant,0,5,0
+Non,1,4,4,3,Infra & Cloud,Occasionnel,14,3,2,3,2,3,3,3,Oui,47,Divorcé(e),Consulting,Tech Lead,8,22,0
+Non,1,3,12,3,Infra & Cloud,Occasionnel,7,2,3,2,1,2,3,3,Non,40,Divorcé(e),Consulting,Manager,2,7,0
+Non,1,2,7,4,Transformation Digitale,Occasionnel,1,4,3,2,4,2,2,3,Non,54,Marié(e),Consulting,Assistant de Direction,4,7,0
+Non,2,3,7,4,Marketing,Frequent,2,1,3,3,1,4,3,3,Non,31,Marié(e),Commercial,Cadre Commercial,2,3,0
+Non,1,3,1,3,Transformation Digitale,Occasionnel,1,3,3,1,1,3,3,4,Non,28,Marié(e),Consulting,Assistant de Direction,1,3,0
+Non,2,4,2,4,Marketing,Occasionnel,0,2,1,2,4,1,2,4,Oui,38,Marié(e),Commercial,Représentant Commercial,2,4,0
+Non,0,4,10,3,Transformation Digitale,Occasionnel,1,3,3,2,4,1,3,3,Non,26,Célibataire,Commercial,Cadre Commercial,1,5,0
+Non,0,3,15,4,Infra & Cloud,Frequent,2,1,3,4,3,2,3,3,Oui,58,Marié(e),Consulting,Directeur Technique,2,2,0
+Non,0,4,14,3,Transformation Digitale,Aucun,0,2,3,1,3,3,1,3,Non,18,Célibataire,Consulting,Assistant de Direction,1,0,0
+Oui,0,4,18,5,Ressources Humaines,Occasionnel,0,4,4,1,1,3,3,3,Non,31,Marié(e),Ressources Humaines,Ressources Humaines,0,1,1
+Oui,3,3,13,3,Ressources Humaines,Occasionnel,2,1,2,1,1,4,3,3,Oui,29,Divorcé(e),Ressources Humaines,Ressources Humaines,4,2,1
+Non,2,3,2,4,Infra & Cloud,Aucun,5,3,3,2,3,2,4,4,Non,45,Marié(e),Commercial,Cadre Commercial,4,8,0
+Non,1,2,2,4,Autre,Occasionnel,0,4,3,2,2,4,3,4,Oui,36,Marié(e),Consulting,Assistant de Direction,4,1,0
+Non,1,5,2,4,Infra & Cloud,Frequent,7,1,3,2,4,3,3,4,Non,43,Marié(e),Commercial,Cadre Commercial,1,7,0
+Non,0,3,5,2,Infra & Cloud,Frequent,0,4,3,1,4,3,2,3,Oui,27,Célibataire,Consulting,Consultant,0,5,0
+Non,0,3,20,1,Transformation Digitale,Frequent,3,4,3,1,4,2,4,3,Non,29,Marié(e),Consulting,Consultant,1,11,0
+Non,0,2,10,4,Marketing,Frequent,0,4,3,2,4,3,4,3,Non,32,Célibataire,Commercial,Cadre Commercial,8,0,0
+Non,2,1,10,4,Entrepreunariat,Aucun,3,3,3,1,3,2,2,4,Non,42,Marié(e),Consulting,Assistant de Direction,3,6,0
+Non,0,2,9,4,Infra & Cloud,Occasionnel,2,2,3,1,3,3,3,3,Non,47,Célibataire,Consulting,Consultant,4,2,0
+Non,1,4,2,2,Infra & Cloud,Occasionnel,4,4,3,3,4,3,2,3,Non,46,Divorcé(e),Consulting,Tech Lead,3,9,0
+Non,1,2,1,2,Infra & Cloud,Aucun,2,3,3,1,4,2,3,3,Non,28,Divorcé(e),Ressources Humaines,Ressources Humaines,1,3,0
+Non,2,3,29,1,Infra & Cloud,Occasionnel,1,4,1,2,3,4,3,3,Non,29,Divorcé(e),Consulting,Manager,8,7,0
+Non,0,3,8,3,Infra & Cloud,Occasionnel,0,4,3,1,3,4,3,3,Non,42,Célibataire,Consulting,Consultant,4,0,0
+Oui,0,3,2,4,Marketing,Occasionnel,2,3,2,2,2,3,2,3,Oui,32,Célibataire,Commercial,Cadre Commercial,7,2,1
+Non,1,5,3,3,Entrepreunariat,Occasionnel,2,1,4,4,1,4,3,3,Non,46,Divorcé(e),Commercial,Cadre Commercial,2,19,0
+Non,1,5,23,1,Transformation Digitale,Occasionnel,5,2,2,2,3,4,3,4,Non,27,Marié(e),Commercial,Représentant Commercial,1,9,0
+Non,0,3,6,1,Transformation Digitale,Occasionnel,0,4,2,1,2,4,3,3,Non,29,Marié(e),Ressources Humaines,Ressources Humaines,1,1,0
+Non,0,2,6,3,Transformation Digitale,Occasionnel,6,1,2,5,3,4,3,3,Non,43,Marié(e),Consulting,Senior Manager,7,16,0
+Non,0,3,10,3,Infra & Cloud,Occasionnel,12,4,2,5,2,4,3,3,Non,48,Marié(e),Consulting,Directeur Technique,4,22,0
+Oui,0,3,24,2,Infra & Cloud,Frequent,1,4,2,1,4,2,2,4,Oui,29,Célibataire,Consulting,Assistant de Direction,1,1,1
+Oui,3,2,10,3,Infra & Cloud,Occasionnel,0,3,3,3,2,3,3,4,Non,46,Marié(e),Commercial,Cadre Commercial,5,8,1
+Non,1,2,15,3,Infra & Cloud,Frequent,7,4,2,1,1,4,2,3,Non,27,Marié(e),Consulting,Assistant de Direction,0,7,0
+Non,3,2,19,4,Autre,Occasionnel,2,4,3,2,4,2,3,3,Non,39,Divorcé(e),Consulting,Assistant de Direction,8,2,0
+Non,1,2,2,4,Entrepreunariat,Occasionnel,0,2,2,1,4,2,4,4,Non,55,Marié(e),Consulting,Assistant de Direction,8,5,0
+Non,1,3,3,3,Transformation Digitale,Occasionnel,0,2,3,1,2,4,3,3,Non,28,Marié(e),Commercial,Représentant Commercial,1,1,0
+Oui,0,3,9,3,Transformation Digitale,Occasionnel,0,2,3,1,4,3,2,3,Non,30,Célibataire,Commercial,Représentant Commercial,1,1,1
+Oui,0,2,7,1,Infra & Cloud,Occasionnel,0,4,3,1,2,1,3,4,Oui,22,Célibataire,Consulting,Assistant de Direction,1,1,1
+Non,1,4,10,4,Entrepreunariat,Occasionnel,1,2,2,2,3,1,3,3,Oui,36,Marié(e),Commercial,Cadre Commercial,1,10,0
+Non,1,2,20,3,Infra & Cloud,Occasionnel,0,2,3,2,3,1,3,3,Non,31,Divorcé(e),Consulting,Consultant,1,10,0
+Non,3,3,4,3,Infra & Cloud,Occasionnel,1,3,3,3,4,4,3,3,Oui,34,Marié(e),Commercial,Cadre Commercial,2,5,0
+Non,0,2,7,3,Infra & Cloud,Occasionnel,1,4,3,1,1,2,3,3,Non,29,Célibataire,Consulting,Consultant,3,3,0
+Non,1,2,7,4,Transformation Digitale,Occasionnel,0,4,3,2,1,3,3,4,Oui,37,Marié(e),Consulting,Assistant de Direction,5,5,0
+Non,0,2,16,2,Autre,Occasionnel,0,4,2,2,2,4,3,3,Oui,35,Marié(e),Consulting,Tech Lead,0,3,0
+Non,2,2,25,2,Infra & Cloud,Occasionnel,3,2,2,2,4,4,2,3,Non,45,Marié(e),Consulting,Tech Lead,0,9,0
+Non,0,2,2,1,Ressources Humaines,Frequent,0,2,2,2,4,4,2,4,Non,36,Célibataire,Ressources Humaines,Ressources Humaines,1,10,0
+Non,1,3,1,4,Infra & Cloud,Occasionnel,11,1,3,4,1,1,3,3,Non,40,Divorcé(e),Consulting,Senior Manager,2,19,0
+Non,1,3,1,2,Infra & Cloud,Occasionnel,1,2,2,1,3,3,2,3,Oui,26,Marié(e),Consulting,Assistant de Direction,1,1,0
+Non,0,5,2,2,Transformation Digitale,Occasionnel,0,1,4,2,3,2,2,3,Non,27,Célibataire,Commercial,Cadre Commercial,0,8,0
+Non,1,3,22,3,Transformation Digitale,Frequent,4,4,3,4,4,2,3,3,Non,48,Divorcé(e),Consulting,Senior Manager,3,22,0
+Non,1,5,1,4,Infra & Cloud,Occasionnel,2,2,4,2,1,4,3,3,Non,44,Marié(e),Consulting,Manager,2,2,0
+Oui,1,2,16,4,Entrepreunariat,Aucun,3,4,1,1,1,2,3,4,Oui,34,Marié(e),Consulting,Assistant de Direction,1,5,1
+Oui,0,3,24,2,Infra & Cloud,Occasionnel,1,1,3,1,4,4,3,3,Non,56,Célibataire,Consulting,Consultant,1,4,1
+Non,2,1,17,2,Marketing,Occasionnel,1,3,2,2,2,3,1,3,Non,36,Marié(e),Commercial,Cadre Commercial,2,4,0
+Non,1,3,8,3,Marketing,Occasionnel,1,3,3,2,2,3,3,4,Non,41,Marié(e),Commercial,Cadre Commercial,5,5,0
+Non,1,3,6,3,Transformation Digitale,Occasionnel,5,3,3,3,1,2,4,3,Non,42,Marié(e),Consulting,Directeur Technique,9,13,0
+Non,1,2,10,2,Transformation Digitale,Occasionnel,1,3,3,2,4,4,3,3,Oui,31,Divorcé(e),Commercial,Cadre Commercial,2,5,0
+Non,0,3,3,1,Transformation Digitale,Occasionnel,0,4,2,2,4,3,2,3,Oui,34,Marié(e),Commercial,Cadre Commercial,3,4,0
+Non,1,0,4,3,Transformation Digitale,Occasionnel,2,1,4,1,3,2,2,3,Non,31,Divorcé(e),Consulting,Consultant,8,2,0
+Non,1,3,6,3,Autre,Frequent,7,3,4,1,4,1,3,3,Non,26,Marié(e),Consulting,Consultant,0,7,0
+Non,0,3,1,4,Transformation Digitale,Frequent,0,2,3,2,3,3,3,3,Non,45,Célibataire,Consulting,Manager,4,4,0
+Non,0,2,10,4,Marketing,Occasionnel,0,2,3,2,3,2,2,3,Non,33,Célibataire,Commercial,Cadre Commercial,1,10,0
+Non,1,2,1,2,Infra & Cloud,Frequent,0,3,2,2,4,3,3,3,Oui,28,Marié(e),Commercial,Cadre Commercial,1,7,0
+Oui,0,3,24,3,Entrepreunariat,Frequent,0,3,4,1,1,4,3,3,Non,29,Célibataire,Commercial,Représentant Commercial,1,1,1
+Non,1,1,21,4,Infra & Cloud,Aucun,1,1,1,2,3,3,3,3,Non,39,Marié(e),Commercial,Cadre Commercial,6,3,0
+Non,1,3,2,4,Entrepreunariat,Occasionnel,1,2,3,1,2,3,2,3,Non,27,Marié(e),Consulting,Assistant de Direction,1,5,0
+Non,0,3,22,4,Autre,Frequent,6,3,2,2,4,2,3,3,Oui,34,Marié(e),Consulting,Assistant de Direction,1,15,0
+Oui,0,0,13,2,Marketing,Occasionnel,2,4,3,2,3,4,3,3,Oui,28,Célibataire,Commercial,Cadre Commercial,3,2,1
+Non,1,4,14,4,Entrepreunariat,Aucun,1,3,3,2,2,3,4,3,Non,47,Marié(e),Consulting,Assistant de Direction,8,8,0
+Non,1,3,11,5,Marketing,Occasionnel,0,4,2,2,1,3,3,3,Non,56,Marié(e),Commercial,Cadre Commercial,4,0,0
+Non,1,3,9,2,Transformation Digitale,Occasionnel,7,1,3,2,1,4,3,4,Non,39,Marié(e),Consulting,Tech Lead,1,10,0
+Non,1,3,8,3,Transformation Digitale,Frequent,0,4,2,2,2,3,3,3,Oui,38,Divorcé(e),Consulting,Assistant de Direction,1,20,0
+Non,1,2,21,3,Infra & Cloud,Occasionnel,0,4,3,4,4,3,2,3,Oui,58,Marié(e),Commercial,Senior Manager,4,1,0
+Oui,0,2,5,2,Infra & Cloud,Frequent,0,1,4,1,3,1,3,3,Oui,32,Célibataire,Consulting,Assistant de Direction,3,4,1
+Non,2,0,9,2,Infra & Cloud,Occasionnel,0,2,3,1,4,4,4,3,Non,38,Divorcé(e),Consulting,Assistant de Direction,2,5,0
+Non,0,3,2,1,Infra & Cloud,Frequent,4,2,3,5,4,4,3,3,Non,49,Marié(e),Consulting,Directeur Technique,3,5,0
+Non,2,4,12,4,Marketing,Occasionnel,0,2,3,2,4,3,3,3,Oui,42,Divorcé(e),Commercial,Cadre Commercial,3,0,0
+Oui,0,2,22,3,Ressources Humaines,Frequent,0,1,2,1,2,1,3,3,Non,27,Marié(e),Ressources Humaines,Ressources Humaines,1,1,1
+Non,1,2,18,4,Transformation Digitale,Occasionnel,0,2,3,2,1,4,1,3,Non,35,Marié(e),Commercial,Cadre Commercial,0,5,0
+Non,0,3,16,3,Transformation Digitale,Aucun,1,3,3,1,3,3,2,3,Non,28,Célibataire,Consulting,Assistant de Direction,1,5,0
+Non,1,3,3,2,Transformation Digitale,Aucun,2,3,3,1,1,4,4,3,Oui,31,Divorcé(e),Consulting,Assistant de Direction,1,4,0
+Non,0,3,9,4,Infra & Cloud,Aucun,0,1,4,1,2,2,3,4,Non,36,Marié(e),Consulting,Consultant,1,5,0
+Non,0,3,1,3,Marketing,Occasionnel,2,1,3,3,4,1,2,4,Non,34,Célibataire,Commercial,Cadre Commercial,1,14,0
+Non,1,2,13,4,Transformation Digitale,Occasionnel,1,4,3,3,3,3,2,3,Non,34,Divorcé(e),Commercial,Cadre Commercial,1,8,0
+Non,0,6,1,3,Transformation Digitale,Occasionnel,7,3,3,1,1,4,2,3,Non,26,Célibataire,Consulting,Consultant,0,7,0
+Non,1,5,1,3,Infra & Cloud,Occasionnel,0,1,3,2,1,1,2,3,Non,29,Marié(e),Consulting,Manager,0,5,0
+Non,1,6,15,4,Transformation Digitale,Aucun,1,3,3,2,4,2,3,3,Non,32,Divorcé(e),Consulting,Manager,5,5,0
+Non,0,6,1,3,Infra & Cloud,Frequent,8,4,1,2,1,2,3,4,Non,31,Marié(e),Consulting,Assistant de Direction,1,10,0
+Oui,1,2,17,3,Entrepreunariat,Occasionnel,0,3,2,1,4,1,2,3,Non,28,Divorcé(e),Consulting,Consultant,5,4,1
+Non,0,3,1,3,Infra & Cloud,Occasionnel,0,1,2,1,1,1,2,3,Non,38,Célibataire,Commercial,Représentant Commercial,4,1,0
+Non,0,2,7,4,Infra & Cloud,Occasionnel,0,3,3,2,4,4,3,3,Oui,35,Marié(e),Commercial,Cadre Commercial,1,10,0
+Non,0,5,9,3,Marketing,Occasionnel,0,4,3,2,4,1,3,3,Non,27,Célibataire,Commercial,Cadre Commercial,1,7,0
+Non,0,1,5,4,Infra & Cloud,Occasionnel,0,4,2,2,4,2,3,4,Non,32,Célibataire,Consulting,Tech Lead,8,1,0
+Oui,0,4,26,4,Marketing,Frequent,0,1,3,2,4,3,3,3,Oui,31,Marié(e),Commercial,Cadre Commercial,1,10,1
+Oui,0,2,24,4,Infra & Cloud,Occasionnel,2,1,3,3,1,2,2,3,Oui,53,Célibataire,Commercial,Cadre Commercial,6,2,1
+Non,2,6,9,2,Infra & Cloud,Occasionnel,2,1,3,2,3,3,2,3,Non,54,Marié(e),Consulting,Assistant de Direction,3,4,0
+Non,3,2,7,2,Infra & Cloud,Frequent,2,4,3,2,3,3,3,4,Non,33,Divorcé(e),Consulting,Manager,1,9,0
+Non,1,1,11,3,Infra & Cloud,Occasionnel,0,1,3,3,3,2,3,3,Non,43,Marié(e),Consulting,Manager,1,10,0
+Non,1,2,1,4,Autre,Frequent,1,4,3,1,2,2,3,3,Oui,38,Marié(e),Ressources Humaines,Ressources Humaines,0,6,0
+Non,1,0,26,4,Ressources Humaines,Occasionnel,1,3,4,5,2,1,3,3,Oui,55,Marié(e),Ressources Humaines,Senior Manager,4,10,0
+Non,3,4,2,1,Transformation Digitale,Occasionnel,0,4,1,1,4,3,3,3,Oui,31,Divorcé(e),Consulting,Consultant,1,1,0
+Non,0,3,15,4,Marketing,Occasionnel,11,2,3,4,1,1,3,3,Non,39,Célibataire,Commercial,Cadre Commercial,0,20,0
+Non,0,2,23,2,Infra & Cloud,Aucun,3,4,2,2,3,4,3,3,Non,42,Célibataire,Consulting,Assistant de Direction,1,20,0
+Non,1,2,10,3,Transformation Digitale,Aucun,4,3,3,3,3,3,4,4,Non,31,Marié(e),Consulting,Directeur Technique,4,11,0
+Non,0,3,10,3,Transformation Digitale,Occasionnel,1,3,3,2,1,4,3,3,Oui,54,Célibataire,Consulting,Tech Lead,6,5,0
+Non,0,2,1,2,Infra & Cloud,Occasionnel,1,2,2,2,3,2,2,3,Non,24,Célibataire,Consulting,Manager,1,4,0
+Non,0,6,12,2,Autre,Occasionnel,1,4,3,1,4,3,4,3,Non,23,Célibataire,Consulting,Consultant,1,5,0
+Non,1,2,11,3,Entrepreunariat,Frequent,9,4,3,2,3,1,4,3,Non,40,Marié(e),Consulting,Consultant,1,10,0
+Non,1,4,2,2,Marketing,Occasionnel,5,2,3,2,2,3,3,3,Non,40,Marié(e),Commercial,Cadre Commercial,3,11,0
+Non,0,3,2,3,Ressources Humaines,Occasionnel,1,3,3,1,2,3,3,3,Non,25,Marié(e),Ressources Humaines,Ressources Humaines,4,2,0
+Non,0,6,1,2,Transformation Digitale,Occasionnel,1,4,3,1,2,3,2,3,Non,30,Marié(e),Consulting,Consultant,1,12,0
+Non,1,2,2,1,Autre,Occasionnel,0,4,3,1,3,3,2,3,Oui,25,Divorcé(e),Consulting,Consultant,6,2,0
+Non,0,3,25,3,Transformation Digitale,Occasionnel,12,1,3,3,3,2,3,4,Non,47,Célibataire,Consulting,Manager,2,17,0
+Non,3,2,1,2,Transformation Digitale,Aucun,0,2,2,1,3,3,2,3,Non,33,Divorcé(e),Consulting,Consultant,1,1,0
+Non,2,3,1,4,Infra & Cloud,Occasionnel,5,4,3,2,2,1,3,3,Non,38,Marié(e),Commercial,Cadre Commercial,0,15,0
+Non,1,1,2,2,Infra & Cloud,Occasionnel,1,1,3,1,3,3,3,3,Non,31,Marié(e),Commercial,Représentant Commercial,0,2,0
+Non,1,1,6,4,Infra & Cloud,Frequent,7,1,2,2,3,4,3,3,Non,38,Marié(e),Consulting,Tech Lead,2,8,0
+Non,1,3,18,4,Infra & Cloud,Occasionnel,1,4,3,2,1,3,2,3,Oui,42,Divorcé(e),Consulting,Assistant de Direction,6,4,0
+Non,1,3,1,3,Infra & Cloud,Occasionnel,1,4,3,1,4,1,3,4,Non,41,Marié(e),Consulting,Assistant de Direction,3,5,0
+Non,2,3,1,1,Transformation Digitale,Aucun,5,3,3,3,2,1,1,3,Non,47,Marié(e),Consulting,Directeur Technique,0,13,0
+Non,1,3,11,4,Transformation Digitale,Occasionnel,2,4,3,1,3,3,3,3,Oui,35,Marié(e),Consulting,Consultant,7,2,0
+Non,0,2,1,2,Infra & Cloud,Occasionnel,1,4,3,1,3,4,4,3,Non,22,Célibataire,Consulting,Assistant de Direction,0,3,0
+Non,0,5,9,4,Transformation Digitale,Occasionnel,0,2,3,2,3,2,3,3,Non,35,Célibataire,Consulting,Assistant de Direction,1,10,0
+Non,1,6,15,2,Transformation Digitale,Occasionnel,8,2,3,2,4,1,3,3,Oui,33,Marié(e),Consulting,Manager,0,9,0
+Non,0,3,29,4,Infra & Cloud,Occasionnel,4,3,2,1,2,3,3,3,Non,32,Célibataire,Consulting,Consultant,1,6,0
+Non,2,3,1,4,Infra & Cloud,Occasionnel,0,1,3,1,4,3,2,3,Non,40,Marié(e),Consulting,Consultant,8,1,0
+Non,1,2,1,4,Transformation Digitale,Occasionnel,2,2,2,1,2,2,3,3,Non,32,Marié(e),Commercial,Représentant Commercial,0,2,0
+Non,0,2,24,1,Infra & Cloud,Occasionnel,1,1,3,2,4,1,3,3,Non,39,Célibataire,Consulting,Assistant de Direction,7,7,0
+Non,1,3,10,3,Transformation Digitale,Occasionnel,1,2,1,3,3,1,3,3,Non,38,Marié(e),Consulting,Directeur Technique,3,18,0
+Non,2,3,1,4,Marketing,Occasionnel,5,3,3,3,4,3,3,3,Non,32,Marié(e),Commercial,Cadre Commercial,1,14,0
+Non,1,2,10,3,Infra & Cloud,Occasionnel,6,3,4,3,4,1,3,4,Oui,37,Marié(e),Consulting,Directeur Technique,1,16,0
+Non,1,3,8,2,Autre,Occasionnel,0,1,3,2,3,2,2,4,Oui,25,Divorcé(e),Commercial,Cadre Commercial,0,5,0
+Non,2,3,29,4,Infra & Cloud,Aucun,0,1,3,1,4,2,2,3,Non,52,Divorcé(e),Commercial,Représentant Commercial,2,9,0
+Non,0,2,1,3,Transformation Digitale,Occasionnel,1,2,3,1,4,3,3,3,Oui,44,Célibataire,Consulting,Assistant de Direction,6,4,0
+Non,0,6,5,1,Transformation Digitale,Occasionnel,1,3,3,1,1,4,3,3,Oui,21,Célibataire,Commercial,Représentant Commercial,1,2,0
+Non,0,3,9,3,Infra & Cloud,Aucun,1,4,3,5,4,3,2,3,Non,39,Célibataire,Consulting,Senior Manager,2,6,0
+Oui,1,3,9,3,Marketing,Frequent,1,4,3,1,1,1,2,3,Non,23,Marié(e),Commercial,Représentant Commercial,1,1,1
+Non,2,2,3,3,Transformation Digitale,Occasionnel,3,1,2,3,4,3,3,3,Non,36,Marié(e),Commercial,Cadre Commercial,0,9,0
+Non,3,3,4,2,Infra & Cloud,Frequent,0,4,3,2,2,2,3,3,Non,36,Divorcé(e),Consulting,Tech Lead,7,4,0
+Non,1,2,1,4,Infra & Cloud,Aucun,1,3,3,2,3,1,2,4,Non,56,Divorcé(e),Consulting,Manager,1,13,0
+Oui,3,3,1,4,Transformation Digitale,Occasionnel,2,1,3,1,4,2,4,3,Oui,29,Marié(e),Consulting,Assistant de Direction,9,2,1
+Non,0,2,2,3,Infra & Cloud,Occasionnel,4,1,3,5,3,1,2,3,Non,42,Marié(e),Consulting,Senior Manager,5,22,0
+Oui,1,4,7,2,Entrepreunariat,Occasionnel,9,4,3,1,3,4,1,3,Non,56,Marié(e),Consulting,Consultant,8,10,1
+Non,1,3,28,4,Infra & Cloud,Occasionnel,0,1,2,4,2,3,3,4,Non,41,Marié(e),Consulting,Tech Lead,0,20,0
+Non,2,2,28,3,Marketing,Occasionnel,1,4,2,2,3,4,3,4,Non,34,Marié(e),Commercial,Cadre Commercial,1,8,0
+Non,1,4,15,4,Marketing,Aucun,11,4,1,2,4,1,2,4,Non,36,Divorcé(e),Commercial,Cadre Commercial,1,15,0
+Non,1,5,3,3,Infra & Cloud,Occasionnel,0,3,2,2,2,3,3,3,Non,41,Divorcé(e),Commercial,Cadre Commercial,2,5,0
+Non,0,4,2,3,Entrepreunariat,Occasionnel,1,4,3,1,1,4,3,3,Non,32,Célibataire,Consulting,Assistant de Direction,1,4,0
+Non,0,2,26,4,Infra & Cloud,Occasionnel,1,3,3,3,4,3,3,3,Oui,35,Célibataire,Ressources Humaines,Ressources Humaines,1,9,0
+Non,1,1,10,2,Infra & Cloud,Occasionnel,1,1,3,2,4,3,3,3,Non,38,Marié(e),Commercial,Cadre Commercial,1,10,0
+Oui,2,3,1,4,Infra & Cloud,Frequent,0,2,3,2,3,4,3,3,Non,50,Divorcé(e),Commercial,Cadre Commercial,7,6,1
+Non,1,2,11,4,Marketing,Occasionnel,0,2,2,2,4,1,2,3,Non,36,Marié(e),Commercial,Cadre Commercial,4,6,0
+Non,0,3,20,3,Infra & Cloud,Occasionnel,0,4,3,2,3,3,3,3,Non,45,Célibataire,Commercial,Cadre Commercial,8,5,0
+Non,0,2,2,4,Infra & Cloud,Occasionnel,2,3,2,1,3,4,3,3,Non,40,Célibataire,Consulting,Assistant de Direction,2,2,0
+Non,2,2,18,4,Infra & Cloud,Frequent,0,3,3,2,3,4,4,3,Oui,35,Marié(e),Consulting,Manager,1,10,0
+Non,3,2,2,4,Transformation Digitale,Occasionnel,0,3,3,1,3,2,3,3,Non,40,Marié(e),Consulting,Assistant de Direction,2,5,0
+Non,1,5,1,4,Infra & Cloud,Occasionnel,1,3,1,1,4,4,3,3,Non,35,Marié(e),Consulting,Assistant de Direction,1,4,0
+Non,1,2,13,2,Autre,Occasionnel,0,4,2,2,2,1,3,3,Oui,29,Marié(e),Consulting,Consultant,4,4,0
+Non,0,3,28,4,Transformation Digitale,Occasionnel,0,4,2,1,1,2,1,3,Non,29,Célibataire,Consulting,Assistant de Direction,1,5,0
+Oui,1,3,28,3,Marketing,Occasionnel,2,4,2,3,1,2,3,3,Oui,50,Divorcé(e),Commercial,Cadre Commercial,4,3,1
+Non,1,2,24,1,Marketing,Occasionnel,9,2,2,4,4,1,2,3,Non,39,Marié(e),Commercial,Cadre Commercial,0,20,0
+Non,0,2,5,3,Transformation Digitale,Aucun,1,2,3,2,1,2,3,3,Non,31,Célibataire,Consulting,Tech Lead,0,9,0
+Non,0,2,5,3,Autre,Occasionnel,0,4,2,1,3,4,3,3,Non,26,Célibataire,Commercial,Représentant Commercial,0,4,0
+Non,1,3,23,2,Transformation Digitale,Frequent,0,3,4,2,4,3,3,3,Non,36,Marié(e),Consulting,Consultant,4,5,0
+Non,1,5,6,1,Transformation Digitale,Occasionnel,1,4,2,3,1,1,3,3,Non,39,Marié(e),Consulting,Manager,4,7,0
+Non,1,0,4,3,Infra & Cloud,Occasionnel,0,2,4,2,2,2,3,4,Oui,27,Marié(e),Consulting,Tech Lead,1,6,0
+Non,0,3,2,3,Transformation Digitale,Frequent,0,4,2,2,2,4,2,3,Non,49,Marié(e),Commercial,Cadre Commercial,2,9,0
+Non,0,3,8,3,Transformation Digitale,Occasionnel,1,2,4,2,3,1,4,3,Non,34,Marié(e),Consulting,Consultant,2,4,0
