@@ -55,8 +55,8 @@ L’entreprise fait face à un **turnover anormalement élevé** et souhaite :
 
 ### Cloner le projet
 ```bash
-git clone https://github.com/LyAbdourahmane/Finding-the-reasons-for-resignation-at-Chea-Technova-Partners.git
-cd Finding-the-reasons-for-resignation-at-Chea-Technova-Partners
+git clone https://github.com/LyAbdourahmane/Finding-the-reasons-for-resignation-at-Technova-Partners.git
+cd Finding-the-reasons-for-resignation-at-Technova-Partners
 ````
 
 ### Créer l’environnement avec **Poetry**
